@@ -1,0 +1,15 @@
+Package: IndianaCOVID19TrackerData
+Title: Indiana COVID-19 Tracker Project Data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Eric",
+           family = "Book",
+           role = c("aut", "cre"),
+           email = "ercbkax0@gmail.com")
+Description: Provides access to processed data from the Indiana COVID-19 Tracker Project.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
