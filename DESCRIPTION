@@ -7,8 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "ercbkax0@gmail.com")
 Description: Provides access to processed data from the Indiana COVID-19 Tracker Project.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
