@@ -1,0 +1,28 @@
+
+
+
+template:
+  params:
+    bootswatch: yeti
+    ganalytics: UA-115551023-1
+
+
+reference:
+  - title: Data
+    contents:
+    - age_cases_heat
+    - age_death_line
+    - age_hosp_line
+    - beds_vents_complete
+    - hosp_msas_line
+    - hosp_react_tab
+    - ind_age_complete
+    - ind_race_complete
+    - median_age_bubble
+    - mort_hosp_line
+    - msa_cases100_posrate_historic
+    - dash_ci_line
+    - illinois_tests_complete
+    - ind_tests_complete
+    - mich_tests_complete
+    - wisc_tests_complete
