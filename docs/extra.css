@@ -26,6 +26,7 @@ body {
 }
 
 
+
 /* navbar ----------------------------------------------- */
 
 /* fatter navbar, no bottom border line */
@@ -43,4 +44,18 @@ body {
   font-size: 1em;
 }
 
+
+/*----Copy Buttons ----*/
+
+
+.btn-primary {
+  background-color: #000;
+}
+
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active:hover {
+  background-color: #000;
+}
 
