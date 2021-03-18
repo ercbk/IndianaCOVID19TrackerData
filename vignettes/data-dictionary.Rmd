@@ -574,7 +574,7 @@ Illinois Department of Public Health: [website](http://www.dph.illinois.gov/coun
 Indiana Data Hub: [website](https://hub.mph.in.gov/dataset?q=COVID)
 
 ### Notes  
-The missing values for `pos_rate` are partly because this dataset has a row for every day and the positivity rate is calculated every week. The other missing values are for Cincinnati, Louisville, and Evansville. At the time this dashboard was created, those states with counties included in those areas didn't publicly release the necessary data to calcuate the positivity rates for those areas.
+The missing values for `pos_rate` are partly because this dataset has a row for every day and the positivity rate is calculated every week. The other missing values are for Cincinnati, Louisville, and Evansville. At the time this dashboard was created, those states with counties included in those areas didn't publicly release the necessary data to calcuate their positivity rates.
 
 Other variables:  
 - `date`: yyyy-mm-dd format; date for daily `cases_100k`  
