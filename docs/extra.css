@@ -10,6 +10,7 @@ h1, h2, h3, h4, .h1, .h2, .h3, .h4 {
   font-family: 'Oswald', sans-serif;
 }
 
+/* increases h1 a little and decreases h2 a little; dunno about h3 */
 h1 {font-size: 40px;}
 h2 {font-size: 30px;}
 h3 {font-size: 23px;}

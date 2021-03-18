@@ -31,6 +31,9 @@ library(gtsummary)
 ### Description  
 Processed data for Demographics [heatmaps](https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html#cases-by-age) that shows a breakdown of weekly COVID-19 cases by age group.  
 
+### Dataset
+[age_cases_heat](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/age_cases_heat.html)  
+
 ### Script  
 Processing: [process-demog-data.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/process/process-demog-data.R)  
 
@@ -85,6 +88,9 @@ tbl_summary(age_cases_heat,
 ### Description  
 Processed data for Demographics [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html#deaths-by-age) that shows counts and trends of weekly COVID-19 deaths by age group.  
 
+### Dataset
+[age_death_line](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/age_death_line.html)  
+
 ### Script  
 Processing: [process-demog-data.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/process/process-demog-data.R)  
 
@@ -137,6 +143,10 @@ tbl_summary(age_death_line,
 
 ### Description  
 Raw data for the Hospitals [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#state-hospital-mortality-staffing-shortages-admissions) that shows daily COVID-19 hospital admissions by age group and gender.  
+
+### Dataset
+[age_hosp_line](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/age_hosp_line.html)  
+
 
 ### Script  
 Collection: [scrape-regenstrief-tableau.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/collection/scrape-regenstrief-tableau.R)  
@@ -193,6 +203,9 @@ tbl_summary(age_hosp_line,
 ### Description  
 Raw data for the Static Charts [Hospitalizations, ICU Beds and Ventilator Availability](https://ercbk.github.io/Indiana-COVID-19-Website/static.html#Hospitalizations,_ICU_Beds_and_Ventilator_Availability) that shows resource counts of ICU beds and ventilators.  
 
+### Dataset
+[beds_vents_complete](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/beds_vents_complete.html)  
+
 ### Script  
 Collection: [build-datasets.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/collection/build-datasets.R)  
 
@@ -243,6 +256,9 @@ tbl_summary(beds_vents_complete,
 ### Description  
 Processed data for Hospitals [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#state-hospital-mortality-staffing-shortages-admissions) that shows state hospital staff shortages, hospital mortality rate, hospital admissions, and age skewness of hospital admissions towards older patients.  
 
+### Dataset
+[hosp_msas_line](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/hosp_msas_line.html)  
+
 ### Script  
 Process: [process-hospitals-data.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/process/process-hospitals-data.R)  
 
@@ -289,6 +305,9 @@ tbl_summary(hosp_msas_line,
 
 ### Description  
 Processed data for the Hospitals [Local Hospital Capacity table](https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#local-hospital-capacity) that shows capacity measures and counts of COVID-19 patients for hospitals at the local level.  
+
+### Dataset
+[hosp_react_tab](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/hosp_react_tab.html)  
 
 ### Script  
 Process: [process-hospitals-data.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/process/process-hospitals-data.R)  
@@ -341,6 +360,9 @@ tbl_summary(hosp_react_tab,
 
 ### Description  
 Raw data for Demographics [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html) that shows daily case and death counts by age group.  
+
+### Dataset
+[ind_age_complete](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/ind_age_complete.html)  
 
 ### Script  
 Collection: [build-datasets.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/collection/build-datasets.R)  
@@ -400,6 +422,9 @@ tbl_summary(ind_age_complete,
 ### Description  
 Raw data that shows daily case and death counts by race.  
 
+### Dataset
+[ind_race_complete](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/ind_race_complete.html)  
+
 ### Script  
 Collection: [build-datasets.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/collection/build-datasets.R)  
 
@@ -437,6 +462,9 @@ tbl_summary(ind_race_complete,
 
 ### Description  
 Processed data for the Demographics [bubble chart](https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html#median-age-of-cases-tests-deaths) that shows the number of tests, number of deaths, and median age of the cases per week.  
+
+### Dataset
+[median_age_bubble](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/median_age_bubble.html)  
 
 ### Script  
 Processing: [process-demog-data.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/process/process-demog-data.R)
@@ -483,6 +511,9 @@ tbl_summary(median_age_bubble,
 ### Description  
 Raw data for the Hospitals [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#state-hospital-mortality-staffing-shortages-admissions) that shows daily COVID-19 hospital admissions, hospital deaths, and hospital death rate.  
 
+### Dataset
+[mort_hosp_line](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/mort_hosp_line.html)  
+
 ### Script  
 Collection: [scrape-regenstrief-tableau.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/collection/scrape-regenstrief-tableau.R)  
 
@@ -528,6 +559,9 @@ tbl_summary(mort_hosp_line,
 
 ### Description  
 Processed data for the [Indiana COVIDcast Dashboard](https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard) that shows weekly positivity rate and daily cases per 100,000 residents per metropolitan statistical area.    
+
+### Dataset
+[msa_cases100_posrate_historic](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/msa_cases100_posrate_historic.html)  
 
 ### Scripts  
 Processing: [process-hist-regional-dat.R](https://github.com/ercbk/Indiana-COVIDcast-Dashboard/blob/master/R/process-hist-regional-dat.R)  
@@ -583,6 +617,9 @@ tbl_summary(msa_cases100_posrate_historic,
 ### Description  
 Processed data for the [Indiana COVIDcast Dashboard](https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard) that shows historic daily values of Delphi Research Group's Combined Indicator for each methropolitan statistical area.    
 
+### Dataset
+[dash_ci_line](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/dash_ci_line.html)  
+
 ### Scripts  
 Processing: [process-dashboard-data.R](https://github.com/ercbk/Indiana-COVIDcast-Dashboard/blob/master/R/process-dashboard-data.R)  
 
@@ -624,6 +661,9 @@ tbl_summary(dash_ci_line,
 
 ### Description  
 Raw data for the [Indiana COVIDcast Dashboard](https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard) that shows various weekly COVID-19 county statistics for Illinois    
+
+### Dataset
+[illinois_tests_complete](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/illinois_tests_complete.html)  
 
 ### Scripts  
 Collection: [build-regional-dat.R](https://github.com/ercbk/Indiana-COVIDcast-Dashboard/blob/master/R/build-regional-dat.R)  
@@ -675,6 +715,8 @@ tbl_summary(illinois_tests_complete,
 ### Description  
 Raw data for the [Indiana COVIDcast Dashboard](https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard) that shows daily COVID-19 county test results for Indiana    
  
+### Dataset
+[ind_tests_complete](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/ind_tests_complete.html)  
 
 ### Scripts  
 Collection: [build-regional-dat.R](https://github.com/ercbk/Indiana-COVIDcast-Dashboard/blob/master/R/build-regional-dat.R)  
@@ -718,6 +760,9 @@ tbl_summary(ind_tests_complete,
 ### Description  
 Raw data for the [Indiana COVIDcast Dashboard](https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard) that shows daily COVID-19 county test results for Michigan    
 
+### Dataset
+[mich_tests_complete](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/mich_tests_complete.html)  
+
 ### Scripts  
 Collection: [build-regional-dat.R](https://github.com/ercbk/Indiana-COVIDcast-Dashboard/blob/master/R/build-regional-dat.R)  
 
@@ -760,6 +805,9 @@ tbl_summary(mich_tests_complete,
 
 ### Description  
 Raw data for the [Indiana COVIDcast Dashboard](https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard) that shows daily COVID-19 county test results for Wisconsin    
+
+### Dataset
+[wisc_tests_complete](https://ercbk.github.io/IndianaCOVID19TrackerData/reference/wisc_tests_complete.html)  
 
 ### Scripts  
 Collection: [build-regional-dat.R](https://github.com/ercbk/Indiana-COVIDcast-Dashboard/blob/master/R/build-regional-dat.R)  
