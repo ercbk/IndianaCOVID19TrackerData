@@ -13,6 +13,9 @@ wisc_tests_complete
 \description{
 Raw data for the \href{https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard}{Indiana COVIDcast Dashboard} that shows daily COVID-19 county test results for Wisconsin
 }
+\details{
+Data Dictionary \href{https://ercbk.github.io/IndianaCOVID19TrackerData/articles/data-dictionary.html#historical-daily-covid-19-test-results-for-wisconsin-counties-1}{entry}
+}
 \examples{
 head(wisc_tests_complete)
 }

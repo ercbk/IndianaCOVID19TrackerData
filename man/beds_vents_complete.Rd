@@ -13,6 +13,9 @@ beds_vents_complete
 \description{
 Raw data for the Static Charts \href{https://ercbk.github.io/Indiana-COVID-19-Website/static.html#Hospitalizations,_ICU_Beds_and_Ventilator_Availability}{Hospitalizations, ICU Beds and Ventilator Availability} that shows resource counts of ICU beds and ventilators.
 }
+\details{
+Data Dictionary \href{https://ercbk.github.io/IndianaCOVID19TrackerData/articles/data-dictionary.html#historical-daily-icu-beds-and-ventilators-for-indiana-1}{entry}
+}
 \examples{
 head(beds_vents_complete)
 }

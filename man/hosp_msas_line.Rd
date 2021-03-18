@@ -13,6 +13,9 @@ hosp_msas_line
 \description{
 Processed data for Hospitals \href{https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#state-hospital-mortality-staffing-shortages-admissions}{line charts} that shows state hospital staff shortages, hospital mortality rate, hospital admissions, and age skewness of hospital admissions towards older patients.
 }
+\details{
+Data Dictionary \href{https://ercbk.github.io/IndianaCOVID19TrackerData/articles/data-dictionary.html#historical-state-hospital-staff-shortages-hospital-mortality-rate-hospital-admissions-and-ages-skewness-of-admissions-for-indiana-1}{entry}
+}
 \examples{
 head(hosp_msas_line)
 }

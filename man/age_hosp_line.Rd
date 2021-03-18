@@ -13,6 +13,9 @@ age_hosp_line
 \description{
 Raw data for the Hospitals \href{https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#state-hospital-mortality-staffing-shortages-admissions}{line charts} that shows daily COVID-19 hospital admissions by age group and gender.
 }
+\details{
+Data Dictionary \href{https://ercbk.github.io/IndianaCOVID19TrackerData/articles/data-dictionary.html#historical-daily-covid-19-hospital-admissions-by-age-group-for-indiana-1}{entry}
+}
 \examples{
 head(age_hosp_line)
 }

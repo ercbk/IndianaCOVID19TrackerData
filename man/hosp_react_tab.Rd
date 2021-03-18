@@ -13,6 +13,9 @@ hosp_react_tab
 \description{
 Processed data for the Hospitals \href{https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#local-hospital-capacity}{Local Hospital Capacity table} that shows capacity measures and counts of COVID-19 patients for hospitals at the local level.
 }
+\details{
+Data Dictionary \href{https://ercbk.github.io/IndianaCOVID19TrackerData/articles/data-dictionary.html#local-hospital-capacity-for-indiana-1}{entry}
+}
 \examples{
 head(hosp_react_tab)
 }

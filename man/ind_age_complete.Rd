@@ -13,6 +13,9 @@ ind_age_complete
 \description{
 Raw data for Demographics \href{https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html}{line charts} that shows daily case and death counts by age group.
 }
+\details{
+Data Dictionary \href{https://ercbk.github.io/IndianaCOVID19TrackerData/articles/data-dictionary.html#historical-daily-tests-cases-and-deaths-by-age-for-indiana-1}{entry}
+}
 \examples{
 head(ind_age_complete)
 }

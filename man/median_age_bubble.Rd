@@ -13,6 +13,9 @@ median_age_bubble
 \description{
 Processed data for the Demographics \href{https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html#median-age-of-cases-tests-deaths}{bubble chart} that shows the number of tests, number of deaths, and median age of the cases per week.
 }
+\details{
+Data Dictionary \href{https://ercbk.github.io/IndianaCOVID19TrackerData/articles/data-dictionary.html#historical-weekly-median-age-of-cases-weekly-tests-and-deaths-for-indiana-1}{entry}
+}
 \examples{
 head(median_age_bubble)
 }

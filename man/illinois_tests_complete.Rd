@@ -13,6 +13,9 @@ illinois_tests_complete
 \description{
 Raw data for the \href{https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard}{Indiana COVIDcast Dashboard} that shows various weekly COVID-19 county statistics for Illinois
 }
+\details{
+Data Dictionary \href{https://ercbk.github.io/IndianaCOVID19TrackerData/articles/data-dictionary.html#historical-weekly-covid-19-statistics-and-counts-for-illinois-counties-1}{entry}
+}
 \examples{
 head(illinois_tests_complete)
 }

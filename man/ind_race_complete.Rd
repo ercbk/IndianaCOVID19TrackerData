@@ -13,6 +13,9 @@ ind_race_complete
 \description{
 Raw data that shows daily case and death counts by race.
 }
+\details{
+Data Dictionary \href{https://ercbk.github.io/IndianaCOVID19TrackerData/articles/data-dictionary.html#historical-daily-cases-and-deaths-by-race-for-indiana-1}{entry}
+}
 \examples{
 head(ind_race_complete)
 }

@@ -47,11 +47,9 @@ body {
 
 /*----Copy Buttons ----*/
 
-
 .btn-primary {
   background-color: #000;
 }
-
 
 .btn-primary:hover,
 .btn-primary:focus,
