@@ -30,6 +30,14 @@ table th {
   font-size: 16px;
 }
 
+/* increase font-size of text inside gt tables */
+table tr {
+  font-size: 16px;
+}
+
+
+
+
 /* increases margin between top header and navabar */
 .contents .page-header {
   margin-top: 10px;
