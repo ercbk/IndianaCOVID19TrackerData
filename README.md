@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# IndianaCOVID19TrackerData
+# indianacovid19data
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -16,10 +16,10 @@ Visualizations created using this data can be seen at the
 
 ## Installation
 
-You can install the latest version of IndianaCOVID19TrackerData from
+You can install the latest version of indianacovid19data from
 Github with:
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("ercbk/IndianaCOVID19TrackerData")
+remotes::install_github("ercbk/indianacovid19data")
 ```

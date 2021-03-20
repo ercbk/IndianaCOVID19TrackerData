@@ -14,7 +14,7 @@ dash_ci_line
 Processed data for the \href{https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard}{Indiana COVIDcast Dashboard} that shows historic daily values of Delphi Research Group's Combined Indicator for each methropolitan statistical area.
 }
 \details{
-Data Dictionary \href{https://ercbk.github.io/IndianaCOVID19TrackerData/articles/data-dictionary.html#historical-daily-values-of-delphi-research-groups-combined-indicator-for-indiana-1}{entry}
+Data Dictionary \href{https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#historical-daily-values-of-delphi-research-groups-combined-indicator-for-indiana-1}{entry}
 }
 \examples{
 head(dash_ci_line)

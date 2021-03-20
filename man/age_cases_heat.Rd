@@ -14,7 +14,7 @@ age_cases_heat
 Processed data for Demographics \href{https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html#cases-by-age}{heatmaps} that shows a breakdown of weekly COVID-19 cases by age group.
 }
 \details{
-Data Dictionary \href{https://ercbk.github.io/IndianaCOVID19TrackerData/articles/data-dictionary.html#historical-weekly-covid-19-cases-by-age-for-indiana-1}{entry}
+Data Dictionary \href{https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#historical-weekly-covid-19-cases-by-age-for-indiana-1}{entry}
 }
 \examples{
 head(age_cases_heat)

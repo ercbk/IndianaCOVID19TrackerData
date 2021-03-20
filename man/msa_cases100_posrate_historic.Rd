@@ -14,7 +14,7 @@ msa_cases100_posrate_historic
 Processed data for the \href{https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard}{Indiana COVIDcast Dashboard} that shows weekly positivity rate and daily cases per 100,000 residents per metropolitan statistical area.
 }
 \details{
-Data Dictionary \href{https://ercbk.github.io/IndianaCOVID19TrackerData/articles/data-dictionary.html#historical-weekly-positivity-rates-and-daily-cases-per-100-000-indiana-residents}{entry}
+Data Dictionary \href{https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#historical-weekly-positivity-rates-and-daily-cases-per-100-000-indiana-residents}{entry}
 }
 \examples{
 head(msa_cases100_posrate_historic)

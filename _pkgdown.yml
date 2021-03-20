@@ -25,7 +25,7 @@ reference:
     - wisc_tests_complete
 
 navbar:
-  title: "IndianaCOVID19TrackerData"
+  title: "indianacovid19data"
   left:
     - icon: fa-home
       href: index.html

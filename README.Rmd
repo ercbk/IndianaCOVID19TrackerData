@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# IndianaCOVID19TrackerData
+# indianacovid19data
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -22,10 +22,10 @@ This R package provides access to most of the processed and raw datasets from [I
 
 ## Installation
 
-You can install the latest version of IndianaCOVID19TrackerData from Github with:
+You can install the latest version of indianacovid19data from Github with:
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("ercbk/IndianaCOVID19TrackerData")
+remotes::install_github("ercbk/indianacovid19data")
 ```
 
