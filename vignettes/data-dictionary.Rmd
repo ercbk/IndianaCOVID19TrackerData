@@ -322,9 +322,9 @@ Other variables:
 - `address`: char, Street address of hospital  
 - `city_zip`: char, City and zip code  
 - `county_name`: char, Name of county  
-- `avgCovIceuTenKList`: nested list, `end_date` and average daily number of ICU beds being used by confirmed and suspected COVID-19 patients over the weekly interval  
+- `avgCovIcuTenKList`: nested list, `end_date` and average daily number of ICU beds being used by confirmed and suspected COVID-19 patients over the weekly interval  
 - `avgCovHospTenKList`: nested list, `end_date` and average daily number of hospital beds being used by confirmed and suspected COVID-19 patients over the weekly interval  
-- `avgTotImpBedsList`: `end_date` and average daily number of staffed total beds available over the weekly interval  
+- `avgTotImpBedsList`: `end_date` and `avgTotImpBeds`, the average daily number of staffed total beds available over the weekly interval  
 \
 
 ```{r, asis=TRUE}

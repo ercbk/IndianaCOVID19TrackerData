@@ -1,0 +1,126 @@
+end_date,hospital_name,address,city_zip,county_name,sev_day_icu_perc_occup,sev_day_hosp_perc_occup
+2020-12-03,Indiana Spine Hospital,13219 N Meridian St,"Carmel, IN 46032",Hamilton,NA,0.2
+2021-03-04,Adams Memorial Hospital,1100 Mercer Ave,"Decatur, IN 46733",Adams,0.7666666666666666,0.49166666666666664
+2021-03-04,Lutheran Hospital Of Indiana,7950 W Jefferson Blvd,"Fort Wayne, IN 46804",Allen,0.7906976744186046,0.8750000000000001
+2021-03-04,Parkview Regional Medical Center,11109 Parkview Plaza Drive,"Fort Wayne, IN 46845",Allen,0.7359550561797753,0.8060785368477675
+2021-03-04,The Orthopedic Hospital Of Lutheran Health Network,7952 W Jefferson Blvd,"Fort Wayne, IN 46804",Allen,NA,0.3435897435897436
+2021-03-04,Dupont Hospital LLC,2520 E Dupont Rd,"Fort Wayne, IN 46825",Allen,0.5900000000000001,0.5346666666666667
+2021-03-04,Orthopaedic Hospital At Parkview North LLC,11130 Parkview Circle Dr,"Fort Wayne, IN 46845",Allen,NA,0.31351351351351353
+2021-03-04,St Joseph Hospital,700 Broadway,"Fort Wayne, IN 46802",Allen,0.425,0.3971014492753623
+2021-03-04,Columbus Regional Hospital,2400 E 17th St,"Columbus, IN 47201",Bartholomew,0.5352941176470588,NA
+2021-03-04,Indiana University Health Blackford Hospital,410 Pilgrim Blvd,"Hartford City, IN 47348",Blackford,NA,0.05555833333333334
+2021-03-04,Witham Health Services,2605 N Lebanon St,"Lebanon, IN 46052",Boone,0.5409090909090909,0.6607843137254903
+2021-03-04,Memorial Hospital,1101 Michigan Ave,"Logansport, IN 46947",Cass,0.40002000000000004,0.40399999999999997
+2021-03-04,Clark Memorial Health,1220 Missouri Ave,"Jeffersonville, IN 47130",Clark,0.7615384615384616,0.7108350586611456
+2021-03-04,Ascension St Vincent Clay,1206 E National Ave,"Brazil, IN 47834",Clay,NA,0.18182727272727275
+2021-03-04,Indiana University Health Frankfort Inc,1300 S Jackson St,"Frankfort, IN 46041",Clinton,NA,0.23888888888888887
+2021-03-04,Daviess Community Hospital,1314 E Walnut St,"Washington, IN 47501",Daviess,0.28572857142857144,0.6710144927536231
+2021-03-04,St Elizabeth Dearborn Hospital,600 Wilson Creek Rd,"Lawrenceburg, IN 47025",Dearborn,0.2500125,0.5428571428571428
+2021-03-04,Decatur County Memorial Hospital,720 N Lincoln St,"Greensburg, IN 47240",Decatur,NA,0.446875
+2021-03-04,Parkview Dekalb Hospital,1316 E Seventh St,"Auburn, IN 46706",DeKalb,0.2500125,0.5243243243243243
+2021-03-04,Indiana University Health Ball Memorial Hospital,2401 University Ave,"Muncie, IN 47303",Delaware,0.6475,0.44496919917864475
+2021-03-04,Central Indiana  Amg Specialty Hospital LLC,2401 W University Ave 5th Floor East Tower,"Muncie, IN 47303",Delaware,NA,0.815625
+2021-03-04,Memorial Hospital And Health Care Center,800 W 9th St,"Jasper, IN 47546",Dubois,0.41923076923076924,0.452991452991453
+2021-03-04,Elkhart General Hospital,600 E Blvd,"Elkhart, IN 46514",Elkhart,0.508695652173913,0.7026737967914439
+2021-03-04,Goshen General Hospital,200 High Park Ave,"Goshen, IN 46526",Elkhart,0.6461538461538462,0.5224137931034483
+2021-03-04,Physicians' Medical Center LLC,4023 Reas Ln,"New Albany, IN 47150",Floyd,NA,0.2578947368421053
+2021-03-04,Baptist Health Floyd,1850 State St,"New Albany, IN 47150",Floyd,0.8875,0.7983050847457628
+2021-03-04,Woodlawn Hospital,1400 E 9th St,"Rochester, IN 46975",Fulton,0.500025,0.316
+2021-03-04,Deaconess Gibson Hospital,1808 Sherman Dr,"Princeton, IN 47670",Gibson,0,0.04545681818181819
+2021-03-04,Marion General Hospital,441 N Wabash Ave,"Marion, IN 46952",Grant,0.5736842105263158,0.6404494382022472
+2021-03-04,Greene County General Hospital,1185 N 1000 W,"Linton, IN 47441",Greene,0.40002000000000004,0.324
+2021-03-04,Riverview Health,395 Westfield Rd,"Noblesville, IN 46060",Hamilton,0.5066666666666666,0.41046511627906973
+2021-03-04,Indiana University Health North Hospital,11700 N Meridian St,"Carmel, IN 46032",Hamilton,0.5,0.5223776223776224
+2021-03-04,Ascension St Vincent Heart Center,10580 N Meridian St,"Carmel, IN 46290",Hamilton,0.77,0.6099009900990099
+2021-03-04,Ascension St Vincent Carmel,13500 N Meridian St,"Carmel, IN 46032",Hamilton,0.6867469879518072,0.5460176991150443
+2021-03-04,Ascension St Vincent Fishers,13861 Olio Road,"Fishers, IN 46037",Hamilton,NA,0.34551495016611294
+2021-03-04,Hancock Regional Hospital,801 N State St,"Greenfield, IN 46140",Hancock,0.3868421052631579,0.32093023255813957
+2021-03-04,Harrison County Hospital,1141 Hospital Dr Nw,"Corydon, IN 47112",Harrison,0.500025,0.524
+2021-03-04,IU Health West Hospital,1111 N Ronald Reagan Pkwy,"Avon, IN 46123",Hendricks,0.5571428571428572,0.8320610687022901
+2021-03-04,Hendricks Regional Health,1000 E Main St,"Danville, IN 46122",Hendricks,0.34500000000000003,0.4512471655328798
+2021-03-04,Henry County Memorial Hospital,1000 N 16th St,"New Castle, IN 47362",Henry,0.28,0.31126760563380285
+2021-03-04,Ascension St Vincent Kokomo,1907 W Sycamore St,"Kokomo, IN 46904",Howard,0.5952380952380952,0.5119250425894378
+2021-03-04,Community Howard Regional Health Inc,3500 S Lafountain St,"Kokomo, IN 46902",Howard,0.8375,0.49042553191489363
+2021-03-04,Parkview Huntington Hospital,2001 Stults Rd,"Huntington, IN 46750",Huntington,0.33335000000000004,0.4473684210526316
+2021-03-04,Schneck Medical Center,411 W Tipton St,"Seymour, IN 47274",Jackson,0.18205128205128204,0.14608294930875576
+2021-03-04,"Franciscan Health Rensselaer, Inc",1104 E Grace St,"Rensselaer, IN 47978",Jasper,0,0.3111111111111111
+2021-03-04,IU Health Jay,500 W Votaw St,"Portland, IN 47371",Jay,NA,0.05679012345679012
+2021-03-04,King's Daughters' Health,1373 East Sr 62,"Madison, IN 47250",Jefferson,0.9333333333333332,0.7203703703703703
+2021-03-04,Ascension St Vincent Jennings,301 Henry St,"North Vernon, IN 47265",Jennings,NA,0.17544736842105266
+2021-03-04,Johnson Memorial Hospital,1125 W Jefferson St,"Franklin, IN 46131",Johnson,0.47000000000000003,0.30289855072463767
+2021-03-04,Good Samaritan Hospital,520 S 7th St,"Vincennes, IN 47591",Knox,0.496551724137931,0.6527777777777778
+2021-03-04,Kosciusko Community Hospital,2101 E Dubois Dr,"Warsaw, IN 46580",Kosciusko,0.5444444444444445,0.5236111111111111
+2021-03-04,Parkview Lagrange Hospital,207 N Townline Rd,"Lagrange, IN 46761",LaGrange,NA,0.452
+2021-03-04,Franciscan Health Hammond,5454 Hohman Ave,"Hammond, IN 46320",Lake,0.7928571428571428,0.6528455284552845
+2021-03-04,St Mary Medical Center Inc,1500 S Lake Park Ave,"Hobart, IN 46342",Lake,0.67,0.6775229357798165
+2021-03-04,Vibra Hospital Of Northwestern Indiana,9509 Georgia Street,"Crown Point, IN 46307",Lake,0.9,0.8447368421052632
+2021-03-04,Franciscan Health Crown Point,1201 S Main St,"Crown Point, IN 46307",Lake,NA,0.5897540983606557
+2021-03-04,Franciscan Health Munster,701 Superior Ave,"Munster, IN 46321",Lake,0.4444444444444444,0.7095238095238096
+2021-03-04,Franciscan Health Dyer,24 Joliet St,"Dyer, IN 46311",Lake,0.5714285714285714,0.7594059405940594
+2021-03-04,Community Hospital,901 Macarthur Blvd,"Munster, IN 46321",Lake,0.8069767441860466,0.8814589665653495
+2021-03-04,Kindred Hospital Northwest Indiana,5454 Hohman Ave  5th Fl,"Hammond, IN 46320",Lake,NA,0.8085714285714286
+2021-03-04,Regency Hospital Of Northwest Indiana,4321 Fir St 4th Fl,"East Chicago, IN 46312",Lake,NA,0.6363636363636364
+2021-03-04,Pinnacle Hospital,9301 Connecticut Dr,"Crown Point, IN 46307",Lake,0,0.37222222222222223
+2021-03-04,Methodist Hospitals Inc,600 Grant St,"Gary, IN 46402",Lake,0.6657894736842106,0.5748490945674044
+2021-03-04,St Catherine Hospital Inc,4321 Fir Street,"East Chicago, IN 46312",Lake,0.28500000000000003,0.6111675126903554
+2021-03-04,Northwest Health-La Porte,1331 State Street,"La Porte, IN 46350",LaPorte,0.7571428571428571,0.82125
+2021-03-04,Franciscan Health Michigan City,3500 Franciscan Way,"Michigan City, IN 46360",LaPorte,0.7687074829931974,0.8372943327239487
+2021-03-04,Indiana University Health Bedford Hospital,2900 W 16th St,"Bedford, IN 47421",Lawrence,0.5700000000000001,0.391304347826087
+2021-03-04,Ascension St Vincent Dunn,1600 23rd St,"Bedford, IN 47421",Lawrence,NA,0.080004
+2021-03-04,Ascension St Vincent Anderson,2015 Jackson St,"Anderson, IN 46016",Madison,0.878048780487805,0.6436525612472161
+2021-03-04,Ascension St Vincent Mercy,1331 S A St,"Elwood, IN 46036",Madison,NA,0.3
+2021-03-04,Community Hospital Of Anderson And Madison County,1515 N Madison Ave,"Anderson, IN 46011",Madison,0.32941176470588235,0.4939849624060151
+2021-03-04,Kindred Hospital Indianapolis,1700 W 10th St,"Indianapolis, IN 46222",Marion,NA,0.7879999999999999
+2021-03-04,Ascension St Vincent Seton Specialty Hospital,8050 Township Line Rd,"Indianapolis, IN 46260",Marion,NA,0.51
+2021-03-04,Eskenazi Health,720 Eskenazi Avenue,"Indianapolis, IN 46202",Marion,0.7602272727272728,0.8098507462686567
+2021-03-04,Ascension St Vincent Hospital,2001 W 86th St,"Indianapolis, IN 46260",Marion,0.8653846153846154,0.6947840891502862
+2021-03-04,Orthoindy Hospital,8400 Northwest Blvd,"Indianapolis, IN 46278",Marion,NA,0.3476190476190476
+2021-03-04,Community Hospital East,1500 N Ritter Ave,"Indianapolis, IN 46219",Marion,0.6725806451612903,0.7474458520637516
+2021-03-04,Community Hospital South,1402 E County Line Rd S,"Indianapolis, IN 46227",Marion,0.7999999999999999,0.8261146496815286
+2021-03-04,Community Hospital North,7150 Clearvista Dr,"Indianapolis, IN 46256",Marion,0.7958333333333334,0.7725925925925926
+2021-03-04,Kindred Hospital Indianapolis North,8060 Knue Road,"Indianapolis, IN 46250",Marion,NA,0.7966666666666666
+2021-03-04,Fairbanks,8102 Clearvista Parkway,"Indianapolis, IN 46256",Marion,NA,0.6201859229747677
+2021-03-04,Franciscan Health Indianapolis,8111 S Emerson Ave,"Indianapolis, IN 46237",Marion,0.9085603112840468,0.8227882771843329
+2021-03-04,Indiana University Health,1701 N Senate Blvd,"Indianapolis, IN 46202",Marion,0.6733333333333333,0.5190476190476191
+2021-03-04,Saint Joseph Regional Medical Center - Plymouth,1915 Lake Ave,"Plymouth, IN 46563",Marshall,0.28572857142857144,0.4340425531914893
+2021-03-04,Community Hospital Of Bremen Inc,1020 High Rd,"Bremen, IN 46506",Marshall,NA,0.45714285714285713
+2021-03-04,Dukes Memorial Hospital,275 W 12th St,"Peru, IN 46970",Miami,0.500025,0.4742857142857143
+2021-03-04,Monroe Hospital,4011 S Monroe Medical Park Blvd,"Bloomington, IN 47403",Monroe,0.2500125,0.3125
+2021-03-04,IU Health Bloomington Hospital,601 W Second St,"Bloomington, IN 47403",Monroe,0.6466666666666666,0.3393782383419689
+2021-03-04,Franciscan Health Crawfordsville,1710 Lafayette Rd,"Crawfordsville, IN 47933",Montgomery,0.9199999999999999,0.890909090909091
+2021-03-04,Franciscan Health Mooresville,1201 Hadley Rd,"Mooresville, IN 46158",Morgan,0.2500125,0.24546722454672246
+2021-03-04,Parkview Noble Hospital,401 Sawyer Rd,"Kendallville, IN 46755",Noble,0.500025,0.5774193548387097
+2021-03-04,Indiana University Health Paoli Hospital,642 W Hospital Rd,"Paoli, IN 47454",Orange,NA,0.08333750000000001
+2021-03-04,Perry County Memorial Hospital,8885 Sr 237,"Tell City, IN 47586",Perry,0.500025,0.755
+2021-03-04,Northwest  Health- Porter,85 East Us Hwy 6,"Valparaiso, IN 46383",Porter,0.9508196721311474,0.8628454452405322
+2021-03-04,Pulaski Memorial Hospital,616 E 13th St,"Winamac, IN 46996",Pulaski,NA,0.4
+2021-03-04,Putnam County Hospital,1542 S Bloomington St,"Greencastle, IN 46135",Putnam,0.20001000000000002,0.268
+2021-03-04,Ascension St Vincent Randolph,473 E Greenville Ave,"Winchester, IN 47394",Randolph,NA,0.38
+2021-03-04,Margaret Mary Health,321 Mitchell Ave,"Batesville, IN 47006",Ripley,NA,0.3825
+2021-03-04,Rush Memorial Hospital,1300 N Main St,"Rushville, IN 46173",Rush,NA,0.248
+2021-03-04,Unity Physicians Hospital,4455 Edison Lakes Pkwy,"Mishawaka, IN 46545",St. Joseph,NA,0.22797927461139897
+2021-03-04,Saint Joseph Regional Medical Center,5215 Holy Cross Pkwy,"Mishawaka, IN 46545",St. Joseph,0.7035714285714285,0.8294144767173813
+2021-03-04,Memorial Hospital Of South Bend,615 N Michigan St,"South Bend, IN 46601",St. Joseph,0.4864864864864865,0.7106896551724138
+2021-03-04,Scott Memorial Health,1451 N Gardner St,"Scottsburg, IN 47170",Scott,NA,0.47600000000000003
+2021-03-04,Major Hospital,2451 Intelliplex Dr,"Shelbyville, IN 46176",Shelby,0.14286428571428572,0.675
+2021-03-04,Northwest Health- Starke,102 E Culver Rd,"Knox, IN 46534",Starke,0,0.15385384615384617
+2021-03-04,Cameron Memorial Community Hospital Inc,416 E Maumee St,"Angola, IN 46703",Steuben,NA,0.5705882352941176
+2021-03-04,Sullivan County Community Hospital,2200 N Section St,"Sullivan, IN 47882",Sullivan,0.500025,0.24
+2021-03-04,Franciscan Health Lafayette,1701 S Creasy Ln,"Lafayette, IN 47905",Tippecanoe,0.6760869565217391,0.5414012738853503
+2021-03-04,Indiana University Health Arnett Hospital,5165 Mccarty Ln,"Lafayette, IN 47905",Tippecanoe,0.6269430051813472,0.65
+2021-03-04,Indiana University Health Tipton Hospital Inc,1000 S Main St,"Tipton, IN 46072",Tipton,NA,0.04545681818181819
+2021-03-04,Deaconess Hospital Inc,600 Mary St,"Evansville, IN 47747",Vanderburgh,0.7271929824561404,0.6884984025559105
+2021-03-04,Ascension St Vincent Evansville,3700 Washington Ave,"Evansville, IN 47750",Vanderburgh,0.5349999999999999,0.4958654120330767
+2021-03-04,Select Specialty Hospital-Evansville,400  Se 4th St,"Evansville, IN 47713",Vanderburgh,NA,0.7116666666666667
+2021-03-04,Union Hospital Clinton,801 S Main St,"Clinton, IN 47842",Vermillion,0.500025,0.36
+2021-03-04,Union Hospital Inc,1606 N Seventh St,"Terre Haute, IN 47804",Vigo,0.6138888888888889,0.7408560311284047
+2021-03-04,Terre Haute Regional Hospital,3901 S Seventh St,"Terre Haute, IN 47802",Vigo,0.5222222222222223,0.38877005347593585
+2021-03-04,"Parkview Wabash Hospital, Inc",10 John Kissinger Drive,"Wabash, IN 46992",Wabash,NA,0.5888888888888889
+2021-03-04,Ascension St Vincent Williamsport,412 N Monroe St,"Williamsport, IN 47993",Warren,NA,0.3764705882352941
+2021-03-04,Ascension St Vincent Warrick,1116 Millis Ave,"Boonville, IN 47601",Warrick,NA,0.21764705882352942
+2021-03-04,The Women's Hospital,4199 Gateway Blvd,"Newburgh, IN 47630",Warrick,NA,0.42833333333333334
+2021-03-04,Ascension St Vincent Salem,911 N Shelby St,"Salem, IN 47167",Washington,NA,0.2500125
+2021-03-04,Reid Health,1100 Reid Pkwy,"Richmond, IN 47374",Wayne,0.3466666666666667,0.8097222222222222
+2021-03-04,Bluffton Regional Medical Center,303 S Main St,"Bluffton, IN 46714",Wells,NA,0.5152173913043478
+2021-03-04,Indiana University Health White Memorial Hospital,720 South Sixth St,"Monticello, IN 47960",White,NA,0.07083333333333333
+2021-03-04,Parkview Whitley Hospital,1260 E Sr 205,"Columbia City, IN 46725",Whitley,NA,0.58

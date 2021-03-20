@@ -23,6 +23,9 @@ reference:
     - ind_tests_complete
     - mich_tests_complete
     - wisc_tests_complete
+  - title: Functions
+    contents:
+    - path_to_file
 
 navbar:
   title: "indianacovid19data"

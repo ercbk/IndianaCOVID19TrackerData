@@ -1,0 +1,609 @@
+end_date,agegrp,weekly_total,date_text,tooltip
+2020-06-26,0 to 19,0,June 26,"June 26
+Deaths: 0"
+2020-06-26,20 to 29,1,June 26,"June 26
+Deaths: 1"
+2020-06-26,30 to 39,0,June 26,"June 26
+Deaths: 0"
+2020-06-26,40 to 49,1,June 26,"June 26
+Deaths: 1"
+2020-06-26,50 to 59,2,June 26,"June 26
+Deaths: 2"
+2020-06-26,60 to 69,7,June 26,"June 26
+Deaths: 7"
+2020-06-26,70 to 79,14,June 26,"June 26
+Deaths: 14"
+2020-06-26,80 and older,36,June 26,"June 26
+Deaths: 36"
+2020-07-03,0 to 19,0,July 03,"July 03
+Deaths: 0"
+2020-07-03,20 to 29,1,July 03,"July 03
+Deaths: 1"
+2020-07-03,30 to 39,1,July 03,"July 03
+Deaths: 1"
+2020-07-03,40 to 49,1,July 03,"July 03
+Deaths: 1"
+2020-07-03,50 to 59,5,July 03,"July 03
+Deaths: 5"
+2020-07-03,60 to 69,6,July 03,"July 03
+Deaths: 6"
+2020-07-03,70 to 79,15,July 03,"July 03
+Deaths: 15"
+2020-07-03,80 and older,56,July 03,"July 03
+Deaths: 56"
+2020-07-10,0 to 19,0,July 10,"July 10
+Deaths: 0"
+2020-07-10,20 to 29,1,July 10,"July 10
+Deaths: 1"
+2020-07-10,30 to 39,1,July 10,"July 10
+Deaths: 1"
+2020-07-10,40 to 49,0,July 10,"July 10
+Deaths: 0"
+2020-07-10,50 to 59,2,July 10,"July 10
+Deaths: 2"
+2020-07-10,60 to 69,7,July 10,"July 10
+Deaths: 7"
+2020-07-10,70 to 79,15,July 10,"July 10
+Deaths: 15"
+2020-07-10,80 and older,38,July 10,"July 10
+Deaths: 38"
+2020-07-17,0 to 19,0,July 17,"July 17
+Deaths: 0"
+2020-07-17,20 to 29,0,July 17,"July 17
+Deaths: 0"
+2020-07-17,30 to 39,1,July 17,"July 17
+Deaths: 1"
+2020-07-17,40 to 49,0,July 17,"July 17
+Deaths: 0"
+2020-07-17,50 to 59,1,July 17,"July 17
+Deaths: 1"
+2020-07-17,60 to 69,8,July 17,"July 17
+Deaths: 8"
+2020-07-17,70 to 79,18,July 17,"July 17
+Deaths: 18"
+2020-07-17,80 and older,19,July 17,"July 17
+Deaths: 19"
+2020-07-24,0 to 19,0,July 24,"July 24
+Deaths: 0"
+2020-07-24,20 to 29,1,July 24,"July 24
+Deaths: 1"
+2020-07-24,30 to 39,0,July 24,"July 24
+Deaths: 0"
+2020-07-24,40 to 49,0,July 24,"July 24
+Deaths: 0"
+2020-07-24,50 to 59,7,July 24,"July 24
+Deaths: 7"
+2020-07-24,60 to 69,16,July 24,"July 24
+Deaths: 16"
+2020-07-24,70 to 79,17,July 24,"July 24
+Deaths: 17"
+2020-07-24,80 and older,47,July 24,"July 24
+Deaths: 47"
+2020-07-31,0 to 19,0,July 31,"July 31
+Deaths: 0"
+2020-07-31,20 to 29,0,July 31,"July 31
+Deaths: 0"
+2020-07-31,30 to 39,1,July 31,"July 31
+Deaths: 1"
+2020-07-31,40 to 49,0,July 31,"July 31
+Deaths: 0"
+2020-07-31,50 to 59,1,July 31,"July 31
+Deaths: 1"
+2020-07-31,60 to 69,14,July 31,"July 31
+Deaths: 14"
+2020-07-31,70 to 79,25,July 31,"July 31
+Deaths: 25"
+2020-07-31,80 and older,33,July 31,"July 31
+Deaths: 33"
+2020-08-07,0 to 19,0,August 07,"August 07
+Deaths: 0"
+2020-08-07,20 to 29,0,August 07,"August 07
+Deaths: 0"
+2020-08-07,30 to 39,0,August 07,"August 07
+Deaths: 0"
+2020-08-07,40 to 49,2,August 07,"August 07
+Deaths: 2"
+2020-08-07,50 to 59,6,August 07,"August 07
+Deaths: 6"
+2020-08-07,60 to 69,5,August 07,"August 07
+Deaths: 5"
+2020-08-07,70 to 79,16,August 07,"August 07
+Deaths: 16"
+2020-08-07,80 and older,27,August 07,"August 07
+Deaths: 27"
+2020-08-14,0 to 19,0,August 14,"August 14
+Deaths: 0"
+2020-08-14,20 to 29,0,August 14,"August 14
+Deaths: 0"
+2020-08-14,30 to 39,0,August 14,"August 14
+Deaths: 0"
+2020-08-14,40 to 49,1,August 14,"August 14
+Deaths: 1"
+2020-08-14,50 to 59,4,August 14,"August 14
+Deaths: 4"
+2020-08-14,60 to 69,10,August 14,"August 14
+Deaths: 10"
+2020-08-14,70 to 79,27,August 14,"August 14
+Deaths: 27"
+2020-08-14,80 and older,43,August 14,"August 14
+Deaths: 43"
+2020-08-21,0 to 19,0,August 21,"August 21
+Deaths: 0"
+2020-08-21,20 to 29,0,August 21,"August 21
+Deaths: 0"
+2020-08-21,30 to 39,1,August 21,"August 21
+Deaths: 1"
+2020-08-21,40 to 49,2,August 21,"August 21
+Deaths: 2"
+2020-08-21,50 to 59,5,August 21,"August 21
+Deaths: 5"
+2020-08-21,60 to 69,15,August 21,"August 21
+Deaths: 15"
+2020-08-21,70 to 79,27,August 21,"August 21
+Deaths: 27"
+2020-08-21,80 and older,40,August 21,"August 21
+Deaths: 40"
+2020-08-28,0 to 19,0,August 28,"August 28
+Deaths: 0"
+2020-08-28,20 to 29,0,August 28,"August 28
+Deaths: 0"
+2020-08-28,30 to 39,1,August 28,"August 28
+Deaths: 1"
+2020-08-28,40 to 49,2,August 28,"August 28
+Deaths: 2"
+2020-08-28,50 to 59,8,August 28,"August 28
+Deaths: 8"
+2020-08-28,60 to 69,13,August 28,"August 28
+Deaths: 13"
+2020-08-28,70 to 79,17,August 28,"August 28
+Deaths: 17"
+2020-08-28,80 and older,25,August 28,"August 28
+Deaths: 25"
+2020-09-04,0 to 19,0,September 04,"September 04
+Deaths: 0"
+2020-09-04,20 to 29,1,September 04,"September 04
+Deaths: 1"
+2020-09-04,30 to 39,0,September 04,"September 04
+Deaths: 0"
+2020-09-04,40 to 49,4,September 04,"September 04
+Deaths: 4"
+2020-09-04,50 to 59,1,September 04,"September 04
+Deaths: 1"
+2020-09-04,60 to 69,11,September 04,"September 04
+Deaths: 11"
+2020-09-04,70 to 79,17,September 04,"September 04
+Deaths: 17"
+2020-09-04,80 and older,35,September 04,"September 04
+Deaths: 35"
+2020-09-11,0 to 19,0,September 11,"September 11
+Deaths: 0"
+2020-09-11,20 to 29,0,September 11,"September 11
+Deaths: 0"
+2020-09-11,30 to 39,1,September 11,"September 11
+Deaths: 1"
+2020-09-11,40 to 49,0,September 11,"September 11
+Deaths: 0"
+2020-09-11,50 to 59,3,September 11,"September 11
+Deaths: 3"
+2020-09-11,60 to 69,10,September 11,"September 11
+Deaths: 10"
+2020-09-11,70 to 79,19,September 11,"September 11
+Deaths: 19"
+2020-09-11,80 and older,36,September 11,"September 11
+Deaths: 36"
+2020-09-18,0 to 19,0,September 18,"September 18
+Deaths: 0"
+2020-09-18,20 to 29,0,September 18,"September 18
+Deaths: 0"
+2020-09-18,30 to 39,1,September 18,"September 18
+Deaths: 1"
+2020-09-18,40 to 49,2,September 18,"September 18
+Deaths: 2"
+2020-09-18,50 to 59,5,September 18,"September 18
+Deaths: 5"
+2020-09-18,60 to 69,10,September 18,"September 18
+Deaths: 10"
+2020-09-18,70 to 79,21,September 18,"September 18
+Deaths: 21"
+2020-09-18,80 and older,35,September 18,"September 18
+Deaths: 35"
+2020-09-25,0 to 19,0,September 25,"September 25
+Deaths: 0"
+2020-09-25,20 to 29,0,September 25,"September 25
+Deaths: 0"
+2020-09-25,30 to 39,2,September 25,"September 25
+Deaths: 2"
+2020-09-25,40 to 49,1,September 25,"September 25
+Deaths: 1"
+2020-09-25,50 to 59,3,September 25,"September 25
+Deaths: 3"
+2020-09-25,60 to 69,4,September 25,"September 25
+Deaths: 4"
+2020-09-25,70 to 79,20,September 25,"September 25
+Deaths: 20"
+2020-09-25,80 and older,40,September 25,"September 25
+Deaths: 40"
+2020-10-02,0 to 19,0,October 02,"October 02
+Deaths: 0"
+2020-10-02,20 to 29,0,October 02,"October 02
+Deaths: 0"
+2020-10-02,30 to 39,0,October 02,"October 02
+Deaths: 0"
+2020-10-02,40 to 49,1,October 02,"October 02
+Deaths: 1"
+2020-10-02,50 to 59,2,October 02,"October 02
+Deaths: 2"
+2020-10-02,60 to 69,16,October 02,"October 02
+Deaths: 16"
+2020-10-02,70 to 79,24,October 02,"October 02
+Deaths: 24"
+2020-10-02,80 and older,46,October 02,"October 02
+Deaths: 46"
+2020-10-09,0 to 19,0,October 09,"October 09
+Deaths: 0"
+2020-10-09,20 to 29,0,October 09,"October 09
+Deaths: 0"
+2020-10-09,30 to 39,2,October 09,"October 09
+Deaths: 2"
+2020-10-09,40 to 49,1,October 09,"October 09
+Deaths: 1"
+2020-10-09,50 to 59,5,October 09,"October 09
+Deaths: 5"
+2020-10-09,60 to 69,17,October 09,"October 09
+Deaths: 17"
+2020-10-09,70 to 79,28,October 09,"October 09
+Deaths: 28"
+2020-10-09,80 and older,52,October 09,"October 09
+Deaths: 52"
+2020-10-16,0 to 19,0,October 16,"October 16
+Deaths: 0"
+2020-10-16,20 to 29,0,October 16,"October 16
+Deaths: 0"
+2020-10-16,30 to 39,1,October 16,"October 16
+Deaths: 1"
+2020-10-16,40 to 49,2,October 16,"October 16
+Deaths: 2"
+2020-10-16,50 to 59,5,October 16,"October 16
+Deaths: 5"
+2020-10-16,60 to 69,10,October 16,"October 16
+Deaths: 10"
+2020-10-16,70 to 79,31,October 16,"October 16
+Deaths: 31"
+2020-10-16,80 and older,71,October 16,"October 16
+Deaths: 71"
+2020-10-23,0 to 19,0,October 23,"October 23
+Deaths: 0"
+2020-10-23,20 to 29,0,October 23,"October 23
+Deaths: 0"
+2020-10-23,30 to 39,0,October 23,"October 23
+Deaths: 0"
+2020-10-23,40 to 49,5,October 23,"October 23
+Deaths: 5"
+2020-10-23,50 to 59,5,October 23,"October 23
+Deaths: 5"
+2020-10-23,60 to 69,31,October 23,"October 23
+Deaths: 31"
+2020-10-23,70 to 79,58,October 23,"October 23
+Deaths: 58"
+2020-10-23,80 and older,105,October 23,"October 23
+Deaths: 105"
+2020-10-30,0 to 19,0,October 30,"October 30
+Deaths: 0"
+2020-10-30,20 to 29,3,October 30,"October 30
+Deaths: 3"
+2020-10-30,30 to 39,2,October 30,"October 30
+Deaths: 2"
+2020-10-30,40 to 49,2,October 30,"October 30
+Deaths: 2"
+2020-10-30,50 to 59,10,October 30,"October 30
+Deaths: 10"
+2020-10-30,60 to 69,25,October 30,"October 30
+Deaths: 25"
+2020-10-30,70 to 79,47,October 30,"October 30
+Deaths: 47"
+2020-10-30,80 and older,103,October 30,"October 30
+Deaths: 103"
+2020-11-06,0 to 19,0,November 06,"November 06
+Deaths: 0"
+2020-11-06,20 to 29,0,November 06,"November 06
+Deaths: 0"
+2020-11-06,30 to 39,3,November 06,"November 06
+Deaths: 3"
+2020-11-06,40 to 49,5,November 06,"November 06
+Deaths: 5"
+2020-11-06,50 to 59,13,November 06,"November 06
+Deaths: 13"
+2020-11-06,60 to 69,40,November 06,"November 06
+Deaths: 40"
+2020-11-06,70 to 79,42,November 06,"November 06
+Deaths: 42"
+2020-11-06,80 and older,153,November 06,"November 06
+Deaths: 153"
+2020-11-13,0 to 19,0,November 13,"November 13
+Deaths: 0"
+2020-11-13,20 to 29,0,November 13,"November 13
+Deaths: 0"
+2020-11-13,30 to 39,2,November 13,"November 13
+Deaths: 2"
+2020-11-13,40 to 49,3,November 13,"November 13
+Deaths: 3"
+2020-11-13,50 to 59,18,November 13,"November 13
+Deaths: 18"
+2020-11-13,60 to 69,39,November 13,"November 13
+Deaths: 39"
+2020-11-13,70 to 79,83,November 13,"November 13
+Deaths: 83"
+2020-11-13,80 and older,162,November 13,"November 13
+Deaths: 162"
+2020-11-20,0 to 19,0,November 20,"November 20
+Deaths: 0"
+2020-11-20,20 to 29,0,November 20,"November 20
+Deaths: 0"
+2020-11-20,30 to 39,1,November 20,"November 20
+Deaths: 1"
+2020-11-20,40 to 49,9,November 20,"November 20
+Deaths: 9"
+2020-11-20,50 to 59,16,November 20,"November 20
+Deaths: 16"
+2020-11-20,60 to 69,44,November 20,"November 20
+Deaths: 44"
+2020-11-20,70 to 79,97,November 20,"November 20
+Deaths: 97"
+2020-11-20,80 and older,172,November 20,"November 20
+Deaths: 172"
+2020-11-27,0 to 19,0,November 27,"November 27
+Deaths: 0"
+2020-11-27,20 to 29,1,November 27,"November 27
+Deaths: 1"
+2020-11-27,30 to 39,4,November 27,"November 27
+Deaths: 4"
+2020-11-27,40 to 49,3,November 27,"November 27
+Deaths: 3"
+2020-11-27,50 to 59,11,November 27,"November 27
+Deaths: 11"
+2020-11-27,60 to 69,60,November 27,"November 27
+Deaths: 60"
+2020-11-27,70 to 79,91,November 27,"November 27
+Deaths: 91"
+2020-11-27,80 and older,206,November 27,"November 27
+Deaths: 206"
+2020-12-04,0 to 19,2,December 04,"December 04
+Deaths: 2"
+2020-12-04,20 to 29,0,December 04,"December 04
+Deaths: 0"
+2020-12-04,30 to 39,3,December 04,"December 04
+Deaths: 3"
+2020-12-04,40 to 49,7,December 04,"December 04
+Deaths: 7"
+2020-12-04,50 to 59,20,December 04,"December 04
+Deaths: 20"
+2020-12-04,60 to 69,59,December 04,"December 04
+Deaths: 59"
+2020-12-04,70 to 79,138,December 04,"December 04
+Deaths: 138"
+2020-12-04,80 and older,275,December 04,"December 04
+Deaths: 275"
+2020-12-11,0 to 19,0,December 11,"December 11
+Deaths: 0"
+2020-12-11,20 to 29,1,December 11,"December 11
+Deaths: 1"
+2020-12-11,30 to 39,2,December 11,"December 11
+Deaths: 2"
+2020-12-11,40 to 49,5,December 11,"December 11
+Deaths: 5"
+2020-12-11,50 to 59,20,December 11,"December 11
+Deaths: 20"
+2020-12-11,60 to 69,87,December 11,"December 11
+Deaths: 87"
+2020-12-11,70 to 79,142,December 11,"December 11
+Deaths: 142"
+2020-12-11,80 and older,285,December 11,"December 11
+Deaths: 285"
+2020-12-18,0 to 19,0,December 18,"December 18
+Deaths: 0"
+2020-12-18,20 to 29,0,December 18,"December 18
+Deaths: 0"
+2020-12-18,30 to 39,2,December 18,"December 18
+Deaths: 2"
+2020-12-18,40 to 49,12,December 18,"December 18
+Deaths: 12"
+2020-12-18,50 to 59,27,December 18,"December 18
+Deaths: 27"
+2020-12-18,60 to 69,79,December 18,"December 18
+Deaths: 79"
+2020-12-18,70 to 79,146,December 18,"December 18
+Deaths: 146"
+2020-12-18,80 and older,306,December 18,"December 18
+Deaths: 306"
+2020-12-26,0 to 19,0,December 26,"December 26
+Deaths: 0"
+2020-12-26,20 to 29,1,December 26,"December 26
+Deaths: 1"
+2020-12-26,30 to 39,2,December 26,"December 26
+Deaths: 2"
+2020-12-26,40 to 49,6,December 26,"December 26
+Deaths: 6"
+2020-12-26,50 to 59,19,December 26,"December 26
+Deaths: 19"
+2020-12-26,60 to 69,75,December 26,"December 26
+Deaths: 75"
+2020-12-26,70 to 79,145,December 26,"December 26
+Deaths: 145"
+2020-12-26,80 and older,269,December 26,"December 26
+Deaths: 269"
+2021-01-02,0 to 19,0,January 02,"January 02
+Deaths: 0"
+2021-01-02,20 to 29,1,January 02,"January 02
+Deaths: 1"
+2021-01-02,30 to 39,2,January 02,"January 02
+Deaths: 2"
+2021-01-02,40 to 49,8,January 02,"January 02
+Deaths: 8"
+2021-01-02,50 to 59,39,January 02,"January 02
+Deaths: 39"
+2021-01-02,60 to 69,80,January 02,"January 02
+Deaths: 80"
+2021-01-02,70 to 79,147,January 02,"January 02
+Deaths: 147"
+2021-01-02,80 and older,317,January 02,"January 02
+Deaths: 317"
+2021-01-09,0 to 19,1,January 09,"January 09
+Deaths: 1"
+2021-01-09,20 to 29,1,January 09,"January 09
+Deaths: 1"
+2021-01-09,30 to 39,3,January 09,"January 09
+Deaths: 3"
+2021-01-09,40 to 49,8,January 09,"January 09
+Deaths: 8"
+2021-01-09,50 to 59,21,January 09,"January 09
+Deaths: 21"
+2021-01-09,60 to 69,74,January 09,"January 09
+Deaths: 74"
+2021-01-09,70 to 79,156,January 09,"January 09
+Deaths: 156"
+2021-01-09,80 and older,276,January 09,"January 09
+Deaths: 276"
+2021-01-16,0 to 19,2,January 16,"January 16
+Deaths: 2"
+2021-01-16,20 to 29,3,January 16,"January 16
+Deaths: 3"
+2021-01-16,30 to 39,0,January 16,"January 16
+Deaths: 0"
+2021-01-16,40 to 49,6,January 16,"January 16
+Deaths: 6"
+2021-01-16,50 to 59,20,January 16,"January 16
+Deaths: 20"
+2021-01-16,60 to 69,48,January 16,"January 16
+Deaths: 48"
+2021-01-16,70 to 79,92,January 16,"January 16
+Deaths: 92"
+2021-01-16,80 and older,147,January 16,"January 16
+Deaths: 147"
+2021-01-23,0 to 19,0,January 23,"January 23
+Deaths: 0"
+2021-01-23,20 to 29,0,January 23,"January 23
+Deaths: 0"
+2021-01-23,30 to 39,2,January 23,"January 23
+Deaths: 2"
+2021-01-23,40 to 49,7,January 23,"January 23
+Deaths: 7"
+2021-01-23,50 to 59,28,January 23,"January 23
+Deaths: 28"
+2021-01-23,60 to 69,59,January 23,"January 23
+Deaths: 59"
+2021-01-23,70 to 79,117,January 23,"January 23
+Deaths: 117"
+2021-01-23,80 and older,192,January 23,"January 23
+Deaths: 192"
+2021-01-30,0 to 19,1,January 30,"January 30
+Deaths: 1"
+2021-01-30,20 to 29,0,January 30,"January 30
+Deaths: 0"
+2021-01-30,30 to 39,1,January 30,"January 30
+Deaths: 1"
+2021-01-30,40 to 49,3,January 30,"January 30
+Deaths: 3"
+2021-01-30,50 to 59,20,January 30,"January 30
+Deaths: 20"
+2021-01-30,60 to 69,52,January 30,"January 30
+Deaths: 52"
+2021-01-30,70 to 79,80,January 30,"January 30
+Deaths: 80"
+2021-01-30,80 and older,118,January 30,"January 30
+Deaths: 118"
+2021-02-06,0 to 19,1,February 06,"February 06
+Deaths: 1"
+2021-02-06,20 to 29,6,February 06,"February 06
+Deaths: 6"
+2021-02-06,30 to 39,7,February 06,"February 06
+Deaths: 7"
+2021-02-06,40 to 49,32,February 06,"February 06
+Deaths: 32"
+2021-02-06,50 to 59,83,February 06,"February 06
+Deaths: 83"
+2021-02-06,60 to 69,211,February 06,"February 06
+Deaths: 211"
+2021-02-06,70 to 79,413,February 06,"February 06
+Deaths: 413"
+2021-02-06,80 and older,1001,February 06,"February 06
+Deaths: 1001"
+2021-02-13,0 to 19,0,February 13,"February 13
+Deaths: 0"
+2021-02-13,20 to 29,1,February 13,"February 13
+Deaths: 1"
+2021-02-13,30 to 39,0,February 13,"February 13
+Deaths: 0"
+2021-02-13,40 to 49,4,February 13,"February 13
+Deaths: 4"
+2021-02-13,50 to 59,22,February 13,"February 13
+Deaths: 22"
+2021-02-13,60 to 69,60,February 13,"February 13
+Deaths: 60"
+2021-02-13,70 to 79,94,February 13,"February 13
+Deaths: 94"
+2021-02-13,80 and older,195,February 13,"February 13
+Deaths: 195"
+2021-02-20,0 to 19,0,February 20,"February 20
+Deaths: 0"
+2021-02-20,20 to 29,1,February 20,"February 20
+Deaths: 1"
+2021-02-20,30 to 39,0,February 20,"February 20
+Deaths: 0"
+2021-02-20,40 to 49,5,February 20,"February 20
+Deaths: 5"
+2021-02-20,50 to 59,10,February 20,"February 20
+Deaths: 10"
+2021-02-20,60 to 69,34,February 20,"February 20
+Deaths: 34"
+2021-02-20,70 to 79,42,February 20,"February 20
+Deaths: 42"
+2021-02-20,80 and older,98,February 20,"February 20
+Deaths: 98"
+2021-02-27,0 to 19,0,February 27,"February 27
+Deaths: 0"
+2021-02-27,20 to 29,0,February 27,"February 27
+Deaths: 0"
+2021-02-27,30 to 39,1,February 27,"February 27
+Deaths: 1"
+2021-02-27,40 to 49,3,February 27,"February 27
+Deaths: 3"
+2021-02-27,50 to 59,11,February 27,"February 27
+Deaths: 11"
+2021-02-27,60 to 69,31,February 27,"February 27
+Deaths: 31"
+2021-02-27,70 to 79,64,February 27,"February 27
+Deaths: 64"
+2021-02-27,80 and older,103,February 27,"February 27
+Deaths: 103"
+2021-03-06,0 to 19,0,March 06,"March 06
+Deaths: 0"
+2021-03-06,20 to 29,0,March 06,"March 06
+Deaths: 0"
+2021-03-06,30 to 39,0,March 06,"March 06
+Deaths: 0"
+2021-03-06,40 to 49,3,March 06,"March 06
+Deaths: 3"
+2021-03-06,50 to 59,10,March 06,"March 06
+Deaths: 10"
+2021-03-06,60 to 69,31,March 06,"March 06
+Deaths: 31"
+2021-03-06,70 to 79,49,March 06,"March 06
+Deaths: 49"
+2021-03-06,80 and older,81,March 06,"March 06
+Deaths: 81"
+2021-03-14,0 to 19,0,March 14,"March 14
+Deaths: 0"
+2021-03-14,20 to 29,0,March 14,"March 14
+Deaths: 0"
+2021-03-14,30 to 39,0,March 14,"March 14
+Deaths: 0"
+2021-03-14,40 to 49,2,March 14,"March 14
+Deaths: 2"
+2021-03-14,50 to 59,13,March 14,"March 14
+Deaths: 13"
+2021-03-14,60 to 69,29,March 14,"March 14
+Deaths: 29"
+2021-03-14,70 to 79,31,March 14,"March 14
+Deaths: 31"
+2021-03-14,80 and older,62,March 14,"March 14
+Deaths: 62"

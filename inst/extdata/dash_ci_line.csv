@@ -1,0 +1,4426 @@
+name,time_value,value
+Bloomington,2020-04-15,1.27
+Bloomington,2020-04-16,1.25
+Bloomington,2020-04-17,1.3
+Bloomington,2020-04-18,1.57
+Bloomington,2020-04-19,1.35
+Bloomington,2020-04-20,1.71
+Bloomington,2020-04-21,1.71
+Bloomington,2020-04-22,1.67
+Bloomington,2020-04-23,0.98
+Bloomington,2020-04-24,1.03
+Bloomington,2020-04-25,0.7
+Bloomington,2020-04-26,0.72
+Bloomington,2020-04-27,0.7
+Bloomington,2020-04-28,0.73
+Bloomington,2020-04-29,0.84
+Bloomington,2020-04-30,0.93
+Bloomington,2020-05-01,0.99
+Bloomington,2020-05-02,1
+Bloomington,2020-05-03,1.01
+Bloomington,2020-05-04,1.17
+Bloomington,2020-05-05,1.17
+Bloomington,2020-05-06,1.11
+Bloomington,2020-05-07,1.07
+Bloomington,2020-05-08,1.05
+Bloomington,2020-05-09,1.06
+Bloomington,2020-05-10,1.04
+Bloomington,2020-05-11,0.82
+Bloomington,2020-05-12,0.82
+Bloomington,2020-05-13,0.76
+Bloomington,2020-05-14,0.73
+Bloomington,2020-05-15,0.61
+Bloomington,2020-05-16,0.6
+Bloomington,2020-05-17,0.69
+Bloomington,2020-05-18,0.65
+Bloomington,2020-05-19,0.7
+Bloomington,2020-05-20,0.89
+Bloomington,2020-05-21,0.92
+Bloomington,2020-05-22,0.82
+Bloomington,2020-05-23,0.87
+Bloomington,2020-05-24,0.76
+Bloomington,2020-05-25,0.77
+Bloomington,2020-05-26,0.77
+Bloomington,2020-05-27,0.74
+Bloomington,2020-05-28,0.8
+Bloomington,2020-05-29,0.76
+Bloomington,2020-05-30,0.77
+Bloomington,2020-05-31,0.65
+Bloomington,2020-06-01,0.53
+Bloomington,2020-06-02,0.51
+Bloomington,2020-06-03,0.66
+Bloomington,2020-06-04,0.59
+Bloomington,2020-06-05,0.59
+Bloomington,2020-06-06,0.46
+Bloomington,2020-06-07,0.52
+Bloomington,2020-06-08,0.53
+Bloomington,2020-06-09,0.83
+Bloomington,2020-06-10,0.76
+Bloomington,2020-06-11,0.88
+Bloomington,2020-06-12,0.89
+Bloomington,2020-06-13,0.82
+Bloomington,2020-06-14,0.81
+Bloomington,2020-06-15,0.8
+Bloomington,2020-06-16,0.63
+Bloomington,2020-06-17,0.55
+Bloomington,2020-06-18,0.4
+Bloomington,2020-06-19,0.5
+Bloomington,2020-06-20,0.62
+Bloomington,2020-06-21,0.61
+Bloomington,2020-06-22,0.55
+Bloomington,2020-06-23,0.43
+Bloomington,2020-06-24,0.48
+Bloomington,2020-06-25,0.46
+Bloomington,2020-06-26,0.51
+Bloomington,2020-06-27,0.39
+Bloomington,2020-06-28,0.36
+Bloomington,2020-06-29,0.37
+Bloomington,2020-06-30,0.37
+Cincinnati,2020-04-15,0.92
+Cincinnati,2020-04-16,0.98
+Cincinnati,2020-04-17,0.93
+Cincinnati,2020-04-18,0.94
+Cincinnati,2020-04-19,0.83
+Cincinnati,2020-04-20,0.84
+Cincinnati,2020-04-21,0.82
+Cincinnati,2020-04-22,0.73
+Cincinnati,2020-04-23,0.7
+Cincinnati,2020-04-24,0.67
+Cincinnati,2020-04-25,0.63
+Cincinnati,2020-04-26,0.65
+Cincinnati,2020-04-27,0.59
+Cincinnati,2020-04-28,0.59
+Cincinnati,2020-04-29,0.58
+Cincinnati,2020-04-30,0.59
+Cincinnati,2020-05-01,0.6
+Cincinnati,2020-05-02,0.61
+Cincinnati,2020-05-03,0.61
+Cincinnati,2020-05-04,0.59
+Cincinnati,2020-05-05,0.61
+Cincinnati,2020-05-06,0.66
+Cincinnati,2020-05-07,0.69
+Cincinnati,2020-05-08,0.71
+Cincinnati,2020-05-09,0.68
+Cincinnati,2020-05-10,0.64
+Cincinnati,2020-05-11,0.68
+Cincinnati,2020-05-12,0.78
+Cincinnati,2020-05-13,0.8
+Cincinnati,2020-05-14,0.81
+Cincinnati,2020-05-15,0.75
+Cincinnati,2020-05-16,0.81
+Cincinnati,2020-05-17,0.77
+Cincinnati,2020-05-18,0.83
+Cincinnati,2020-05-19,0.92
+Cincinnati,2020-05-20,0.83
+Cincinnati,2020-05-21,0.82
+Cincinnati,2020-05-22,0.94
+Cincinnati,2020-05-23,0.83
+Cincinnati,2020-05-24,0.94
+Cincinnati,2020-05-25,1.03
+Cincinnati,2020-05-26,0.89
+Cincinnati,2020-05-27,0.91
+Cincinnati,2020-05-28,0.79
+Cincinnati,2020-05-29,0.87
+Cincinnati,2020-05-30,0.75
+Cincinnati,2020-05-31,0.63
+Cincinnati,2020-06-01,0.52
+Cincinnati,2020-06-02,0.47
+Cincinnati,2020-06-03,0.53
+Cincinnati,2020-06-04,0.64
+Cincinnati,2020-06-05,0.54
+Cincinnati,2020-06-06,0.6
+Cincinnati,2020-06-07,0.58
+Cincinnati,2020-06-08,0.56
+Cincinnati,2020-06-09,0.58
+Cincinnati,2020-06-10,0.61
+Cincinnati,2020-06-11,0.54
+Cincinnati,2020-06-12,0.54
+Cincinnati,2020-06-13,0.49
+Cincinnati,2020-06-14,0.56
+Cincinnati,2020-06-15,0.69
+Cincinnati,2020-06-16,0.62
+Cincinnati,2020-06-17,0.68
+Cincinnati,2020-06-18,0.65
+Cincinnati,2020-06-19,0.6
+Cincinnati,2020-06-20,0.74
+Cincinnati,2020-06-21,0.77
+Cincinnati,2020-06-22,0.82
+Cincinnati,2020-06-23,0.91
+Cincinnati,2020-06-24,1.08
+Cincinnati,2020-06-25,1.15
+Cincinnati,2020-06-26,1.3
+Cincinnati,2020-06-27,1.34
+Cincinnati,2020-06-28,1.39
+Cincinnati,2020-06-29,1.38
+Cincinnati,2020-06-30,1.38
+Columbus,2020-04-15,1.28
+Columbus,2020-04-16,0.92
+Columbus,2020-04-17,0.86
+Columbus,2020-04-18,0.85
+Columbus,2020-04-19,0.78
+Columbus,2020-04-20,0.74
+Columbus,2020-04-21,0.75
+Columbus,2020-04-22,0.74
+Columbus,2020-04-23,0.77
+Columbus,2020-04-24,0.95
+Columbus,2020-04-25,0.97
+Columbus,2020-04-26,1.07
+Columbus,2020-04-27,1.08
+Columbus,2020-04-28,1.12
+Columbus,2020-04-29,1.19
+Columbus,2020-04-30,1.06
+Columbus,2020-05-01,1
+Columbus,2020-05-02,0.92
+Columbus,2020-05-03,0.82
+Columbus,2020-05-04,0.73
+Columbus,2020-05-05,0.71
+Columbus,2020-05-06,0.67
+Columbus,2020-05-07,0.72
+Columbus,2020-05-08,0.76
+Columbus,2020-05-09,0.73
+Columbus,2020-05-10,0.74
+Columbus,2020-05-11,0.83
+Columbus,2020-05-12,0.88
+Columbus,2020-05-13,0.85
+Columbus,2020-05-14,0.82
+Columbus,2020-05-15,0.8
+Columbus,2020-05-16,0.82
+Columbus,2020-05-17,0.9
+Columbus,2020-05-18,0.89
+Columbus,2020-05-19,0.89
+Columbus,2020-05-20,0.99
+Columbus,2020-05-21,0.99
+Columbus,2020-05-22,0.92
+Columbus,2020-05-23,1.08
+Columbus,2020-05-24,0.99
+Columbus,2020-05-25,0.97
+Columbus,2020-05-26,0.89
+Columbus,2020-05-27,0.87
+Columbus,2020-05-28,0.94
+Columbus,2020-05-29,0.88
+Columbus,2020-05-30,0.98
+Columbus,2020-05-31,1.2
+Columbus,2020-06-01,1.17
+Columbus,2020-06-02,1.28
+Columbus,2020-06-03,1.44
+Columbus,2020-06-04,1.39
+Columbus,2020-06-05,1.47
+Columbus,2020-06-06,1.23
+Columbus,2020-06-07,0.92
+Columbus,2020-06-08,0.88
+Columbus,2020-06-09,0.78
+Columbus,2020-06-10,0.87
+Columbus,2020-06-11,0.86
+Columbus,2020-06-12,0.58
+Columbus,2020-06-13,0.55
+Columbus,2020-06-14,0.54
+Columbus,2020-06-15,0.56
+Columbus,2020-06-16,0.55
+Columbus,2020-06-17,0.52
+Columbus,2020-06-18,0.48
+Columbus,2020-06-19,0.62
+Columbus,2020-06-20,0.4
+Columbus,2020-06-21,0.55
+Columbus,2020-06-22,0.49
+Columbus,2020-06-23,0.46
+Columbus,2020-06-24,0.52
+Columbus,2020-06-25,0.47
+Columbus,2020-06-26,0.5
+Columbus,2020-06-27,1.18
+Columbus,2020-06-28,0.94
+Columbus,2020-06-29,1.12
+Columbus,2020-06-30,1.12
+Fort Wayne,2020-04-15,1.02
+Fort Wayne,2020-04-16,0.87
+Fort Wayne,2020-04-17,0.83
+Fort Wayne,2020-04-18,0.76
+Fort Wayne,2020-04-19,0.77
+Fort Wayne,2020-04-20,0.7
+Fort Wayne,2020-04-21,0.88
+Fort Wayne,2020-04-22,0.95
+Fort Wayne,2020-04-23,0.88
+Fort Wayne,2020-04-24,0.93
+Fort Wayne,2020-04-25,0.95
+Fort Wayne,2020-04-26,0.94
+Fort Wayne,2020-04-27,1.12
+Fort Wayne,2020-04-28,1.04
+Fort Wayne,2020-04-29,0.98
+Fort Wayne,2020-04-30,0.94
+Fort Wayne,2020-05-01,0.92
+Fort Wayne,2020-05-02,0.82
+Fort Wayne,2020-05-03,0.78
+Fort Wayne,2020-05-04,0.8
+Fort Wayne,2020-05-05,0.78
+Fort Wayne,2020-05-06,0.76
+Fort Wayne,2020-05-07,0.73
+Fort Wayne,2020-05-08,0.69
+Fort Wayne,2020-05-09,0.69
+Fort Wayne,2020-05-10,0.73
+Fort Wayne,2020-05-11,0.7
+Fort Wayne,2020-05-12,0.65
+Fort Wayne,2020-05-13,0.9
+Fort Wayne,2020-05-14,0.84
+Fort Wayne,2020-05-15,0.79
+Fort Wayne,2020-05-16,0.8
+Fort Wayne,2020-05-17,0.72
+Fort Wayne,2020-05-18,0.83
+Fort Wayne,2020-05-19,0.83
+Fort Wayne,2020-05-20,0.77
+Fort Wayne,2020-05-21,0.71
+Fort Wayne,2020-05-22,0.94
+Fort Wayne,2020-05-23,0.86
+Fort Wayne,2020-05-24,0.79
+Fort Wayne,2020-05-25,0.73
+Fort Wayne,2020-05-26,0.73
+Fort Wayne,2020-05-27,0.64
+Fort Wayne,2020-05-28,0.6
+Fort Wayne,2020-05-29,0.89
+Fort Wayne,2020-05-30,0.85
+Fort Wayne,2020-05-31,0.84
+Fort Wayne,2020-06-01,0.88
+Fort Wayne,2020-06-02,1.05
+Fort Wayne,2020-06-03,1.01
+Fort Wayne,2020-06-04,0.96
+Fort Wayne,2020-06-05,0.84
+Fort Wayne,2020-06-06,0.82
+Fort Wayne,2020-06-07,0.74
+Fort Wayne,2020-06-08,0.74
+Fort Wayne,2020-06-09,0.74
+Fort Wayne,2020-06-10,0.73
+Fort Wayne,2020-06-11,0.77
+Fort Wayne,2020-06-12,0.89
+Fort Wayne,2020-06-13,0.87
+Fort Wayne,2020-06-14,0.81
+Fort Wayne,2020-06-15,0.69
+Fort Wayne,2020-06-16,0.8
+Fort Wayne,2020-06-17,0.87
+Fort Wayne,2020-06-18,0.92
+Fort Wayne,2020-06-19,1.17
+Fort Wayne,2020-06-20,1.14
+Fort Wayne,2020-06-21,1.15
+Fort Wayne,2020-06-22,1.11
+Fort Wayne,2020-06-23,0.97
+Fort Wayne,2020-06-24,0.9
+Fort Wayne,2020-06-25,0.83
+Fort Wayne,2020-06-26,0.8
+Fort Wayne,2020-06-27,0.84
+Fort Wayne,2020-06-28,0.88
+Fort Wayne,2020-06-29,0.91
+Fort Wayne,2020-06-30,0.91
+Elkhart-Goshen,2020-04-15,1.03
+Elkhart-Goshen,2020-04-16,0.81
+Elkhart-Goshen,2020-04-17,0.46
+Elkhart-Goshen,2020-04-18,0.52
+Elkhart-Goshen,2020-04-19,0.6
+Elkhart-Goshen,2020-04-20,0.74
+Elkhart-Goshen,2020-04-21,0.83
+Elkhart-Goshen,2020-04-22,1.08
+Elkhart-Goshen,2020-04-23,1.13
+Elkhart-Goshen,2020-04-24,1.17
+Elkhart-Goshen,2020-04-25,1.07
+Elkhart-Goshen,2020-04-26,0.97
+Elkhart-Goshen,2020-04-27,0.92
+Elkhart-Goshen,2020-04-28,0.9
+Elkhart-Goshen,2020-04-29,0.81
+Elkhart-Goshen,2020-04-30,0.86
+Elkhart-Goshen,2020-05-01,0.87
+Elkhart-Goshen,2020-05-02,0.91
+Elkhart-Goshen,2020-05-03,0.88
+Elkhart-Goshen,2020-05-04,0.88
+Elkhart-Goshen,2020-05-05,0.91
+Elkhart-Goshen,2020-05-06,0.86
+Elkhart-Goshen,2020-05-07,0.79
+Elkhart-Goshen,2020-05-08,0.81
+Elkhart-Goshen,2020-05-09,0.75
+Elkhart-Goshen,2020-05-10,0.77
+Elkhart-Goshen,2020-05-11,0.87
+Elkhart-Goshen,2020-05-12,0.87
+Elkhart-Goshen,2020-05-13,0.83
+Elkhart-Goshen,2020-05-14,0.83
+Elkhart-Goshen,2020-05-15,0.89
+Elkhart-Goshen,2020-05-16,0.91
+Elkhart-Goshen,2020-05-17,0.91
+Elkhart-Goshen,2020-05-18,0.78
+Elkhart-Goshen,2020-05-19,0.71
+Elkhart-Goshen,2020-05-20,0.72
+Elkhart-Goshen,2020-05-21,0.71
+Elkhart-Goshen,2020-05-22,0.69
+Elkhart-Goshen,2020-05-23,0.76
+Elkhart-Goshen,2020-05-24,0.75
+Elkhart-Goshen,2020-05-25,0.75
+Elkhart-Goshen,2020-05-26,1
+Elkhart-Goshen,2020-05-27,0.95
+Elkhart-Goshen,2020-05-28,0.86
+Elkhart-Goshen,2020-05-29,1.05
+Elkhart-Goshen,2020-05-30,1.03
+Elkhart-Goshen,2020-05-31,0.98
+Elkhart-Goshen,2020-06-01,0.98
+Elkhart-Goshen,2020-06-02,1.11
+Elkhart-Goshen,2020-06-03,1.04
+Elkhart-Goshen,2020-06-04,1.11
+Elkhart-Goshen,2020-06-05,1.04
+Elkhart-Goshen,2020-06-06,0.92
+Elkhart-Goshen,2020-06-07,1.2
+Elkhart-Goshen,2020-06-08,1.21
+Elkhart-Goshen,2020-06-09,1.09
+Elkhart-Goshen,2020-06-10,1.02
+Elkhart-Goshen,2020-06-11,0.93
+Elkhart-Goshen,2020-06-12,0.96
+Elkhart-Goshen,2020-06-13,1.02
+Elkhart-Goshen,2020-06-14,0.93
+Elkhart-Goshen,2020-06-15,0.97
+Elkhart-Goshen,2020-06-16,0.97
+Elkhart-Goshen,2020-06-17,1.35
+Elkhart-Goshen,2020-06-18,1.36
+Elkhart-Goshen,2020-06-19,1.29
+Elkhart-Goshen,2020-06-20,1.29
+Elkhart-Goshen,2020-06-21,1.26
+Elkhart-Goshen,2020-06-22,1.07
+Elkhart-Goshen,2020-06-23,1.48
+Elkhart-Goshen,2020-06-24,1.63
+Elkhart-Goshen,2020-06-25,1.4
+Elkhart-Goshen,2020-06-26,1.3
+Elkhart-Goshen,2020-06-27,1.17
+Elkhart-Goshen,2020-06-28,1.16
+Elkhart-Goshen,2020-06-29,1.16
+Elkhart-Goshen,2020-06-30,1.16
+Evansville,2020-04-15,1.07
+Evansville,2020-04-16,1.11
+Evansville,2020-04-17,1.1
+Evansville,2020-04-18,1.03
+Evansville,2020-04-19,1.02
+Evansville,2020-04-20,1.06
+Evansville,2020-04-21,0.76
+Evansville,2020-04-22,0.78
+Evansville,2020-04-23,0.72
+Evansville,2020-04-24,0.79
+Evansville,2020-04-25,0.87
+Evansville,2020-04-26,0.95
+Evansville,2020-04-27,0.92
+Evansville,2020-04-28,1.03
+Evansville,2020-04-29,1.01
+Evansville,2020-04-30,0.92
+Evansville,2020-05-01,0.93
+Evansville,2020-05-02,0.79
+Evansville,2020-05-03,0.61
+Evansville,2020-05-04,0.55
+Evansville,2020-05-05,0.47
+Evansville,2020-05-06,0.42
+Evansville,2020-05-07,0.44
+Evansville,2020-05-08,0.45
+Evansville,2020-05-09,0.42
+Evansville,2020-05-10,0.57
+Evansville,2020-05-11,0.57
+Evansville,2020-05-12,0.92
+Evansville,2020-05-13,0.91
+Evansville,2020-05-14,0.78
+Evansville,2020-05-15,0.67
+Evansville,2020-05-16,0.61
+Evansville,2020-05-17,0.54
+Evansville,2020-05-18,0.53
+Evansville,2020-05-19,0.49
+Evansville,2020-05-20,0.42
+Evansville,2020-05-21,0.43
+Evansville,2020-05-22,0.45
+Evansville,2020-05-23,0.46
+Evansville,2020-05-24,0.46
+Evansville,2020-05-25,0.48
+Evansville,2020-05-26,0.52
+Evansville,2020-05-27,0.52
+Evansville,2020-05-28,0.48
+Evansville,2020-05-29,0.48
+Evansville,2020-05-30,0.44
+Evansville,2020-05-31,0.4
+Evansville,2020-06-01,0.38
+Evansville,2020-06-02,0.45
+Evansville,2020-06-03,0.35
+Evansville,2020-06-04,0.64
+Evansville,2020-06-05,0.67
+Evansville,2020-06-06,0.67
+Evansville,2020-06-07,0.71
+Evansville,2020-06-08,0.73
+Evansville,2020-06-09,0.67
+Evansville,2020-06-10,0.62
+Evansville,2020-06-11,0.54
+Evansville,2020-06-12,0.42
+Evansville,2020-06-13,0.4
+Evansville,2020-06-14,0.39
+Evansville,2020-06-15,0.34
+Evansville,2020-06-16,0.43
+Evansville,2020-06-17,0.41
+Evansville,2020-06-18,0.38
+Evansville,2020-06-19,0.37
+Evansville,2020-06-20,0.41
+Evansville,2020-06-21,1.51
+Evansville,2020-06-22,1.45
+Evansville,2020-06-23,1.67
+Evansville,2020-06-24,1.47
+Evansville,2020-06-25,1.33
+Evansville,2020-06-26,1.12
+Evansville,2020-06-27,1.12
+Evansville,2020-06-28,1.06
+Evansville,2020-06-29,1.07
+Evansville,2020-06-30,1.07
+Chicago-Naperville-Elgin,2020-04-15,1.28
+Chicago-Naperville-Elgin,2020-04-16,1.22
+Chicago-Naperville-Elgin,2020-04-17,1.18
+Chicago-Naperville-Elgin,2020-04-18,1.17
+Chicago-Naperville-Elgin,2020-04-19,1.15
+Chicago-Naperville-Elgin,2020-04-20,1.2
+Chicago-Naperville-Elgin,2020-04-21,1.14
+Chicago-Naperville-Elgin,2020-04-22,1.2
+Chicago-Naperville-Elgin,2020-04-23,1.2
+Chicago-Naperville-Elgin,2020-04-24,1.24
+Chicago-Naperville-Elgin,2020-04-25,1.37
+Chicago-Naperville-Elgin,2020-04-26,1.42
+Chicago-Naperville-Elgin,2020-04-27,1.59
+Chicago-Naperville-Elgin,2020-04-28,1.65
+Chicago-Naperville-Elgin,2020-04-29,1.74
+Chicago-Naperville-Elgin,2020-04-30,1.82
+Chicago-Naperville-Elgin,2020-05-01,1.87
+Chicago-Naperville-Elgin,2020-05-02,1.78
+Chicago-Naperville-Elgin,2020-05-03,1.76
+Chicago-Naperville-Elgin,2020-05-04,1.74
+Chicago-Naperville-Elgin,2020-05-05,1.76
+Chicago-Naperville-Elgin,2020-05-06,1.74
+Chicago-Naperville-Elgin,2020-05-07,1.67
+Chicago-Naperville-Elgin,2020-05-08,1.62
+Chicago-Naperville-Elgin,2020-05-09,1.5
+Chicago-Naperville-Elgin,2020-05-10,1.41
+Chicago-Naperville-Elgin,2020-05-11,1.38
+Chicago-Naperville-Elgin,2020-05-12,1.41
+Chicago-Naperville-Elgin,2020-05-13,1.38
+Chicago-Naperville-Elgin,2020-05-14,1.31
+Chicago-Naperville-Elgin,2020-05-15,1.19
+Chicago-Naperville-Elgin,2020-05-16,1.15
+Chicago-Naperville-Elgin,2020-05-17,1.09
+Chicago-Naperville-Elgin,2020-05-18,1.1
+Chicago-Naperville-Elgin,2020-05-19,1.05
+Chicago-Naperville-Elgin,2020-05-20,0.97
+Chicago-Naperville-Elgin,2020-05-21,0.98
+Chicago-Naperville-Elgin,2020-05-22,1.02
+Chicago-Naperville-Elgin,2020-05-23,1
+Chicago-Naperville-Elgin,2020-05-24,0.94
+Chicago-Naperville-Elgin,2020-05-25,1.01
+Chicago-Naperville-Elgin,2020-05-26,1.18
+Chicago-Naperville-Elgin,2020-05-27,1.18
+Chicago-Naperville-Elgin,2020-05-28,1.16
+Chicago-Naperville-Elgin,2020-05-29,1.13
+Chicago-Naperville-Elgin,2020-05-30,1.08
+Chicago-Naperville-Elgin,2020-05-31,1.02
+Chicago-Naperville-Elgin,2020-06-01,1
+Chicago-Naperville-Elgin,2020-06-02,0.94
+Chicago-Naperville-Elgin,2020-06-03,0.89
+Chicago-Naperville-Elgin,2020-06-04,0.84
+Chicago-Naperville-Elgin,2020-06-05,0.81
+Chicago-Naperville-Elgin,2020-06-06,0.78
+Chicago-Naperville-Elgin,2020-06-07,0.73
+Chicago-Naperville-Elgin,2020-06-08,0.76
+Chicago-Naperville-Elgin,2020-06-09,0.78
+Chicago-Naperville-Elgin,2020-06-10,0.75
+Chicago-Naperville-Elgin,2020-06-11,0.76
+Chicago-Naperville-Elgin,2020-06-12,0.75
+Chicago-Naperville-Elgin,2020-06-13,0.75
+Chicago-Naperville-Elgin,2020-06-14,0.74
+Chicago-Naperville-Elgin,2020-06-15,0.77
+Chicago-Naperville-Elgin,2020-06-16,0.76
+Chicago-Naperville-Elgin,2020-06-17,0.75
+Chicago-Naperville-Elgin,2020-06-18,0.74
+Chicago-Naperville-Elgin,2020-06-19,0.71
+Chicago-Naperville-Elgin,2020-06-20,0.7
+Chicago-Naperville-Elgin,2020-06-21,0.72
+Chicago-Naperville-Elgin,2020-06-22,0.82
+Chicago-Naperville-Elgin,2020-06-23,0.78
+Chicago-Naperville-Elgin,2020-06-24,0.8
+Chicago-Naperville-Elgin,2020-06-25,0.76
+Chicago-Naperville-Elgin,2020-06-26,0.71
+Chicago-Naperville-Elgin,2020-06-27,0.69
+Chicago-Naperville-Elgin,2020-06-28,0.7
+Chicago-Naperville-Elgin,2020-06-29,0.69
+Chicago-Naperville-Elgin,2020-06-30,0.69
+Indianapolis-Carmel-Anderson,2020-04-15,1.48
+Indianapolis-Carmel-Anderson,2020-04-16,1.34
+Indianapolis-Carmel-Anderson,2020-04-17,1.21
+Indianapolis-Carmel-Anderson,2020-04-18,1.2
+Indianapolis-Carmel-Anderson,2020-04-19,1.17
+Indianapolis-Carmel-Anderson,2020-04-20,1.15
+Indianapolis-Carmel-Anderson,2020-04-21,1.14
+Indianapolis-Carmel-Anderson,2020-04-22,1.14
+Indianapolis-Carmel-Anderson,2020-04-23,1.19
+Indianapolis-Carmel-Anderson,2020-04-24,1.34
+Indianapolis-Carmel-Anderson,2020-04-25,1.36
+Indianapolis-Carmel-Anderson,2020-04-26,1.38
+Indianapolis-Carmel-Anderson,2020-04-27,1.33
+Indianapolis-Carmel-Anderson,2020-04-28,1.37
+Indianapolis-Carmel-Anderson,2020-04-29,1.47
+Indianapolis-Carmel-Anderson,2020-04-30,1.32
+Indianapolis-Carmel-Anderson,2020-05-01,1.24
+Indianapolis-Carmel-Anderson,2020-05-02,1.19
+Indianapolis-Carmel-Anderson,2020-05-03,1.15
+Indianapolis-Carmel-Anderson,2020-05-04,1.11
+Indianapolis-Carmel-Anderson,2020-05-05,1.02
+Indianapolis-Carmel-Anderson,2020-05-06,0.93
+Indianapolis-Carmel-Anderson,2020-05-07,0.96
+Indianapolis-Carmel-Anderson,2020-05-08,0.95
+Indianapolis-Carmel-Anderson,2020-05-09,0.86
+Indianapolis-Carmel-Anderson,2020-05-10,0.78
+Indianapolis-Carmel-Anderson,2020-05-11,0.96
+Indianapolis-Carmel-Anderson,2020-05-12,0.98
+Indianapolis-Carmel-Anderson,2020-05-13,1.02
+Indianapolis-Carmel-Anderson,2020-05-14,0.97
+Indianapolis-Carmel-Anderson,2020-05-15,0.94
+Indianapolis-Carmel-Anderson,2020-05-16,0.93
+Indianapolis-Carmel-Anderson,2020-05-17,1.1
+Indianapolis-Carmel-Anderson,2020-05-18,1.05
+Indianapolis-Carmel-Anderson,2020-05-19,0.98
+Indianapolis-Carmel-Anderson,2020-05-20,1.07
+Indianapolis-Carmel-Anderson,2020-05-21,1.02
+Indianapolis-Carmel-Anderson,2020-05-22,0.93
+Indianapolis-Carmel-Anderson,2020-05-23,1.01
+Indianapolis-Carmel-Anderson,2020-05-24,0.92
+Indianapolis-Carmel-Anderson,2020-05-25,0.91
+Indianapolis-Carmel-Anderson,2020-05-26,1.04
+Indianapolis-Carmel-Anderson,2020-05-27,1.02
+Indianapolis-Carmel-Anderson,2020-05-28,1.07
+Indianapolis-Carmel-Anderson,2020-05-29,1.01
+Indianapolis-Carmel-Anderson,2020-05-30,0.92
+Indianapolis-Carmel-Anderson,2020-05-31,0.87
+Indianapolis-Carmel-Anderson,2020-06-01,0.77
+Indianapolis-Carmel-Anderson,2020-06-02,0.76
+Indianapolis-Carmel-Anderson,2020-06-03,0.77
+Indianapolis-Carmel-Anderson,2020-06-04,0.71
+Indianapolis-Carmel-Anderson,2020-06-05,0.72
+Indianapolis-Carmel-Anderson,2020-06-06,0.66
+Indianapolis-Carmel-Anderson,2020-06-07,0.65
+Indianapolis-Carmel-Anderson,2020-06-08,0.71
+Indianapolis-Carmel-Anderson,2020-06-09,0.72
+Indianapolis-Carmel-Anderson,2020-06-10,0.81
+Indianapolis-Carmel-Anderson,2020-06-11,0.77
+Indianapolis-Carmel-Anderson,2020-06-12,0.74
+Indianapolis-Carmel-Anderson,2020-06-13,0.7
+Indianapolis-Carmel-Anderson,2020-06-14,0.67
+Indianapolis-Carmel-Anderson,2020-06-15,0.74
+Indianapolis-Carmel-Anderson,2020-06-16,0.76
+Indianapolis-Carmel-Anderson,2020-06-17,0.69
+Indianapolis-Carmel-Anderson,2020-06-18,0.68
+Indianapolis-Carmel-Anderson,2020-06-19,0.81
+Indianapolis-Carmel-Anderson,2020-06-20,0.73
+Indianapolis-Carmel-Anderson,2020-06-21,0.69
+Indianapolis-Carmel-Anderson,2020-06-22,0.68
+Indianapolis-Carmel-Anderson,2020-06-23,0.57
+Indianapolis-Carmel-Anderson,2020-06-24,0.63
+Indianapolis-Carmel-Anderson,2020-06-25,0.54
+Indianapolis-Carmel-Anderson,2020-06-26,0.55
+Indianapolis-Carmel-Anderson,2020-06-27,0.59
+Indianapolis-Carmel-Anderson,2020-06-28,0.59
+Indianapolis-Carmel-Anderson,2020-06-29,0.58
+Indianapolis-Carmel-Anderson,2020-06-30,0.58
+Kokomo,2020-04-15,1.35
+Kokomo,2020-04-16,1.42
+Kokomo,2020-04-17,1.36
+Kokomo,2020-04-18,1.32
+Kokomo,2020-04-19,1.24
+Kokomo,2020-04-20,1.18
+Kokomo,2020-04-21,1.19
+Kokomo,2020-04-22,1.17
+Kokomo,2020-04-23,1.18
+Kokomo,2020-04-24,0.95
+Kokomo,2020-04-25,0.95
+Kokomo,2020-04-26,1.03
+Kokomo,2020-04-27,1.01
+Kokomo,2020-04-28,1.08
+Kokomo,2020-04-29,1.2
+Kokomo,2020-04-30,1.16
+Kokomo,2020-05-01,1.16
+Kokomo,2020-05-02,1.12
+Kokomo,2020-05-03,1.11
+Kokomo,2020-05-04,1.09
+Kokomo,2020-05-05,1.06
+Kokomo,2020-05-06,1.1
+Kokomo,2020-05-07,1.21
+Kokomo,2020-05-08,1.22
+Kokomo,2020-05-09,1.24
+Kokomo,2020-05-10,1.2
+Kokomo,2020-05-11,1.3
+Kokomo,2020-05-12,1.31
+Kokomo,2020-05-13,1.28
+Kokomo,2020-05-14,1.18
+Kokomo,2020-05-15,1.09
+Kokomo,2020-05-16,1.05
+Kokomo,2020-05-17,1.03
+Kokomo,2020-05-18,0.96
+Kokomo,2020-05-19,0.88
+Kokomo,2020-05-20,0.92
+Kokomo,2020-05-21,0.77
+Kokomo,2020-05-22,0.69
+Kokomo,2020-05-23,0.62
+Kokomo,2020-05-24,0.62
+Kokomo,2020-05-25,0.62
+Kokomo,2020-05-26,0.7
+Kokomo,2020-05-27,0.75
+Kokomo,2020-05-28,0.87
+Kokomo,2020-05-29,0.88
+Kokomo,2020-05-30,0.87
+Kokomo,2020-05-31,0.77
+Kokomo,2020-06-01,0.98
+Kokomo,2020-06-02,0.96
+Kokomo,2020-06-03,0.94
+Kokomo,2020-06-04,1.01
+Kokomo,2020-06-05,1.05
+Kokomo,2020-06-06,0.98
+Kokomo,2020-06-07,0.95
+Kokomo,2020-06-08,0.92
+Kokomo,2020-06-09,0.89
+Kokomo,2020-06-10,0.85
+Kokomo,2020-06-11,0.85
+Kokomo,2020-06-12,0.83
+Kokomo,2020-06-13,0.83
+Kokomo,2020-06-14,0.83
+Kokomo,2020-06-15,0.9
+Kokomo,2020-06-16,0.93
+Kokomo,2020-06-17,0.86
+Kokomo,2020-06-18,0.84
+Kokomo,2020-06-19,0.94
+Kokomo,2020-06-20,0.92
+Kokomo,2020-06-21,0.89
+Kokomo,2020-06-22,0.83
+Kokomo,2020-06-23,0.59
+Kokomo,2020-06-24,0.63
+Kokomo,2020-06-25,0.56
+Kokomo,2020-06-26,0.58
+Kokomo,2020-06-27,0.6
+Kokomo,2020-06-28,0.58
+Kokomo,2020-06-29,0.63
+Kokomo,2020-06-30,0.63
+Lafayette-West Lafayette,2020-04-15,1.13
+Lafayette-West Lafayette,2020-04-16,1.19
+Lafayette-West Lafayette,2020-04-17,1.33
+Lafayette-West Lafayette,2020-04-18,1.22
+Lafayette-West Lafayette,2020-04-19,1.12
+Lafayette-West Lafayette,2020-04-20,1
+Lafayette-West Lafayette,2020-04-21,0.73
+Lafayette-West Lafayette,2020-04-22,0.74
+Lafayette-West Lafayette,2020-04-23,0.61
+Lafayette-West Lafayette,2020-04-24,0.37
+Lafayette-West Lafayette,2020-04-25,0.34
+Lafayette-West Lafayette,2020-04-26,0.42
+Lafayette-West Lafayette,2020-04-27,0.44
+Lafayette-West Lafayette,2020-04-28,0.57
+Lafayette-West Lafayette,2020-04-29,0.65
+Lafayette-West Lafayette,2020-04-30,0.68
+Lafayette-West Lafayette,2020-05-01,0.65
+Lafayette-West Lafayette,2020-05-02,0.7
+Lafayette-West Lafayette,2020-05-03,0.79
+Lafayette-West Lafayette,2020-05-04,0.86
+Lafayette-West Lafayette,2020-05-05,0.85
+Lafayette-West Lafayette,2020-05-06,0.9
+Lafayette-West Lafayette,2020-05-07,0.82
+Lafayette-West Lafayette,2020-05-08,0.88
+Lafayette-West Lafayette,2020-05-09,0.9
+Lafayette-West Lafayette,2020-05-10,0.95
+Lafayette-West Lafayette,2020-05-11,1.03
+Lafayette-West Lafayette,2020-05-12,0.97
+Lafayette-West Lafayette,2020-05-13,0.86
+Lafayette-West Lafayette,2020-05-14,0.87
+Lafayette-West Lafayette,2020-05-15,0.94
+Lafayette-West Lafayette,2020-05-16,0.84
+Lafayette-West Lafayette,2020-05-17,0.66
+Lafayette-West Lafayette,2020-05-18,0.54
+Lafayette-West Lafayette,2020-05-19,0.58
+Lafayette-West Lafayette,2020-05-20,0.56
+Lafayette-West Lafayette,2020-05-21,0.56
+Lafayette-West Lafayette,2020-05-22,0.52
+Lafayette-West Lafayette,2020-05-23,0.5
+Lafayette-West Lafayette,2020-05-24,0.48
+Lafayette-West Lafayette,2020-05-25,0.49
+Lafayette-West Lafayette,2020-05-26,0.45
+Lafayette-West Lafayette,2020-05-27,0.44
+Lafayette-West Lafayette,2020-05-28,0.45
+Lafayette-West Lafayette,2020-05-29,0.4
+Lafayette-West Lafayette,2020-05-30,0.4
+Lafayette-West Lafayette,2020-05-31,0.41
+Lafayette-West Lafayette,2020-06-01,0.6
+Lafayette-West Lafayette,2020-06-02,0.62
+Lafayette-West Lafayette,2020-06-03,0.62
+Lafayette-West Lafayette,2020-06-04,0.63
+Lafayette-West Lafayette,2020-06-05,0.71
+Lafayette-West Lafayette,2020-06-06,0.7
+Lafayette-West Lafayette,2020-06-07,0.7
+Lafayette-West Lafayette,2020-06-08,0.65
+Lafayette-West Lafayette,2020-06-09,0.69
+Lafayette-West Lafayette,2020-06-10,0.68
+Lafayette-West Lafayette,2020-06-11,0.65
+Lafayette-West Lafayette,2020-06-12,0.77
+Lafayette-West Lafayette,2020-06-13,0.83
+Lafayette-West Lafayette,2020-06-14,0.78
+Lafayette-West Lafayette,2020-06-15,0.66
+Lafayette-West Lafayette,2020-06-16,0.68
+Lafayette-West Lafayette,2020-06-17,0.7
+Lafayette-West Lafayette,2020-06-18,0.74
+Lafayette-West Lafayette,2020-06-19,0.57
+Lafayette-West Lafayette,2020-06-20,0.56
+Lafayette-West Lafayette,2020-06-21,0.55
+Lafayette-West Lafayette,2020-06-22,0.52
+Lafayette-West Lafayette,2020-06-23,0.45
+Lafayette-West Lafayette,2020-06-24,0.47
+Lafayette-West Lafayette,2020-06-25,0.4
+Lafayette-West Lafayette,2020-06-26,0.4
+Lafayette-West Lafayette,2020-06-27,0.41
+Lafayette-West Lafayette,2020-06-28,0.46
+Lafayette-West Lafayette,2020-06-29,0.46
+Lafayette-West Lafayette,2020-06-30,0.46
+Louisville/Jefferson County,2020-04-15,1.12
+Louisville/Jefferson County,2020-04-16,0.95
+Louisville/Jefferson County,2020-04-17,1.13
+Louisville/Jefferson County,2020-04-18,1.12
+Louisville/Jefferson County,2020-04-19,1.04
+Louisville/Jefferson County,2020-04-20,1
+Louisville/Jefferson County,2020-04-21,1
+Louisville/Jefferson County,2020-04-22,1.03
+Louisville/Jefferson County,2020-04-23,0.94
+Louisville/Jefferson County,2020-04-24,0.82
+Louisville/Jefferson County,2020-04-25,0.87
+Louisville/Jefferson County,2020-04-26,0.93
+Louisville/Jefferson County,2020-04-27,0.95
+Louisville/Jefferson County,2020-04-28,0.96
+Louisville/Jefferson County,2020-04-29,0.96
+Louisville/Jefferson County,2020-04-30,0.92
+Louisville/Jefferson County,2020-05-01,0.88
+Louisville/Jefferson County,2020-05-02,0.8
+Louisville/Jefferson County,2020-05-03,0.75
+Louisville/Jefferson County,2020-05-04,0.7
+Louisville/Jefferson County,2020-05-05,0.66
+Louisville/Jefferson County,2020-05-06,0.89
+Louisville/Jefferson County,2020-05-07,0.89
+Louisville/Jefferson County,2020-05-08,0.89
+Louisville/Jefferson County,2020-05-09,0.88
+Louisville/Jefferson County,2020-05-10,0.8
+Louisville/Jefferson County,2020-05-11,0.74
+Louisville/Jefferson County,2020-05-12,0.84
+Louisville/Jefferson County,2020-05-13,0.68
+Louisville/Jefferson County,2020-05-14,0.64
+Louisville/Jefferson County,2020-05-15,0.66
+Louisville/Jefferson County,2020-05-16,0.58
+Louisville/Jefferson County,2020-05-17,0.6
+Louisville/Jefferson County,2020-05-18,0.64
+Louisville/Jefferson County,2020-05-19,0.64
+Louisville/Jefferson County,2020-05-20,0.67
+Louisville/Jefferson County,2020-05-21,0.71
+Louisville/Jefferson County,2020-05-22,0.64
+Louisville/Jefferson County,2020-05-23,0.62
+Louisville/Jefferson County,2020-05-24,0.92
+Louisville/Jefferson County,2020-05-25,0.79
+Louisville/Jefferson County,2020-05-26,0.69
+Louisville/Jefferson County,2020-05-27,0.93
+Louisville/Jefferson County,2020-05-28,1.02
+Louisville/Jefferson County,2020-05-29,0.88
+Louisville/Jefferson County,2020-05-30,0.78
+Louisville/Jefferson County,2020-05-31,0.67
+Louisville/Jefferson County,2020-06-01,0.75
+Louisville/Jefferson County,2020-06-02,0.7
+Louisville/Jefferson County,2020-06-03,0.63
+Louisville/Jefferson County,2020-06-04,0.6
+Louisville/Jefferson County,2020-06-05,0.6
+Louisville/Jefferson County,2020-06-06,0.61
+Louisville/Jefferson County,2020-06-07,0.54
+Louisville/Jefferson County,2020-06-08,0.52
+Louisville/Jefferson County,2020-06-09,0.57
+Louisville/Jefferson County,2020-06-10,0.5
+Louisville/Jefferson County,2020-06-11,0.5
+Louisville/Jefferson County,2020-06-12,0.67
+Louisville/Jefferson County,2020-06-13,0.6
+Louisville/Jefferson County,2020-06-14,0.58
+Louisville/Jefferson County,2020-06-15,0.61
+Louisville/Jefferson County,2020-06-16,0.54
+Louisville/Jefferson County,2020-06-17,0.58
+Louisville/Jefferson County,2020-06-18,0.58
+Louisville/Jefferson County,2020-06-19,0.55
+Louisville/Jefferson County,2020-06-20,0.53
+Louisville/Jefferson County,2020-06-21,0.52
+Louisville/Jefferson County,2020-06-22,0.5
+Louisville/Jefferson County,2020-06-23,0.48
+Louisville/Jefferson County,2020-06-24,0.73
+Louisville/Jefferson County,2020-06-25,0.68
+Louisville/Jefferson County,2020-06-26,0.73
+Louisville/Jefferson County,2020-06-27,0.76
+Louisville/Jefferson County,2020-06-28,0.76
+Louisville/Jefferson County,2020-06-29,0.79
+Louisville/Jefferson County,2020-06-30,0.79
+Michigan City-La Porte,2020-04-15,1.23
+Michigan City-La Porte,2020-04-16,1.21
+Michigan City-La Porte,2020-04-17,1.16
+Michigan City-La Porte,2020-04-18,1.27
+Michigan City-La Porte,2020-04-19,1
+Michigan City-La Porte,2020-04-20,0.85
+Michigan City-La Porte,2020-04-21,0.98
+Michigan City-La Porte,2020-04-22,0.81
+Michigan City-La Porte,2020-04-23,0.82
+Michigan City-La Porte,2020-04-24,0.91
+Michigan City-La Porte,2020-04-25,0.81
+Michigan City-La Porte,2020-04-26,0.74
+Michigan City-La Porte,2020-04-27,0.82
+Michigan City-La Porte,2020-04-28,0.74
+Michigan City-La Porte,2020-04-29,0.78
+Michigan City-La Porte,2020-04-30,0.81
+Michigan City-La Porte,2020-05-01,0.82
+Michigan City-La Porte,2020-05-02,0.81
+Michigan City-La Porte,2020-05-03,0.9
+Michigan City-La Porte,2020-05-04,0.9
+Michigan City-La Porte,2020-05-05,0.93
+Michigan City-La Porte,2020-05-06,1.08
+Michigan City-La Porte,2020-05-07,1.08
+Michigan City-La Porte,2020-05-08,1.08
+Michigan City-La Porte,2020-05-09,0.96
+Michigan City-La Porte,2020-05-10,0.88
+Michigan City-La Porte,2020-05-11,0.86
+Michigan City-La Porte,2020-05-12,0.94
+Michigan City-La Porte,2020-05-13,0.83
+Michigan City-La Porte,2020-05-14,0.81
+Michigan City-La Porte,2020-05-15,0.8
+Michigan City-La Porte,2020-05-16,0.74
+Michigan City-La Porte,2020-05-17,0.75
+Michigan City-La Porte,2020-05-18,0.78
+Michigan City-La Porte,2020-05-19,0.81
+Michigan City-La Porte,2020-05-20,0.67
+Michigan City-La Porte,2020-05-21,0.7
+Michigan City-La Porte,2020-05-22,0.67
+Michigan City-La Porte,2020-05-23,0.69
+Michigan City-La Porte,2020-05-24,0.65
+Michigan City-La Porte,2020-05-25,0.8
+Michigan City-La Porte,2020-05-26,0.83
+Michigan City-La Porte,2020-05-27,0.84
+Michigan City-La Porte,2020-05-28,0.91
+Michigan City-La Porte,2020-05-29,0.91
+Michigan City-La Porte,2020-05-30,0.87
+Michigan City-La Porte,2020-05-31,0.83
+Michigan City-La Porte,2020-06-01,0.67
+Michigan City-La Porte,2020-06-02,0.62
+Michigan City-La Porte,2020-06-03,0.59
+Michigan City-La Porte,2020-06-04,0.52
+Michigan City-La Porte,2020-06-05,0.5
+Michigan City-La Porte,2020-06-06,0.47
+Michigan City-La Porte,2020-06-07,0.6
+Michigan City-La Porte,2020-06-08,0.64
+Michigan City-La Porte,2020-06-09,0.63
+Michigan City-La Porte,2020-06-10,0.64
+Michigan City-La Porte,2020-06-11,0.61
+Michigan City-La Porte,2020-06-12,0.65
+Michigan City-La Porte,2020-06-13,0.65
+Michigan City-La Porte,2020-06-14,0.64
+Michigan City-La Porte,2020-06-15,0.57
+Michigan City-La Porte,2020-06-16,0.7
+Michigan City-La Porte,2020-06-17,0.69
+Michigan City-La Porte,2020-06-18,0.77
+Michigan City-La Porte,2020-06-19,0.77
+Michigan City-La Porte,2020-06-20,0.81
+Michigan City-La Porte,2020-06-21,0.73
+Michigan City-La Porte,2020-06-22,0.73
+Michigan City-La Porte,2020-06-23,0.66
+Michigan City-La Porte,2020-06-24,0.69
+Michigan City-La Porte,2020-06-25,0.6
+Michigan City-La Porte,2020-06-26,0.58
+Michigan City-La Porte,2020-06-27,0.67
+Michigan City-La Porte,2020-06-28,0.72
+Michigan City-La Porte,2020-06-29,0.9
+Michigan City-La Porte,2020-06-30,0.9
+Muncie,2020-04-15,1.09
+Muncie,2020-04-16,1.03
+Muncie,2020-04-17,0.95
+Muncie,2020-04-18,0.78
+Muncie,2020-04-19,0.72
+Muncie,2020-04-20,0.63
+Muncie,2020-04-21,0.72
+Muncie,2020-04-22,0.47
+Muncie,2020-04-23,0.58
+Muncie,2020-04-24,0.58
+Muncie,2020-04-25,0.71
+Muncie,2020-04-26,0.92
+Muncie,2020-04-27,0.93
+Muncie,2020-04-28,1.07
+Muncie,2020-04-29,1.16
+Muncie,2020-04-30,1.15
+Muncie,2020-05-01,1.12
+Muncie,2020-05-02,1.06
+Muncie,2020-05-03,0.9
+Muncie,2020-05-04,0.83
+Muncie,2020-05-05,0.74
+Muncie,2020-05-06,0.71
+Muncie,2020-05-07,0.68
+Muncie,2020-05-08,0.71
+Muncie,2020-05-09,0.68
+Muncie,2020-05-10,0.64
+Muncie,2020-05-11,0.8
+Muncie,2020-05-12,0.85
+Muncie,2020-05-13,0.76
+Muncie,2020-05-14,0.7
+Muncie,2020-05-15,0.63
+Muncie,2020-05-16,0.74
+Muncie,2020-05-17,0.92
+Muncie,2020-05-18,0.92
+Muncie,2020-05-19,0.92
+Muncie,2020-05-20,0.98
+Muncie,2020-05-21,0.99
+Muncie,2020-05-22,0.94
+Muncie,2020-05-23,1
+Muncie,2020-05-24,0.96
+Muncie,2020-05-25,0.95
+Muncie,2020-05-26,1.13
+Muncie,2020-05-27,1.31
+Muncie,2020-05-28,1.28
+Muncie,2020-05-29,1.31
+Muncie,2020-05-30,1.25
+Muncie,2020-05-31,1.16
+Muncie,2020-06-01,1.09
+Muncie,2020-06-02,1.11
+Muncie,2020-06-03,0.98
+Muncie,2020-06-04,0.94
+Muncie,2020-06-05,0.72
+Muncie,2020-06-06,0.51
+Muncie,2020-06-07,0.54
+Muncie,2020-06-08,0.8
+Muncie,2020-06-09,0.8
+Muncie,2020-06-10,1.03
+Muncie,2020-06-11,1.09
+Muncie,2020-06-12,1.09
+Muncie,2020-06-13,1.09
+Muncie,2020-06-14,1.17
+Muncie,2020-06-15,0.96
+Muncie,2020-06-16,0.97
+Muncie,2020-06-17,0.81
+Muncie,2020-06-18,0.7
+Muncie,2020-06-19,0.81
+Muncie,2020-06-20,0.73
+Muncie,2020-06-21,0.5
+Muncie,2020-06-22,0.49
+Muncie,2020-06-23,0.32
+Muncie,2020-06-24,0.37
+Muncie,2020-06-25,0.31
+Muncie,2020-06-26,0.36
+Muncie,2020-06-27,0.41
+Muncie,2020-06-28,0.4
+Muncie,2020-06-29,0.56
+Muncie,2020-06-30,0.56
+South Bend-Mishawaka,2020-04-15,0.97
+South Bend-Mishawaka,2020-04-16,0.99
+South Bend-Mishawaka,2020-04-17,1.18
+South Bend-Mishawaka,2020-04-18,1.01
+South Bend-Mishawaka,2020-04-19,1.14
+South Bend-Mishawaka,2020-04-20,1.25
+South Bend-Mishawaka,2020-04-21,1.36
+South Bend-Mishawaka,2020-04-22,1.56
+South Bend-Mishawaka,2020-04-23,1.7
+South Bend-Mishawaka,2020-04-24,1.65
+South Bend-Mishawaka,2020-04-25,1.62
+South Bend-Mishawaka,2020-04-26,1.43
+South Bend-Mishawaka,2020-04-27,1.38
+South Bend-Mishawaka,2020-04-28,1.38
+South Bend-Mishawaka,2020-04-29,1.34
+South Bend-Mishawaka,2020-04-30,1.28
+South Bend-Mishawaka,2020-05-01,1.15
+South Bend-Mishawaka,2020-05-02,1.11
+South Bend-Mishawaka,2020-05-03,1.05
+South Bend-Mishawaka,2020-05-04,1.05
+South Bend-Mishawaka,2020-05-05,0.87
+South Bend-Mishawaka,2020-05-06,0.79
+South Bend-Mishawaka,2020-05-07,0.79
+South Bend-Mishawaka,2020-05-08,0.75
+South Bend-Mishawaka,2020-05-09,0.68
+South Bend-Mishawaka,2020-05-10,0.64
+South Bend-Mishawaka,2020-05-11,0.55
+South Bend-Mishawaka,2020-05-12,0.53
+South Bend-Mishawaka,2020-05-13,0.48
+South Bend-Mishawaka,2020-05-14,0.44
+South Bend-Mishawaka,2020-05-15,0.43
+South Bend-Mishawaka,2020-05-16,0.53
+South Bend-Mishawaka,2020-05-17,0.55
+South Bend-Mishawaka,2020-05-18,0.6
+South Bend-Mishawaka,2020-05-19,0.56
+South Bend-Mishawaka,2020-05-20,0.55
+South Bend-Mishawaka,2020-05-21,0.53
+South Bend-Mishawaka,2020-05-22,0.57
+South Bend-Mishawaka,2020-05-23,0.57
+South Bend-Mishawaka,2020-05-24,0.56
+South Bend-Mishawaka,2020-05-25,0.6
+South Bend-Mishawaka,2020-05-26,0.82
+South Bend-Mishawaka,2020-05-27,0.82
+South Bend-Mishawaka,2020-05-28,0.79
+South Bend-Mishawaka,2020-05-29,0.95
+South Bend-Mishawaka,2020-05-30,0.85
+South Bend-Mishawaka,2020-05-31,0.82
+South Bend-Mishawaka,2020-06-01,0.71
+South Bend-Mishawaka,2020-06-02,0.65
+South Bend-Mishawaka,2020-06-03,0.56
+South Bend-Mishawaka,2020-06-04,0.58
+South Bend-Mishawaka,2020-06-05,0.55
+South Bend-Mishawaka,2020-06-06,0.57
+South Bend-Mishawaka,2020-06-07,0.66
+South Bend-Mishawaka,2020-06-08,0.6
+South Bend-Mishawaka,2020-06-09,0.62
+South Bend-Mishawaka,2020-06-10,0.62
+South Bend-Mishawaka,2020-06-11,0.55
+South Bend-Mishawaka,2020-06-12,0.62
+South Bend-Mishawaka,2020-06-13,0.58
+South Bend-Mishawaka,2020-06-14,0.57
+South Bend-Mishawaka,2020-06-15,0.53
+South Bend-Mishawaka,2020-06-16,0.48
+South Bend-Mishawaka,2020-06-17,0.81
+South Bend-Mishawaka,2020-06-18,0.92
+South Bend-Mishawaka,2020-06-19,0.84
+South Bend-Mishawaka,2020-06-20,0.83
+South Bend-Mishawaka,2020-06-21,0.83
+South Bend-Mishawaka,2020-06-22,0.83
+South Bend-Mishawaka,2020-06-23,1.46
+South Bend-Mishawaka,2020-06-24,1.71
+South Bend-Mishawaka,2020-06-25,1.42
+South Bend-Mishawaka,2020-06-26,1.19
+South Bend-Mishawaka,2020-06-27,1.17
+South Bend-Mishawaka,2020-06-28,1.14
+South Bend-Mishawaka,2020-06-29,1.09
+South Bend-Mishawaka,2020-06-30,1.09
+Terre Haute,2020-04-15,1.02
+Terre Haute,2020-04-16,0.91
+Terre Haute,2020-04-17,0.8
+Terre Haute,2020-04-18,0.9
+Terre Haute,2020-04-19,0.84
+Terre Haute,2020-04-20,0.93
+Terre Haute,2020-04-21,0.98
+Terre Haute,2020-04-22,0.76
+Terre Haute,2020-04-23,0.99
+Terre Haute,2020-04-24,0.99
+Terre Haute,2020-04-25,0.79
+Terre Haute,2020-04-26,0.78
+Terre Haute,2020-04-27,0.79
+Terre Haute,2020-04-28,0.72
+Terre Haute,2020-04-29,0.7
+Terre Haute,2020-04-30,0.62
+Terre Haute,2020-05-01,0.62
+Terre Haute,2020-05-02,0.64
+Terre Haute,2020-05-03,0.69
+Terre Haute,2020-05-04,0.65
+Terre Haute,2020-05-05,0.82
+Terre Haute,2020-05-06,0.97
+Terre Haute,2020-05-07,1.04
+Terre Haute,2020-05-08,1.08
+Terre Haute,2020-05-09,1.06
+Terre Haute,2020-05-10,1.14
+Terre Haute,2020-05-11,1.06
+Terre Haute,2020-05-12,0.8
+Terre Haute,2020-05-13,0.65
+Terre Haute,2020-05-14,0.61
+Terre Haute,2020-05-15,0.63
+Terre Haute,2020-05-16,0.71
+Terre Haute,2020-05-17,0.59
+Terre Haute,2020-05-18,0.54
+Terre Haute,2020-05-19,0.52
+Terre Haute,2020-05-20,0.52
+Terre Haute,2020-05-21,0.58
+Terre Haute,2020-05-22,0.62
+Terre Haute,2020-05-23,0.53
+Terre Haute,2020-05-24,0.51
+Terre Haute,2020-05-25,0.5
+Terre Haute,2020-05-26,0.57
+Terre Haute,2020-05-27,0.55
+Terre Haute,2020-05-28,0.44
+Terre Haute,2020-05-29,0.49
+Terre Haute,2020-05-30,0.5
+Terre Haute,2020-05-31,0.58
+Terre Haute,2020-06-01,0.75
+Terre Haute,2020-06-02,0.71
+Terre Haute,2020-06-03,0.67
+Terre Haute,2020-06-04,0.72
+Terre Haute,2020-06-05,0.59
+Terre Haute,2020-06-06,0.72
+Terre Haute,2020-06-07,0.71
+Terre Haute,2020-06-08,0.55
+Terre Haute,2020-06-09,0.6
+Terre Haute,2020-06-10,0.59
+Terre Haute,2020-06-11,0.64
+Terre Haute,2020-06-12,0.7
+Terre Haute,2020-06-13,0.69
+Terre Haute,2020-06-14,0.58
+Terre Haute,2020-06-15,0.58
+Terre Haute,2020-06-16,0.58
+Terre Haute,2020-06-17,0.56
+Terre Haute,2020-06-18,0.5
+Terre Haute,2020-06-19,0.43
+Terre Haute,2020-06-20,0.39
+Terre Haute,2020-06-21,0.55
+Terre Haute,2020-06-22,0.58
+Terre Haute,2020-06-23,0.54
+Terre Haute,2020-06-24,0.54
+Terre Haute,2020-06-25,0.59
+Terre Haute,2020-06-26,0.6
+Terre Haute,2020-06-27,0.61
+Terre Haute,2020-06-28,0.43
+Terre Haute,2020-06-29,0.43
+Terre Haute,2020-06-30,0.43
+Bloomington,2020-07-01,0.38
+Cincinnati,2020-07-01,1.32
+Columbus,2020-07-01,1.08
+Fort Wayne,2020-07-01,1.08
+Elkhart-Goshen,2020-07-01,0.99
+Evansville,2020-07-01,0.97
+Chicago-Naperville-Elgin,2020-07-01,0.74
+Indianapolis-Carmel-Anderson,2020-07-01,0.61
+Kokomo,2020-07-01,0.55
+Lafayette-West Lafayette,2020-07-01,0.5
+Louisville/Jefferson County,2020-07-01,0.76
+Michigan City-La Porte,2020-07-01,0.72
+Muncie,2020-07-01,0.58
+South Bend-Mishawaka,2020-07-01,0.85
+Terre Haute,2020-07-01,0.41
+Bloomington,2020-07-01,0.38
+Cincinnati,2020-07-01,1.32
+Columbus,2020-07-01,1.08
+Fort Wayne,2020-07-01,1.08
+Elkhart-Goshen,2020-07-01,0.99
+Evansville,2020-07-01,0.97
+Chicago-Naperville-Elgin,2020-07-01,0.74
+Indianapolis-Carmel-Anderson,2020-07-01,0.61
+Kokomo,2020-07-01,0.55
+Lafayette-West Lafayette,2020-07-01,0.5
+Louisville/Jefferson County,2020-07-01,0.76
+Michigan City-La Porte,2020-07-01,0.72
+Muncie,2020-07-01,0.58
+South Bend-Mishawaka,2020-07-01,0.85
+Terre Haute,2020-07-01,0.41
+Bloomington,2020-07-02,0.52
+Cincinnati,2020-07-02,1.22
+Columbus,2020-07-02,1.12
+Fort Wayne,2020-07-02,1.04
+Elkhart-Goshen,2020-07-02,0.86
+Evansville,2020-07-02,1.52
+Chicago-Naperville-Elgin,2020-07-02,0.81
+Indianapolis-Carmel-Anderson,2020-07-02,0.6
+Kokomo,2020-07-02,0.49
+Lafayette-West Lafayette,2020-07-02,0.49
+Louisville/Jefferson County,2020-07-02,0.67
+Michigan City-La Porte,2020-07-02,0.74
+Muncie,2020-07-02,0.56
+South Bend-Mishawaka,2020-07-02,0.73
+Terre Haute,2020-07-02,0.5
+Bloomington,2020-07-03,0.64
+Cincinnati,2020-07-03,1.18
+Columbus,2020-07-03,0.66
+Fort Wayne,2020-07-03,1.02
+Elkhart-Goshen,2020-07-03,0.86
+Evansville,2020-07-03,1.5
+Chicago-Naperville-Elgin,2020-07-03,0.85
+Indianapolis-Carmel-Anderson,2020-07-03,0.71
+Kokomo,2020-07-03,0.65
+Lafayette-West Lafayette,2020-07-03,0.49
+Louisville/Jefferson County,2020-07-03,0.67
+Michigan City-La Porte,2020-07-03,0.74
+Muncie,2020-07-03,0.69
+South Bend-Mishawaka,2020-07-03,0.63
+Terre Haute,2020-07-03,0.43
+Bloomington,2020-07-04,0.86
+Cincinnati,2020-07-04,1.1
+Columbus,2020-07-04,0.96
+Fort Wayne,2020-07-04,1.04
+Elkhart-Goshen,2020-07-04,0.76
+Evansville,2020-07-04,1.31
+Chicago-Naperville-Elgin,2020-07-04,0.77
+Indianapolis-Carmel-Anderson,2020-07-04,0.98
+Kokomo,2020-07-04,0.86
+Lafayette-West Lafayette,2020-07-04,0.62
+Louisville/Jefferson County,2020-07-04,0.62
+Michigan City-La Porte,2020-07-04,0.67
+Muncie,2020-07-04,0.95
+South Bend-Mishawaka,2020-07-04,0.55
+Terre Haute,2020-07-04,0.42
+Bloomington,2020-07-05,1.07
+Cincinnati,2020-07-05,0.95
+Columbus,2020-07-05,1
+Fort Wayne,2020-07-05,1.03
+Elkhart-Goshen,2020-07-05,0.75
+Evansville,2020-07-05,1.18
+Chicago-Naperville-Elgin,2020-07-05,0.75
+Indianapolis-Carmel-Anderson,2020-07-05,1
+Kokomo,2020-07-05,0.86
+Lafayette-West Lafayette,2020-07-05,0.64
+Louisville/Jefferson County,2020-07-05,0.53
+Michigan City-La Porte,2020-07-05,0.57
+Muncie,2020-07-05,1.07
+South Bend-Mishawaka,2020-07-05,0.49
+Terre Haute,2020-07-05,0.37
+Bloomington,2020-07-06,1.07
+Cincinnati,2020-07-06,0.8
+Columbus,2020-07-06,0.99
+Fort Wayne,2020-07-06,0.95
+Elkhart-Goshen,2020-07-06,0.69
+Evansville,2020-07-06,1.77
+Chicago-Naperville-Elgin,2020-07-06,0.74
+Indianapolis-Carmel-Anderson,2020-07-06,0.92
+Kokomo,2020-07-06,0.76
+Lafayette-West Lafayette,2020-07-06,0.56
+Louisville/Jefferson County,2020-07-06,0.78
+Michigan City-La Porte,2020-07-06,0.53
+Muncie,2020-07-06,0.99
+South Bend-Mishawaka,2020-07-06,0.4
+Terre Haute,2020-07-06,0.36
+Bloomington,2020-07-08,1.43
+Cincinnati,2020-07-08,0.81
+Columbus,2020-07-08,0.57
+Fort Wayne,2020-07-08,1.57
+Elkhart-Goshen,2020-07-08,0.73
+Evansville,2020-07-08,1.22
+Chicago-Naperville-Elgin,2020-07-08,0.92
+Indianapolis-Carmel-Anderson,2020-07-08,0.85
+Kokomo,2020-07-08,0.58
+Lafayette-West Lafayette,2020-07-08,0.6
+Louisville/Jefferson County,2020-07-08,0.69
+Michigan City-La Porte,2020-07-08,0.54
+Muncie,2020-07-08,0.78
+South Bend-Mishawaka,2020-07-08,0.48
+Terre Haute,2020-07-08,0.41
+Bloomington,2020-07-09,1.36
+Cincinnati,2020-07-09,1.04
+Columbus,2020-07-09,0.64
+Fort Wayne,2020-07-09,1.78
+Elkhart-Goshen,2020-07-09,0.76
+Evansville,2020-07-09,1.1
+Chicago-Naperville-Elgin,2020-07-09,1.02
+Indianapolis-Carmel-Anderson,2020-07-09,0.98
+Kokomo,2020-07-09,0.48
+Lafayette-West Lafayette,2020-07-09,0.59
+Louisville/Jefferson County,2020-07-09,1.03
+Michigan City-La Porte,2020-07-09,0.65
+Muncie,2020-07-09,0.69
+South Bend-Mishawaka,2020-07-09,0.52
+Terre Haute,2020-07-09,0.35
+Bloomington,2020-07-10,1.5
+Cincinnati,2020-07-10,1.05
+Columbus,2020-07-10,0.73
+Fort Wayne,2020-07-10,1.62
+Elkhart-Goshen,2020-07-10,0.7
+Evansville,2020-07-10,0.94
+Chicago-Naperville-Elgin,2020-07-10,0.97
+Indianapolis-Carmel-Anderson,2020-07-10,0.93
+Kokomo,2020-07-10,0.43
+Lafayette-West Lafayette,2020-07-10,0.69
+Louisville/Jefferson County,2020-07-10,1.17
+Michigan City-La Porte,2020-07-10,0.7
+Muncie,2020-07-10,0.71
+South Bend-Mishawaka,2020-07-10,0.51
+Terre Haute,2020-07-10,0.31
+Bloomington,2020-07-11,1.52
+Cincinnati,2020-07-11,0.92
+Columbus,2020-07-11,0.61
+Fort Wayne,2020-07-11,1.44
+Elkhart-Goshen,2020-07-11,0.66
+Evansville,2020-07-11,0.93
+Chicago-Naperville-Elgin,2020-07-11,0.91
+Indianapolis-Carmel-Anderson,2020-07-11,0.76
+Kokomo,2020-07-11,0.44
+Lafayette-West Lafayette,2020-07-11,0.65
+Louisville/Jefferson County,2020-07-11,1.08
+Michigan City-La Porte,2020-07-11,0.71
+Muncie,2020-07-11,0.9
+South Bend-Mishawaka,2020-07-11,0.57
+Terre Haute,2020-07-11,0.33
+Bloomington,2020-07-13,1.92
+Cincinnati,2020-07-13,0.81
+Columbus,2020-07-13,0.72
+Fort Wayne,2020-07-13,1.1
+Elkhart-Goshen,2020-07-13,0.65
+Evansville,2020-07-13,1.01
+Chicago-Naperville-Elgin,2020-07-13,0.91
+Indianapolis-Carmel-Anderson,2020-07-13,0.81
+Kokomo,2020-07-13,0.68
+Lafayette-West Lafayette,2020-07-13,0.8
+Louisville/Jefferson County,2020-07-13,0.86
+Michigan City-La Porte,2020-07-13,0.79
+Muncie,2020-07-13,1.12
+South Bend-Mishawaka,2020-07-13,0.65
+Terre Haute,2020-07-13,0.42
+Bloomington,2020-07-14,1.81
+Cincinnati,2020-07-14,0.68
+Columbus,2020-07-14,0.87
+Fort Wayne,2020-07-14,0.96
+Elkhart-Goshen,2020-07-14,0.57
+Evansville,2020-07-14,0.99
+Chicago-Naperville-Elgin,2020-07-14,0.84
+Indianapolis-Carmel-Anderson,2020-07-14,0.77
+Kokomo,2020-07-14,0.77
+Lafayette-West Lafayette,2020-07-14,0.91
+Louisville/Jefferson County,2020-07-14,1.07
+Michigan City-La Porte,2020-07-14,0.76
+Muncie,2020-07-14,1.21
+South Bend-Mishawaka,2020-07-14,0.64
+Terre Haute,2020-07-14,0.4
+Bloomington,2020-07-15,1.61
+Cincinnati,2020-07-15,0.75
+Columbus,2020-07-15,0.75
+Fort Wayne,2020-07-15,0.8
+Elkhart-Goshen,2020-07-15,0.59
+Evansville,2020-07-15,0.89
+Chicago-Naperville-Elgin,2020-07-15,0.8
+Indianapolis-Carmel-Anderson,2020-07-15,0.69
+Kokomo,2020-07-15,0.74
+Lafayette-West Lafayette,2020-07-15,0.99
+Louisville/Jefferson County,2020-07-15,1.09
+Michigan City-La Porte,2020-07-15,0.78
+Muncie,2020-07-15,1.11
+South Bend-Mishawaka,2020-07-15,0.65
+Terre Haute,2020-07-15,0.46
+Bloomington,2020-07-16,1.58
+Cincinnati,2020-07-16,0.82
+Columbus,2020-07-16,0.61
+Fort Wayne,2020-07-16,0.72
+Elkhart-Goshen,2020-07-16,0.64
+Evansville,2020-07-16,0.81
+Chicago-Naperville-Elgin,2020-07-16,0.81
+Indianapolis-Carmel-Anderson,2020-07-16,0.67
+Kokomo,2020-07-16,0.79
+Lafayette-West Lafayette,2020-07-16,1.03
+Louisville/Jefferson County,2020-07-16,1.08
+Michigan City-La Porte,2020-07-16,0.75
+Muncie,2020-07-16,1.16
+South Bend-Mishawaka,2020-07-16,0.64
+Terre Haute,2020-07-16,0.63
+Bloomington,2020-07-17,1.43
+Cincinnati,2020-07-17,1.01
+Columbus,2020-07-17,0.54
+Fort Wayne,2020-07-17,0.66
+Elkhart-Goshen,2020-07-17,0.77
+Evansville,2020-07-17,0.77
+Chicago-Naperville-Elgin,2020-07-17,0.84
+Indianapolis-Carmel-Anderson,2020-07-17,0.75
+Kokomo,2020-07-17,0.82
+Lafayette-West Lafayette,2020-07-17,0.99
+Louisville/Jefferson County,2020-07-17,1.04
+Michigan City-La Porte,2020-07-17,0.72
+Muncie,2020-07-17,1.13
+South Bend-Mishawaka,2020-07-17,0.7
+Terre Haute,2020-07-17,0.73
+Bloomington,2020-07-18,1.24
+Cincinnati,2020-07-18,1.05
+Columbus,2020-07-18,0.59
+Fort Wayne,2020-07-18,0.59
+Elkhart-Goshen,2020-07-18,0.93
+Evansville,2020-07-18,0.75
+Chicago-Naperville-Elgin,2020-07-18,0.83
+Indianapolis-Carmel-Anderson,2020-07-18,0.74
+Kokomo,2020-07-18,0.89
+Lafayette-West Lafayette,2020-07-18,0.99
+Louisville/Jefferson County,2020-07-18,1.35
+Michigan City-La Porte,2020-07-18,0.71
+Muncie,2020-07-18,0.7
+South Bend-Mishawaka,2020-07-18,0.72
+Terre Haute,2020-07-18,0.76
+Bloomington,2020-07-21,1.08
+Cincinnati,2020-07-21,0.98
+Columbus,2020-07-21,0.47
+Fort Wayne,2020-07-21,0.65
+Elkhart-Goshen,2020-07-21,1.16
+Evansville,2020-07-21,0.86
+Chicago-Naperville-Elgin,2020-07-21,0.71
+Indianapolis-Carmel-Anderson,2020-07-21,0.78
+Kokomo,2020-07-21,1.04
+Lafayette-West Lafayette,2020-07-21,0.87
+Louisville/Jefferson County,2020-07-21,1.11
+Michigan City-La Porte,2020-07-21,0.78
+Muncie,2020-07-21,0.78
+South Bend-Mishawaka,2020-07-21,0.82
+Terre Haute,2020-07-21,0.89
+Bloomington,2020-07-22,1.45
+Cincinnati,2020-07-22,1.04
+Columbus,2020-07-22,0.47
+Fort Wayne,2020-07-22,0.63
+Elkhart-Goshen,2020-07-22,1.12
+Evansville,2020-07-22,0.88
+Chicago-Naperville-Elgin,2020-07-22,0.71
+Indianapolis-Carmel-Anderson,2020-07-22,0.82
+Kokomo,2020-07-22,1.04
+Lafayette-West Lafayette,2020-07-22,0.83
+Louisville/Jefferson County,2020-07-22,1.12
+Michigan City-La Porte,2020-07-22,0.82
+Muncie,2020-07-22,0.78
+South Bend-Mishawaka,2020-07-22,0.83
+Terre Haute,2020-07-22,0.87
+Bloomington,2020-07-23,1.36
+Cincinnati,2020-07-23,1.03
+Columbus,2020-07-23,0.58
+Fort Wayne,2020-07-23,0.62
+Elkhart-Goshen,2020-07-23,1.41
+Evansville,2020-07-23,0.85
+Chicago-Naperville-Elgin,2020-07-23,0.67
+Indianapolis-Carmel-Anderson,2020-07-23,0.81
+Kokomo,2020-07-23,1.31
+Lafayette-West Lafayette,2020-07-23,0.74
+Louisville/Jefferson County,2020-07-23,1
+Michigan City-La Porte,2020-07-23,0.71
+Muncie,2020-07-23,0.79
+South Bend-Mishawaka,2020-07-23,1.17
+Terre Haute,2020-07-23,0.8
+Bloomington,2020-07-24,1.52
+Cincinnati,2020-07-24,0.89
+Columbus,2020-07-24,0.61
+Fort Wayne,2020-07-24,0.62
+Elkhart-Goshen,2020-07-24,1.35
+Evansville,2020-07-24,1.01
+Chicago-Naperville-Elgin,2020-07-24,0.71
+Indianapolis-Carmel-Anderson,2020-07-24,0.79
+Kokomo,2020-07-24,1.24
+Lafayette-West Lafayette,2020-07-24,0.76
+Louisville/Jefferson County,2020-07-24,0.97
+Michigan City-La Porte,2020-07-24,0.7
+Muncie,2020-07-24,0.77
+South Bend-Mishawaka,2020-07-24,1.18
+Terre Haute,2020-07-24,0.57
+Bloomington,2020-07-25,1.49
+Cincinnati,2020-07-25,0.79
+Columbus,2020-07-25,0.55
+Fort Wayne,2020-07-25,0.64
+Elkhart-Goshen,2020-07-25,1.21
+Evansville,2020-07-25,0.97
+Chicago-Naperville-Elgin,2020-07-25,0.71
+Indianapolis-Carmel-Anderson,2020-07-25,0.82
+Kokomo,2020-07-25,1.37
+Lafayette-West Lafayette,2020-07-25,0.82
+Louisville/Jefferson County,2020-07-25,0.96
+Michigan City-La Porte,2020-07-25,0.7
+Muncie,2020-07-25,0.81
+South Bend-Mishawaka,2020-07-25,1.11
+Terre Haute,2020-07-25,0.52
+Bloomington,2020-07-26,1.61
+Cincinnati,2020-07-26,0.79
+Columbus,2020-07-26,0.59
+Fort Wayne,2020-07-26,1.08
+Elkhart-Goshen,2020-07-26,1
+Evansville,2020-07-26,0.98
+Chicago-Naperville-Elgin,2020-07-26,0.71
+Indianapolis-Carmel-Anderson,2020-07-26,0.9
+Kokomo,2020-07-26,1.42
+Lafayette-West Lafayette,2020-07-26,0.82
+Louisville/Jefferson County,2020-07-26,0.86
+Michigan City-La Porte,2020-07-26,0.71
+Muncie,2020-07-26,0.86
+South Bend-Mishawaka,2020-07-26,0.97
+Terre Haute,2020-07-26,0.47
+Bloomington,2020-07-27,1.5
+Cincinnati,2020-07-27,0.85
+Columbus,2020-07-27,0.51
+Fort Wayne,2020-07-27,0.98
+Elkhart-Goshen,2020-07-27,0.88
+Evansville,2020-07-27,0.95
+Chicago-Naperville-Elgin,2020-07-27,0.73
+Indianapolis-Carmel-Anderson,2020-07-27,0.78
+Kokomo,2020-07-27,1.4
+Lafayette-West Lafayette,2020-07-27,0.84
+Louisville/Jefferson County,2020-07-27,0.77
+Michigan City-La Porte,2020-07-27,0.73
+Muncie,2020-07-27,0.71
+South Bend-Mishawaka,2020-07-27,0.93
+Terre Haute,2020-07-27,0.51
+Bloomington,2020-07-28,1.4
+Cincinnati,2020-07-28,0.88
+Columbus,2020-07-28,0.54
+Fort Wayne,2020-07-28,0.96
+Elkhart-Goshen,2020-07-28,0.84
+Evansville,2020-07-28,1.21
+Chicago-Naperville-Elgin,2020-07-28,0.76
+Indianapolis-Carmel-Anderson,2020-07-28,0.82
+Kokomo,2020-07-28,1.4
+Lafayette-West Lafayette,2020-07-28,0.69
+Louisville/Jefferson County,2020-07-28,0.67
+Michigan City-La Porte,2020-07-28,0.7
+Muncie,2020-07-28,0.71
+South Bend-Mishawaka,2020-07-28,0.79
+Terre Haute,2020-07-28,0.43
+Bloomington,2020-07-29,1.6
+Cincinnati,2020-07-29,0.79
+Columbus,2020-07-29,0.56
+Fort Wayne,2020-07-29,0.95
+Elkhart-Goshen,2020-07-29,0.65
+Evansville,2020-07-29,1.12
+Chicago-Naperville-Elgin,2020-07-29,0.74
+Indianapolis-Carmel-Anderson,2020-07-29,0.83
+Kokomo,2020-07-29,1.39
+Lafayette-West Lafayette,2020-07-29,0.62
+Louisville/Jefferson County,2020-07-29,0.65
+Michigan City-La Porte,2020-07-29,0.63
+Muncie,2020-07-29,0.56
+South Bend-Mishawaka,2020-07-29,0.82
+Terre Haute,2020-07-29,0.59
+Bloomington,2020-07-30,1.69
+Cincinnati,2020-07-30,0.86
+Columbus,2020-07-30,0.55
+Fort Wayne,2020-07-30,0.93
+Elkhart-Goshen,2020-07-30,0.71
+Evansville,2020-07-30,1.06
+Chicago-Naperville-Elgin,2020-07-30,0.74
+Indianapolis-Carmel-Anderson,2020-07-30,0.86
+Kokomo,2020-07-30,1.38
+Lafayette-West Lafayette,2020-07-30,0.67
+Louisville/Jefferson County,2020-07-30,0.68
+Michigan City-La Porte,2020-07-30,0.55
+Muncie,2020-07-30,0.56
+South Bend-Mishawaka,2020-07-30,0.82
+Terre Haute,2020-07-30,0.6
+Bloomington,2020-07-31,1.68
+Cincinnati,2020-07-31,0.73
+Columbus,2020-07-31,0.45
+Fort Wayne,2020-07-31,0.86
+Elkhart-Goshen,2020-07-31,0.77
+Evansville,2020-07-31,0.83
+Chicago-Naperville-Elgin,2020-07-31,0.75
+Indianapolis-Carmel-Anderson,2020-07-31,0.84
+Kokomo,2020-07-31,0.77
+Lafayette-West Lafayette,2020-07-31,0.77
+Louisville/Jefferson County,2020-07-31,0.75
+Michigan City-La Porte,2020-07-31,0.57
+Muncie,2020-07-31,0.53
+South Bend-Mishawaka,2020-07-31,0.74
+Terre Haute,2020-07-31,0.59
+Bloomington,2020-08-01,1.66
+Cincinnati,2020-08-01,0.79
+Columbus,2020-08-01,0.52
+Fort Wayne,2020-08-01,0.79
+Elkhart-Goshen,2020-08-01,0.78
+Evansville,2020-08-01,0.78
+Chicago-Naperville-Elgin,2020-08-01,0.76
+Indianapolis-Carmel-Anderson,2020-08-01,0.94
+Kokomo,2020-08-01,0.87
+Lafayette-West Lafayette,2020-08-01,0.8
+Louisville/Jefferson County,2020-08-01,1.1
+Michigan City-La Porte,2020-08-01,0.66
+Muncie,2020-08-01,0.71
+South Bend-Mishawaka,2020-08-01,0.73
+Terre Haute,2020-08-01,0.64
+Bloomington,2020-08-02,1.67
+Cincinnati,2020-08-02,0.84
+Columbus,2020-08-02,0.55
+Fort Wayne,2020-08-02,0.63
+Elkhart-Goshen,2020-08-02,1.08
+Evansville,2020-08-02,0.67
+Chicago-Naperville-Elgin,2020-08-02,0.75
+Indianapolis-Carmel-Anderson,2020-08-02,0.9
+Kokomo,2020-08-02,0.86
+Lafayette-West Lafayette,2020-08-02,0.9
+Louisville/Jefferson County,2020-08-02,1.16
+Michigan City-La Porte,2020-08-02,0.69
+Muncie,2020-08-02,0.83
+South Bend-Mishawaka,2020-08-02,1
+Terre Haute,2020-08-02,0.67
+Bloomington,2020-08-03,1.19
+Cincinnati,2020-08-03,1.01
+Columbus,2020-08-03,0.51
+Fort Wayne,2020-08-03,0.65
+Elkhart-Goshen,2020-08-03,1.06
+Evansville,2020-08-03,0.64
+Chicago-Naperville-Elgin,2020-08-03,0.73
+Indianapolis-Carmel-Anderson,2020-08-03,0.87
+Kokomo,2020-08-03,0.81
+Lafayette-West Lafayette,2020-08-03,1.04
+Louisville/Jefferson County,2020-08-03,1.28
+Michigan City-La Porte,2020-08-03,0.72
+Muncie,2020-08-03,0.84
+South Bend-Mishawaka,2020-08-03,1.05
+Terre Haute,2020-08-03,0.64
+Bloomington,2020-08-04,1.12
+Cincinnati,2020-08-04,1.03
+Columbus,2020-08-04,0.59
+Fort Wayne,2020-08-04,0.65
+Elkhart-Goshen,2020-08-04,1.03
+Evansville,2020-08-04,0.81
+Chicago-Naperville-Elgin,2020-08-04,0.72
+Indianapolis-Carmel-Anderson,2020-08-04,0.9
+Kokomo,2020-08-04,0.77
+Lafayette-West Lafayette,2020-08-04,1.02
+Louisville/Jefferson County,2020-08-04,1.39
+Michigan City-La Porte,2020-08-04,0.73
+Muncie,2020-08-04,0.83
+South Bend-Mishawaka,2020-08-04,1.01
+Terre Haute,2020-08-04,0.66
+Bloomington,2020-08-05,1.01
+Cincinnati,2020-08-05,1.22
+Columbus,2020-08-05,0.54
+Fort Wayne,2020-08-05,0.59
+Elkhart-Goshen,2020-08-05,1.12
+Evansville,2020-08-05,0.87
+Chicago-Naperville-Elgin,2020-08-05,0.68
+Indianapolis-Carmel-Anderson,2020-08-05,0.86
+Kokomo,2020-08-05,0.71
+Lafayette-West Lafayette,2020-08-05,1.08
+Louisville/Jefferson County,2020-08-05,1.29
+Michigan City-La Porte,2020-08-05,0.7
+Muncie,2020-08-05,0.78
+South Bend-Mishawaka,2020-08-05,0.91
+Terre Haute,2020-08-05,1.05
+Bloomington,2020-08-06,0.87
+Cincinnati,2020-08-06,1.15
+Columbus,2020-08-06,0.49
+Fort Wayne,2020-08-06,0.7
+Elkhart-Goshen,2020-08-06,1.1
+Evansville,2020-08-06,0.97
+Chicago-Naperville-Elgin,2020-08-06,0.73
+Indianapolis-Carmel-Anderson,2020-08-06,0.87
+Kokomo,2020-08-06,0.63
+Lafayette-West Lafayette,2020-08-06,1.09
+Louisville/Jefferson County,2020-08-06,1.23
+Michigan City-La Porte,2020-08-06,0.69
+Muncie,2020-08-06,0.77
+South Bend-Mishawaka,2020-08-06,0.91
+Terre Haute,2020-08-06,0.95
+Bloomington,2020-08-07,0.94
+Cincinnati,2020-08-07,1.24
+Columbus,2020-08-07,0.51
+Fort Wayne,2020-08-07,0.75
+Elkhart-Goshen,2020-08-07,1.43
+Evansville,2020-08-07,1.03
+Chicago-Naperville-Elgin,2020-08-07,0.99
+Indianapolis-Carmel-Anderson,2020-08-07,0.94
+Kokomo,2020-08-07,0.64
+Lafayette-West Lafayette,2020-08-07,1.03
+Louisville/Jefferson County,2020-08-07,1.32
+Michigan City-La Porte,2020-08-07,0.67
+Muncie,2020-08-07,0.77
+South Bend-Mishawaka,2020-08-07,1.31
+Terre Haute,2020-08-07,1.08
+Bloomington,2020-08-08,0.96
+Cincinnati,2020-08-08,1
+Columbus,2020-08-08,0.45
+Fort Wayne,2020-08-08,0.73
+Elkhart-Goshen,2020-08-08,1.02
+Evansville,2020-08-08,0.94
+Chicago-Naperville-Elgin,2020-08-08,0.99
+Indianapolis-Carmel-Anderson,2020-08-08,0.96
+Kokomo,2020-08-08,0.53
+Lafayette-West Lafayette,2020-08-08,0.97
+Louisville/Jefferson County,2020-08-08,1.47
+Michigan City-La Porte,2020-08-08,0.79
+Muncie,2020-08-08,0.61
+South Bend-Mishawaka,2020-08-08,0.85
+Terre Haute,2020-08-08,0.68
+Bloomington,2020-08-09,1.15
+Cincinnati,2020-08-09,1.13
+Columbus,2020-08-09,0.52
+Fort Wayne,2020-08-09,0.79
+Elkhart-Goshen,2020-08-09,1.21
+Evansville,2020-08-09,0.92
+Chicago-Naperville-Elgin,2020-08-09,1.05
+Indianapolis-Carmel-Anderson,2020-08-09,0.96
+Kokomo,2020-08-09,0.58
+Lafayette-West Lafayette,2020-08-09,0.84
+Louisville/Jefferson County,2020-08-09,1.29
+Michigan City-La Porte,2020-08-09,0.74
+Muncie,2020-08-09,0.61
+South Bend-Mishawaka,2020-08-09,1.11
+Terre Haute,2020-08-09,1.28
+Bloomington,2020-08-10,1.21
+Cincinnati,2020-08-10,1.15
+Columbus,2020-08-10,0.63
+Fort Wayne,2020-08-10,0.9
+Elkhart-Goshen,2020-08-10,1.25
+Evansville,2020-08-10,1.02
+Chicago-Naperville-Elgin,2020-08-10,1.24
+Indianapolis-Carmel-Anderson,2020-08-10,1.15
+Kokomo,2020-08-10,0.69
+Lafayette-West Lafayette,2020-08-10,0.8
+Louisville/Jefferson County,2020-08-10,1.58
+Michigan City-La Porte,2020-08-10,0.74
+Muncie,2020-08-10,0.81
+South Bend-Mishawaka,2020-08-10,0.9
+Terre Haute,2020-08-10,1.04
+Bloomington,2020-08-11,1.24
+Cincinnati,2020-08-11,1.05
+Columbus,2020-08-11,0.56
+Fort Wayne,2020-08-11,0.92
+Elkhart-Goshen,2020-08-11,1.48
+Evansville,2020-08-11,0.87
+Chicago-Naperville-Elgin,2020-08-11,1.27
+Indianapolis-Carmel-Anderson,2020-08-11,1.08
+Kokomo,2020-08-11,0.62
+Lafayette-West Lafayette,2020-08-11,0.8
+Louisville/Jefferson County,2020-08-11,1.19
+Michigan City-La Porte,2020-08-11,0.67
+Muncie,2020-08-11,0.76
+South Bend-Mishawaka,2020-08-11,1.1
+Terre Haute,2020-08-11,1.29
+Bloomington,2020-08-12,1.34
+Cincinnati,2020-08-12,1.1
+Columbus,2020-08-12,0.84
+Fort Wayne,2020-08-12,0.94
+Elkhart-Goshen,2020-08-12,1.2
+Evansville,2020-08-12,1.34
+Chicago-Naperville-Elgin,2020-08-12,1.16
+Indianapolis-Carmel-Anderson,2020-08-12,1.47
+Kokomo,2020-08-12,0.91
+Lafayette-West Lafayette,2020-08-12,0.85
+Louisville/Jefferson County,2020-08-12,1.06
+Michigan City-La Porte,2020-08-12,0.61
+Muncie,2020-08-12,1.11
+South Bend-Mishawaka,2020-08-12,0.78
+Terre Haute,2020-08-12,1.03
+Bloomington,2020-08-13,1.13
+Cincinnati,2020-08-13,0.8
+Columbus,2020-08-13,0.86
+Fort Wayne,2020-08-13,0.87
+Elkhart-Goshen,2020-08-13,1.31
+Evansville,2020-08-13,1.4
+Chicago-Naperville-Elgin,2020-08-13,1.16
+Indianapolis-Carmel-Anderson,2020-08-13,1.1
+Kokomo,2020-08-13,0.61
+Lafayette-West Lafayette,2020-08-13,0.88
+Louisville/Jefferson County,2020-08-13,1.24
+Michigan City-La Porte,2020-08-13,0.74
+Muncie,2020-08-13,0.75
+South Bend-Mishawaka,2020-08-13,0.79
+Terre Haute,2020-08-13,1.11
+Bloomington,2020-08-14,1.06
+Cincinnati,2020-08-14,1.08
+Columbus,2020-08-14,0.75
+Fort Wayne,2020-08-14,0.77
+Elkhart-Goshen,2020-08-14,1.79
+Evansville,2020-08-14,1.25
+Chicago-Naperville-Elgin,2020-08-14,1.08
+Indianapolis-Carmel-Anderson,2020-08-14,0.99
+Kokomo,2020-08-14,0.57
+Lafayette-West Lafayette,2020-08-14,0.79
+Louisville/Jefferson County,2020-08-14,1.78
+Michigan City-La Porte,2020-08-14,0.74
+Muncie,2020-08-14,0.67
+South Bend-Mishawaka,2020-08-14,1.3
+Terre Haute,2020-08-14,0.98
+Bloomington,2020-08-15,1.22
+Cincinnati,2020-08-15,0.74
+Columbus,2020-08-15,0.94
+Fort Wayne,2020-08-15,1.96
+Elkhart-Goshen,2020-08-15,1.12
+Evansville,2020-08-15,1.41
+Chicago-Naperville-Elgin,2020-08-15,1.11
+Indianapolis-Carmel-Anderson,2020-08-15,1.15
+Kokomo,2020-08-15,0.7
+Lafayette-West Lafayette,2020-08-15,0.76
+Louisville/Jefferson County,2020-08-15,1.04
+Michigan City-La Porte,2020-08-15,0.58
+Muncie,2020-08-15,0.86
+South Bend-Mishawaka,2020-08-15,0.71
+Terre Haute,2020-08-15,1.08
+Bloomington,2020-08-16,1.49
+Cincinnati,2020-08-16,0.55
+Columbus,2020-08-16,1.01
+Fort Wayne,2020-08-16,0.65
+Elkhart-Goshen,2020-08-16,1.96
+Evansville,2020-08-16,1.28
+Chicago-Naperville-Elgin,2020-08-16,0.8
+Indianapolis-Carmel-Anderson,2020-08-16,0.82
+Kokomo,2020-08-16,0.77
+Lafayette-West Lafayette,2020-08-16,0.85
+Louisville/Jefferson County,2020-08-16,0.84
+Michigan City-La Porte,2020-08-16,0.72
+Muncie,2020-08-16,1.04
+South Bend-Mishawaka,2020-08-16,1.83
+Terre Haute,2020-08-16,1.15
+Bloomington,2020-08-17,1.75
+Cincinnati,2020-08-17,0.97
+Columbus,2020-08-17,1.05
+Fort Wayne,2020-08-17,0.7
+Elkhart-Goshen,2020-08-17,0.69
+Evansville,2020-08-17,1.23
+Chicago-Naperville-Elgin,2020-08-17,0.74
+Indianapolis-Carmel-Anderson,2020-08-17,0.82
+Kokomo,2020-08-17,0.81
+Lafayette-West Lafayette,2020-08-17,1
+Louisville/Jefferson County,2020-08-17,0.86
+Michigan City-La Porte,2020-08-17,0.67
+Muncie,2020-08-17,1.05
+South Bend-Mishawaka,2020-08-17,0.73
+Terre Haute,2020-08-17,0.8
+Bloomington,2020-08-18,1.48
+Cincinnati,2020-08-18,0.51
+Columbus,2020-08-18,0.87
+Fort Wayne,2020-08-18,0.71
+Elkhart-Goshen,2020-08-18,0.75
+Evansville,2020-08-18,3.43
+Chicago-Naperville-Elgin,2020-08-18,0.72
+Indianapolis-Carmel-Anderson,2020-08-18,0.68
+Kokomo,2020-08-18,0.62
+Lafayette-West Lafayette,2020-08-18,0.94
+Louisville/Jefferson County,2020-08-18,0.76
+Michigan City-La Porte,2020-08-18,0.74
+Muncie,2020-08-18,0.87
+South Bend-Mishawaka,2020-08-18,0.64
+Terre Haute,2020-08-18,0.73
+Bloomington,2020-08-20,1.63
+Cincinnati,2020-08-20,0.6
+Columbus,2020-08-20,0.75
+Fort Wayne,2020-08-20,0.76
+Elkhart-Goshen,2020-08-20,0.66
+Evansville,2020-08-20,1.33
+Chicago-Naperville-Elgin,2020-08-20,0.74
+Indianapolis-Carmel-Anderson,2020-08-20,0.85
+Kokomo,2020-08-20,0.68
+Lafayette-West Lafayette,2020-08-20,1
+Louisville/Jefferson County,2020-08-20,0.98
+Michigan City-La Porte,2020-08-20,0.8
+Muncie,2020-08-20,0.83
+South Bend-Mishawaka,2020-08-20,0.69
+Terre Haute,2020-08-20,0.8
+Bloomington,2020-08-21,1.42
+Cincinnati,2020-08-21,0.56
+Columbus,2020-08-21,0.7
+Fort Wayne,2020-08-21,0.8
+Elkhart-Goshen,2020-08-21,0.64
+Evansville,2020-08-21,1.16
+Chicago-Naperville-Elgin,2020-08-21,0.72
+Indianapolis-Carmel-Anderson,2020-08-21,0.81
+Kokomo,2020-08-21,0.64
+Lafayette-West Lafayette,2020-08-21,0.73
+Louisville/Jefferson County,2020-08-21,1.6
+Michigan City-La Porte,2020-08-21,0.71
+Muncie,2020-08-21,0.87
+South Bend-Mishawaka,2020-08-21,0.67
+Terre Haute,2020-08-21,0.7
+Bloomington,2020-08-22,1.46
+Cincinnati,2020-08-22,0.57
+Columbus,2020-08-22,0.71
+Fort Wayne,2020-08-22,0.77
+Elkhart-Goshen,2020-08-22,0.64
+Evansville,2020-08-22,1.04
+Chicago-Naperville-Elgin,2020-08-22,0.72
+Indianapolis-Carmel-Anderson,2020-08-22,0.81
+Kokomo,2020-08-22,0.65
+Lafayette-West Lafayette,2020-08-22,0.74
+Louisville/Jefferson County,2020-08-22,1.55
+Michigan City-La Porte,2020-08-22,1
+Muncie,2020-08-22,0.9
+South Bend-Mishawaka,2020-08-22,0.75
+Terre Haute,2020-08-22,0.67
+Bloomington,2020-08-23,1.31
+Cincinnati,2020-08-23,0.59
+Columbus,2020-08-23,0.68
+Fort Wayne,2020-08-23,0.71
+Elkhart-Goshen,2020-08-23,0.63
+Evansville,2020-08-23,1.16
+Chicago-Naperville-Elgin,2020-08-23,0.72
+Indianapolis-Carmel-Anderson,2020-08-23,0.73
+Kokomo,2020-08-23,0.62
+Lafayette-West Lafayette,2020-08-23,0.67
+Louisville/Jefferson County,2020-08-23,1.54
+Michigan City-La Porte,2020-08-23,1.07
+Muncie,2020-08-23,0.78
+South Bend-Mishawaka,2020-08-23,0.71
+Terre Haute,2020-08-23,0.76
+Bloomington,2020-08-24,1.13
+Cincinnati,2020-08-24,0.58
+Columbus,2020-08-24,0.64
+Fort Wayne,2020-08-24,0.75
+Elkhart-Goshen,2020-08-24,0.73
+Evansville,2020-08-24,1.09
+Chicago-Naperville-Elgin,2020-08-24,0.72
+Indianapolis-Carmel-Anderson,2020-08-24,0.79
+Kokomo,2020-08-24,0.58
+Lafayette-West Lafayette,2020-08-24,0.49
+Louisville/Jefferson County,2020-08-24,1.51
+Michigan City-La Porte,2020-08-24,1.12
+Muncie,2020-08-24,0.79
+South Bend-Mishawaka,2020-08-24,0.76
+Terre Haute,2020-08-24,0.77
+Bloomington,2020-08-25,1.14
+Cincinnati,2020-08-25,0.58
+Columbus,2020-08-25,0.64
+Fort Wayne,2020-08-25,0.75
+Elkhart-Goshen,2020-08-25,0.73
+Evansville,2020-08-25,1.09
+Chicago-Naperville-Elgin,2020-08-25,0.72
+Indianapolis-Carmel-Anderson,2020-08-25,0.79
+Kokomo,2020-08-25,0.58
+Lafayette-West Lafayette,2020-08-25,0.49
+Louisville/Jefferson County,2020-08-25,1.5
+Michigan City-La Porte,2020-08-25,1.12
+Muncie,2020-08-25,0.79
+South Bend-Mishawaka,2020-08-25,0.76
+Terre Haute,2020-08-25,0.77
+Bloomington,2020-08-26,1.59
+Cincinnati,2020-08-26,0.59
+Columbus,2020-08-26,1.01
+Fort Wayne,2020-08-26,0.68
+Elkhart-Goshen,2020-08-26,1.08
+Evansville,2020-08-26,0.91
+Chicago-Naperville-Elgin,2020-08-26,0.72
+Indianapolis-Carmel-Anderson,2020-08-26,1.05
+Kokomo,2020-08-26,0.98
+Lafayette-West Lafayette,2020-08-26,0.46
+Louisville/Jefferson County,2020-08-26,1.59
+Michigan City-La Porte,2020-08-26,0.75
+Muncie,2020-08-26,1.29
+South Bend-Mishawaka,2020-08-26,0.89
+Terre Haute,2020-08-26,1.07
+Bloomington,2020-08-27,1.06
+Cincinnati,2020-08-27,0.93
+Columbus,2020-08-27,0.59
+Fort Wayne,2020-08-27,2.45
+Elkhart-Goshen,2020-08-27,0.96
+Evansville,2020-08-27,0.88
+Chicago-Naperville-Elgin,2020-08-27,0.75
+Indianapolis-Carmel-Anderson,2020-08-27,0.62
+Kokomo,2020-08-27,0.57
+Lafayette-West Lafayette,2020-08-27,0.37
+Louisville/Jefferson County,2020-08-27,0.62
+Michigan City-La Porte,2020-08-27,0.74
+Muncie,2020-08-27,0.9
+South Bend-Mishawaka,2020-08-27,0.76
+Terre Haute,2020-08-27,0.86
+Bloomington,2020-08-28,1.24
+Cincinnati,2020-08-28,0.65
+Columbus,2020-08-28,0.72
+Fort Wayne,2020-08-28,1.41
+Elkhart-Goshen,2020-08-28,1.18
+Evansville,2020-08-28,1.09
+Chicago-Naperville-Elgin,2020-08-28,0.82
+Indianapolis-Carmel-Anderson,2020-08-28,0.79
+Kokomo,2020-08-28,0.7
+Lafayette-West Lafayette,2020-08-28,0.46
+Louisville/Jefferson County,2020-08-28,0.75
+Michigan City-La Porte,2020-08-28,0.53
+Muncie,2020-08-28,1.21
+South Bend-Mishawaka,2020-08-28,0.91
+Terre Haute,2020-08-28,1.13
+Bloomington,2020-08-29,1.2
+Cincinnati,2020-08-29,0.83
+Columbus,2020-08-29,0.71
+Fort Wayne,2020-08-29,1.56
+Elkhart-Goshen,2020-08-29,1.14
+Evansville,2020-08-29,0.95
+Chicago-Naperville-Elgin,2020-08-29,0.74
+Indianapolis-Carmel-Anderson,2020-08-29,0.73
+Kokomo,2020-08-29,0.69
+Lafayette-West Lafayette,2020-08-29,0.47
+Louisville/Jefferson County,2020-08-29,1.08
+Michigan City-La Porte,2020-08-29,0.54
+Muncie,2020-08-29,1.01
+South Bend-Mishawaka,2020-08-29,0.95
+Terre Haute,2020-08-29,1.23
+Bloomington,2020-08-30,1.01
+Cincinnati,2020-08-30,0.52
+Columbus,2020-08-30,0.55
+Fort Wayne,2020-08-30,0.58
+Elkhart-Goshen,2020-08-30,1.99
+Evansville,2020-08-30,0.82
+Chicago-Naperville-Elgin,2020-08-30,0.54
+Indianapolis-Carmel-Anderson,2020-08-30,0.55
+Kokomo,2020-08-30,0.53
+Lafayette-West Lafayette,2020-08-30,0.42
+Louisville/Jefferson County,2020-08-30,0.63
+Michigan City-La Porte,2020-08-30,0.3
+Muncie,2020-08-30,0.96
+South Bend-Mishawaka,2020-08-30,1.91
+Terre Haute,2020-08-30,1.08
+Bloomington,2020-08-31,1.28
+Cincinnati,2020-08-31,0.54
+Columbus,2020-08-31,0.91
+Fort Wayne,2020-08-31,0.69
+Elkhart-Goshen,2020-08-31,0.84
+Evansville,2020-08-31,1.42
+Chicago-Naperville-Elgin,2020-08-31,0.66
+Indianapolis-Carmel-Anderson,2020-08-31,0.93
+Kokomo,2020-08-31,0.95
+Lafayette-West Lafayette,2020-08-31,0.49
+Louisville/Jefferson County,2020-08-31,0.88
+Michigan City-La Porte,2020-08-31,0.39
+Muncie,2020-08-31,1.37
+South Bend-Mishawaka,2020-08-31,0.86
+Terre Haute,2020-08-31,2.51
+Bloomington,2020-09-01,1.14
+Cincinnati,2020-09-01,0.72
+Columbus,2020-09-01,0.63
+Fort Wayne,2020-09-01,0.71
+Elkhart-Goshen,2020-09-01,0.59
+Evansville,2020-09-01,1.04
+Chicago-Naperville-Elgin,2020-09-01,0.7
+Indianapolis-Carmel-Anderson,2020-09-01,0.69
+Kokomo,2020-09-01,0.69
+Lafayette-West Lafayette,2020-09-01,0.63
+Louisville/Jefferson County,2020-09-01,0.77
+Michigan City-La Porte,2020-09-01,0.42
+Muncie,2020-09-01,0.9
+South Bend-Mishawaka,2020-09-01,0.97
+Terre Haute,2020-09-01,1.08
+Bloomington,2020-09-02,1.45
+Cincinnati,2020-09-02,0.77
+Columbus,2020-09-02,0.75
+Fort Wayne,2020-09-02,0.61
+Elkhart-Goshen,2020-09-02,0.55
+Evansville,2020-09-02,1.02
+Chicago-Naperville-Elgin,2020-09-02,0.61
+Indianapolis-Carmel-Anderson,2020-09-02,0.83
+Kokomo,2020-09-02,0.8
+Lafayette-West Lafayette,2020-09-02,0.67
+Louisville/Jefferson County,2020-09-02,0.82
+Michigan City-La Porte,2020-09-02,0.4
+Muncie,2020-09-02,1.01
+South Bend-Mishawaka,2020-09-02,0.88
+Terre Haute,2020-09-02,0.97
+Bloomington,2020-09-03,1.2
+Cincinnati,2020-09-03,0.68
+Columbus,2020-09-03,0.57
+Fort Wayne,2020-09-03,0.56
+Elkhart-Goshen,2020-09-03,0.63
+Evansville,2020-09-03,0.89
+Chicago-Naperville-Elgin,2020-09-03,0.74
+Indianapolis-Carmel-Anderson,2020-09-03,0.65
+Kokomo,2020-09-03,0.6
+Lafayette-West Lafayette,2020-09-03,0.63
+Louisville/Jefferson County,2020-09-03,0.7
+Michigan City-La Porte,2020-09-03,0.53
+Muncie,2020-09-03,0.89
+South Bend-Mishawaka,2020-09-03,0.76
+Terre Haute,2020-09-03,1.06
+Bloomington,2020-09-10,1.06
+Cincinnati,2020-09-10,0.42
+Columbus,2020-09-10,0.78
+Fort Wayne,2020-09-10,0.52
+Elkhart-Goshen,2020-09-10,0.81
+Evansville,2020-09-10,0.97
+Chicago-Naperville-Elgin,2020-09-10,0.67
+Indianapolis-Carmel-Anderson,2020-09-10,0.89
+Kokomo,2020-09-10,0.75
+Lafayette-West Lafayette,2020-09-10,0.67
+Louisville/Jefferson County,2020-09-10,1.43
+Michigan City-La Porte,2020-09-10,0.45
+Muncie,2020-09-10,1.08
+South Bend-Mishawaka,2020-09-10,0.43
+Terre Haute,2020-09-10,0.49
+Bloomington,2020-09-11,1
+Cincinnati,2020-09-11,0.42
+Columbus,2020-09-11,0.77
+Fort Wayne,2020-09-11,2.11
+Elkhart-Goshen,2020-09-11,0.8
+Evansville,2020-09-11,0.87
+Chicago-Naperville-Elgin,2020-09-11,0.92
+Indianapolis-Carmel-Anderson,2020-09-11,0.86
+Kokomo,2020-09-11,0.73
+Lafayette-West Lafayette,2020-09-11,0.73
+Louisville/Jefferson County,2020-09-11,0.51
+Michigan City-La Porte,2020-09-11,0.56
+Muncie,2020-09-11,1.05
+South Bend-Mishawaka,2020-09-11,0.46
+Terre Haute,2020-09-11,0.46
+Bloomington,2020-09-12,1.13
+Cincinnati,2020-09-12,0.69
+Columbus,2020-09-12,0.77
+Fort Wayne,2020-09-12,0.64
+Elkhart-Goshen,2020-09-12,1.04
+Evansville,2020-09-12,1.12
+Chicago-Naperville-Elgin,2020-09-12,1.01
+Indianapolis-Carmel-Anderson,2020-09-12,0.88
+Kokomo,2020-09-12,0.71
+Lafayette-West Lafayette,2020-09-12,0.93
+Louisville/Jefferson County,2020-09-12,0.63
+Michigan City-La Porte,2020-09-12,0.53
+Muncie,2020-09-12,1.11
+South Bend-Mishawaka,2020-09-12,0.6
+Terre Haute,2020-09-12,0.62
+Bloomington,2020-09-13,0.84
+Cincinnati,2020-09-13,0.5
+Columbus,2020-09-13,0.57
+Fort Wayne,2020-09-13,0.59
+Elkhart-Goshen,2020-09-13,1.71
+Evansville,2020-09-13,0.98
+Chicago-Naperville-Elgin,2020-09-13,0.77
+Indianapolis-Carmel-Anderson,2020-09-13,0.67
+Kokomo,2020-09-13,0.51
+Lafayette-West Lafayette,2020-09-13,0.85
+Louisville/Jefferson County,2020-09-13,0.54
+Michigan City-La Porte,2020-09-13,0.46
+Muncie,2020-09-13,0.84
+South Bend-Mishawaka,2020-09-13,1.31
+Terre Haute,2020-09-13,0.57
+Bloomington,2020-09-14,1.01
+Cincinnati,2020-09-14,0.87
+Columbus,2020-09-14,0.57
+Fort Wayne,2020-09-14,0.74
+Elkhart-Goshen,2020-09-14,0.65
+Evansville,2020-09-14,1.4
+Chicago-Naperville-Elgin,2020-09-14,0.89
+Indianapolis-Carmel-Anderson,2020-09-14,0.67
+Kokomo,2020-09-14,0.5
+Lafayette-West Lafayette,2020-09-14,0.72
+Louisville/Jefferson County,2020-09-14,0.55
+Michigan City-La Porte,2020-09-14,0.58
+Muncie,2020-09-14,1
+South Bend-Mishawaka,2020-09-14,0.58
+Terre Haute,2020-09-14,0.64
+Bloomington,2020-09-15,1.52
+Cincinnati,2020-09-15,0.72
+Columbus,2020-09-15,0.75
+Fort Wayne,2020-09-15,0.68
+Elkhart-Goshen,2020-09-15,0.83
+Evansville,2020-09-15,1.46
+Chicago-Naperville-Elgin,2020-09-15,0.81
+Indianapolis-Carmel-Anderson,2020-09-15,0.81
+Kokomo,2020-09-15,0.73
+Lafayette-West Lafayette,2020-09-15,0.71
+Louisville/Jefferson County,2020-09-15,0.67
+Michigan City-La Porte,2020-09-15,0.48
+Muncie,2020-09-15,1.15
+South Bend-Mishawaka,2020-09-15,0.65
+Terre Haute,2020-09-15,0.8
+Bloomington,2020-09-16,1.21
+Cincinnati,2020-09-16,0.82
+Columbus,2020-09-16,0.6
+Fort Wayne,2020-09-16,0.46
+Elkhart-Goshen,2020-09-16,0.59
+Evansville,2020-09-16,0.97
+Chicago-Naperville-Elgin,2020-09-16,0.49
+Indianapolis-Carmel-Anderson,2020-09-16,0.59
+Kokomo,2020-09-16,0.56
+Lafayette-West Lafayette,2020-09-16,0.46
+Louisville/Jefferson County,2020-09-16,0.49
+Michigan City-La Porte,2020-09-16,0.32
+Muncie,2020-09-16,1.01
+South Bend-Mishawaka,2020-09-16,0.6
+Terre Haute,2020-09-16,0.49
+Bloomington,2020-09-17,1.86
+Cincinnati,2020-09-17,0.82
+Columbus,2020-09-17,0.58
+Fort Wayne,2020-09-17,0.58
+Elkhart-Goshen,2020-09-17,0.89
+Evansville,2020-09-17,1.7
+Chicago-Naperville-Elgin,2020-09-17,0.75
+Indianapolis-Carmel-Anderson,2020-09-17,0.54
+Kokomo,2020-09-17,0.55
+Lafayette-West Lafayette,2020-09-17,0.65
+Louisville/Jefferson County,2020-09-17,1.09
+Michigan City-La Porte,2020-09-17,0.66
+Muncie,2020-09-17,1.67
+South Bend-Mishawaka,2020-09-17,0.86
+Terre Haute,2020-09-17,0.72
+Bloomington,2020-09-18,1.85
+Cincinnati,2020-09-18,0.47
+Columbus,2020-09-18,0.76
+Fort Wayne,2020-09-18,0.54
+Elkhart-Goshen,2020-09-18,0.68
+Evansville,2020-09-18,1.25
+Chicago-Naperville-Elgin,2020-09-18,0.54
+Indianapolis-Carmel-Anderson,2020-09-18,0.65
+Kokomo,2020-09-18,0.72
+Lafayette-West Lafayette,2020-09-18,0.56
+Louisville/Jefferson County,2020-09-18,0.55
+Michigan City-La Porte,2020-09-18,0.53
+Muncie,2020-09-18,1.67
+South Bend-Mishawaka,2020-09-18,0.64
+Terre Haute,2020-09-18,0.59
+Bloomington,2020-09-19,1.7
+Cincinnati,2020-09-19,0.63
+Columbus,2020-09-19,0.53
+Fort Wayne,2020-09-19,0.58
+Elkhart-Goshen,2020-09-19,0.71
+Evansville,2020-09-19,1.2
+Chicago-Naperville-Elgin,2020-09-19,0.61
+Indianapolis-Carmel-Anderson,2020-09-19,0.45
+Kokomo,2020-09-19,0.52
+Lafayette-West Lafayette,2020-09-19,0.55
+Louisville/Jefferson County,2020-09-19,0.73
+Michigan City-La Porte,2020-09-19,0.58
+Muncie,2020-09-19,1.37
+South Bend-Mishawaka,2020-09-19,0.67
+Terre Haute,2020-09-19,1.91
+Bloomington,2020-09-20,1.8
+Cincinnati,2020-09-20,0.49
+Columbus,2020-09-20,0.51
+Fort Wayne,2020-09-20,0.65
+Elkhart-Goshen,2020-09-20,0.93
+Evansville,2020-09-20,1.07
+Chicago-Naperville-Elgin,2020-09-20,0.6
+Indianapolis-Carmel-Anderson,2020-09-20,0.46
+Kokomo,2020-09-20,0.56
+Lafayette-West Lafayette,2020-09-20,0.57
+Louisville/Jefferson County,2020-09-20,1
+Michigan City-La Porte,2020-09-20,0.67
+Muncie,2020-09-20,1.53
+South Bend-Mishawaka,2020-09-20,0.69
+Terre Haute,2020-09-20,0.62
+Bloomington,2020-09-21,2.12
+Cincinnati,2020-09-21,0.49
+Columbus,2020-09-21,0.54
+Fort Wayne,2020-09-21,0.67
+Elkhart-Goshen,2020-09-21,0.94
+Evansville,2020-09-21,1.13
+Chicago-Naperville-Elgin,2020-09-21,0.59
+Indianapolis-Carmel-Anderson,2020-09-21,0.56
+Kokomo,2020-09-21,0.65
+Lafayette-West Lafayette,2020-09-21,0.45
+Louisville/Jefferson County,2020-09-21,0.75
+Michigan City-La Porte,2020-09-21,0.64
+Muncie,2020-09-21,1.69
+South Bend-Mishawaka,2020-09-21,0.7
+Terre Haute,2020-09-21,0.58
+Bloomington,2020-09-22,1.59
+Cincinnati,2020-09-22,0.55
+Columbus,2020-09-22,0.52
+Fort Wayne,2020-09-22,0.69
+Elkhart-Goshen,2020-09-22,0.81
+Evansville,2020-09-22,1.02
+Chicago-Naperville-Elgin,2020-09-22,0.68
+Indianapolis-Carmel-Anderson,2020-09-22,0.57
+Kokomo,2020-09-22,0.61
+Lafayette-West Lafayette,2020-09-22,0.34
+Louisville/Jefferson County,2020-09-22,0.7
+Michigan City-La Porte,2020-09-22,0.77
+Muncie,2020-09-22,1.5
+South Bend-Mishawaka,2020-09-22,0.63
+Terre Haute,2020-09-22,0.29
+Bloomington,2020-09-24,0.54
+Cincinnati,2020-09-24,0.16
+Columbus,2020-09-24,0.16
+Fort Wayne,2020-09-24,0.22
+Elkhart-Goshen,2020-09-24,0.22
+Evansville,2020-09-24,2.65
+Chicago-Naperville-Elgin,2020-09-24,0.34
+Indianapolis-Carmel-Anderson,2020-09-24,0.18
+Kokomo,2020-09-24,0.2
+Lafayette-West Lafayette,2020-09-24,0.13
+Louisville/Jefferson County,2020-09-24,0.23
+Michigan City-La Porte,2020-09-24,0.46
+Muncie,2020-09-24,0.3
+South Bend-Mishawaka,2020-09-24,0.17
+Terre Haute,2020-09-24,0.11
+Bloomington,2020-09-25,1.56
+Cincinnati,2020-09-25,0.43
+Columbus,2020-09-25,0.36
+Fort Wayne,2020-09-25,0.66
+Elkhart-Goshen,2020-09-25,0.59
+Evansville,2020-09-25,0.64
+Chicago-Naperville-Elgin,2020-09-25,0.67
+Indianapolis-Carmel-Anderson,2020-09-25,0.52
+Kokomo,2020-09-25,0.61
+Lafayette-West Lafayette,2020-09-25,0.32
+Louisville/Jefferson County,2020-09-25,0.59
+Michigan City-La Porte,2020-09-25,0.91
+Muncie,2020-09-25,0.99
+South Bend-Mishawaka,2020-09-25,0.36
+Terre Haute,2020-09-25,0.3
+Bloomington,2020-09-26,2.01
+Cincinnati,2020-09-26,0.51
+Columbus,2020-09-26,0.61
+Fort Wayne,2020-09-26,0.67
+Elkhart-Goshen,2020-09-26,0.67
+Evansville,2020-09-26,0.71
+Chicago-Naperville-Elgin,2020-09-26,0.74
+Indianapolis-Carmel-Anderson,2020-09-26,0.75
+Kokomo,2020-09-26,0.95
+Lafayette-West Lafayette,2020-09-26,0.42
+Louisville/Jefferson County,2020-09-26,0.68
+Michigan City-La Porte,2020-09-26,0.95
+Muncie,2020-09-26,1.35
+South Bend-Mishawaka,2020-09-26,0.63
+Terre Haute,2020-09-26,0.37
+Bloomington,2020-09-27,1.67
+Cincinnati,2020-09-27,0.55
+Columbus,2020-09-27,0.6
+Fort Wayne,2020-09-27,0.46
+Elkhart-Goshen,2020-09-27,0.36
+Evansville,2020-09-27,0.5
+Chicago-Naperville-Elgin,2020-09-27,0.56
+Indianapolis-Carmel-Anderson,2020-09-27,0.68
+Kokomo,2020-09-27,0.86
+Lafayette-West Lafayette,2020-09-27,0.41
+Louisville/Jefferson County,2020-09-27,0.53
+Michigan City-La Porte,2020-09-27,0.7
+Muncie,2020-09-27,1.04
+South Bend-Mishawaka,2020-09-27,0.49
+Terre Haute,2020-09-27,0.35
+Bloomington,2020-09-28,2.22
+Cincinnati,2020-09-28,0.54
+Columbus,2020-09-28,0.66
+Fort Wayne,2020-09-28,0.66
+Elkhart-Goshen,2020-09-28,1.18
+Evansville,2020-09-28,0.63
+Chicago-Naperville-Elgin,2020-09-28,0.73
+Indianapolis-Carmel-Anderson,2020-09-28,0.78
+Kokomo,2020-09-28,1.05
+Lafayette-West Lafayette,2020-09-28,0.57
+Louisville/Jefferson County,2020-09-28,0.7
+Michigan City-La Porte,2020-09-28,0.87
+Muncie,2020-09-28,1.16
+South Bend-Mishawaka,2020-09-28,1.28
+Terre Haute,2020-09-28,0.66
+Bloomington,2020-09-29,1.13
+Cincinnati,2020-09-29,0.88
+Columbus,2020-09-29,0.25
+Fort Wayne,2020-09-29,0.36
+Elkhart-Goshen,2020-09-29,0.32
+Evansville,2020-09-29,0.54
+Chicago-Naperville-Elgin,2020-09-29,0.51
+Indianapolis-Carmel-Anderson,2020-09-29,0.3
+Kokomo,2020-09-29,0.42
+Lafayette-West Lafayette,2020-09-29,0.32
+Louisville/Jefferson County,2020-09-29,0.36
+Michigan City-La Porte,2020-09-29,0.7
+Muncie,2020-09-29,0.54
+South Bend-Mishawaka,2020-09-29,0.36
+Terre Haute,2020-09-29,0.38
+Bloomington,2020-09-30,2.48
+Cincinnati,2020-09-30,0.72
+Columbus,2020-09-30,0.43
+Fort Wayne,2020-09-30,0.75
+Elkhart-Goshen,2020-09-30,0.67
+Evansville,2020-09-30,1.02
+Chicago-Naperville-Elgin,2020-09-30,0.84
+Indianapolis-Carmel-Anderson,2020-09-30,0.52
+Kokomo,2020-09-30,0.72
+Lafayette-West Lafayette,2020-09-30,0.48
+Louisville/Jefferson County,2020-09-30,0.63
+Michigan City-La Porte,2020-09-30,1.13
+Muncie,2020-09-30,0.97
+South Bend-Mishawaka,2020-09-30,0.69
+Terre Haute,2020-09-30,0.65
+Bloomington,2020-10-01,2.14
+Cincinnati,2020-10-01,0.95
+Columbus,2020-10-01,0.5
+Fort Wayne,2020-10-01,0.73
+Elkhart-Goshen,2020-10-01,0.65
+Evansville,2020-10-01,0.85
+Chicago-Naperville-Elgin,2020-10-01,0.73
+Indianapolis-Carmel-Anderson,2020-10-01,0.57
+Kokomo,2020-10-01,0.73
+Lafayette-West Lafayette,2020-10-01,0.48
+Louisville/Jefferson County,2020-10-01,0.53
+Michigan City-La Porte,2020-10-01,0.99
+Muncie,2020-10-01,0.9
+South Bend-Mishawaka,2020-10-01,0.6
+Terre Haute,2020-10-01,0.55
+Bloomington,2020-10-02,2.47
+Cincinnati,2020-10-02,0.59
+Columbus,2020-10-02,0.66
+Fort Wayne,2020-10-02,0.8
+Elkhart-Goshen,2020-10-02,0.77
+Evansville,2020-10-02,1
+Chicago-Naperville-Elgin,2020-10-02,0.79
+Indianapolis-Carmel-Anderson,2020-10-02,0.73
+Kokomo,2020-10-02,0.81
+Lafayette-West Lafayette,2020-10-02,0.55
+Louisville/Jefferson County,2020-10-02,1.04
+Michigan City-La Porte,2020-10-02,0.69
+Muncie,2020-10-02,0.79
+South Bend-Mishawaka,2020-10-02,0.81
+Terre Haute,2020-10-02,0.65
+Bloomington,2020-10-03,2.29
+Cincinnati,2020-10-03,0.76
+Columbus,2020-10-03,0.72
+Fort Wayne,2020-10-03,0.73
+Elkhart-Goshen,2020-10-03,0.74
+Evansville,2020-10-03,1.91
+Chicago-Naperville-Elgin,2020-10-03,0.81
+Indianapolis-Carmel-Anderson,2020-10-03,0.73
+Kokomo,2020-10-03,0.82
+Lafayette-West Lafayette,2020-10-03,0.52
+Louisville/Jefferson County,2020-10-03,0.82
+Michigan City-La Porte,2020-10-03,0.7
+Muncie,2020-10-03,0.73
+South Bend-Mishawaka,2020-10-03,0.7
+Terre Haute,2020-10-03,0.58
+Bloomington,2020-10-04,2.14
+Cincinnati,2020-10-04,0.62
+Columbus,2020-10-04,0.51
+Fort Wayne,2020-10-04,0.66
+Elkhart-Goshen,2020-10-04,0.68
+Evansville,2020-10-04,2.1
+Chicago-Naperville-Elgin,2020-10-04,0.82
+Indianapolis-Carmel-Anderson,2020-10-04,0.49
+Kokomo,2020-10-04,0.57
+Lafayette-West Lafayette,2020-10-04,0.44
+Louisville/Jefferson County,2020-10-04,0.66
+Michigan City-La Porte,2020-10-04,0.78
+Muncie,2020-10-04,0.47
+South Bend-Mishawaka,2020-10-04,0.68
+Terre Haute,2020-10-04,0.5
+Bloomington,2020-10-05,2.36
+Cincinnati,2020-10-05,0.77
+Columbus,2020-10-05,0.64
+Fort Wayne,2020-10-05,0.67
+Elkhart-Goshen,2020-10-05,0.65
+Evansville,2020-10-05,1.13
+Chicago-Naperville-Elgin,2020-10-05,0.78
+Indianapolis-Carmel-Anderson,2020-10-05,0.7
+Kokomo,2020-10-05,0.68
+Lafayette-West Lafayette,2020-10-05,0.95
+Louisville/Jefferson County,2020-10-05,1.03
+Michigan City-La Porte,2020-10-05,0.75
+Muncie,2020-10-05,0.68
+South Bend-Mishawaka,2020-10-05,0.84
+Terre Haute,2020-10-05,0.47
+Bloomington,2020-10-06,2.43
+Cincinnati,2020-10-06,0.74
+Columbus,2020-10-06,0.59
+Fort Wayne,2020-10-06,0.82
+Elkhart-Goshen,2020-10-06,0.8
+Evansville,2020-10-06,1.36
+Chicago-Naperville-Elgin,2020-10-06,0.92
+Indianapolis-Carmel-Anderson,2020-10-06,0.69
+Kokomo,2020-10-06,0.62
+Lafayette-West Lafayette,2020-10-06,0.92
+Louisville/Jefferson County,2020-10-06,0.89
+Michigan City-La Porte,2020-10-06,0.89
+Muncie,2020-10-06,0.68
+South Bend-Mishawaka,2020-10-06,0.94
+Terre Haute,2020-10-06,0.6
+Bloomington,2020-10-07,2.16
+Cincinnati,2020-10-07,0.96
+Columbus,2020-10-07,1.03
+Fort Wayne,2020-10-07,1.33
+Elkhart-Goshen,2020-10-07,1.2
+Evansville,2020-10-07,1.18
+Chicago-Naperville-Elgin,2020-10-07,0.73
+Indianapolis-Carmel-Anderson,2020-10-07,1.05
+Kokomo,2020-10-07,1.05
+Lafayette-West Lafayette,2020-10-07,0.81
+Louisville/Jefferson County,2020-10-07,1.11
+Michigan City-La Porte,2020-10-07,0.59
+Muncie,2020-10-07,1.08
+South Bend-Mishawaka,2020-10-07,1.28
+Terre Haute,2020-10-07,0.56
+Bloomington,2020-10-08,1.75
+Cincinnati,2020-10-08,0.58
+Columbus,2020-10-08,0.75
+Fort Wayne,2020-10-08,0.5
+Elkhart-Goshen,2020-10-08,0.52
+Evansville,2020-10-08,1.08
+Chicago-Naperville-Elgin,2020-10-08,0.78
+Indianapolis-Carmel-Anderson,2020-10-08,0.76
+Kokomo,2020-10-08,0.76
+Lafayette-West Lafayette,2020-10-08,0.68
+Louisville/Jefferson County,2020-10-08,1.09
+Michigan City-La Porte,2020-10-08,0.59
+Muncie,2020-10-08,0.68
+South Bend-Mishawaka,2020-10-08,0.75
+Terre Haute,2020-10-08,0.53
+Bloomington,2020-10-09,1.79
+Cincinnati,2020-10-09,0.75
+Columbus,2020-10-09,0.62
+Fort Wayne,2020-10-09,0.52
+Elkhart-Goshen,2020-10-09,0.58
+Evansville,2020-10-09,1.18
+Chicago-Naperville-Elgin,2020-10-09,0.85
+Indianapolis-Carmel-Anderson,2020-10-09,0.59
+Kokomo,2020-10-09,0.64
+Lafayette-West Lafayette,2020-10-09,0.72
+Louisville/Jefferson County,2020-10-09,1.36
+Michigan City-La Porte,2020-10-09,0.58
+Muncie,2020-10-09,0.58
+South Bend-Mishawaka,2020-10-09,0.89
+Terre Haute,2020-10-09,0.57
+Bloomington,2020-10-10,2.31
+Cincinnati,2020-10-10,0.73
+Columbus,2020-10-10,0.8
+Fort Wayne,2020-10-10,0.68
+Elkhart-Goshen,2020-10-10,0.69
+Evansville,2020-10-10,1.22
+Chicago-Naperville-Elgin,2020-10-10,0.92
+Indianapolis-Carmel-Anderson,2020-10-10,0.82
+Kokomo,2020-10-10,0.83
+Lafayette-West Lafayette,2020-10-10,0.87
+Louisville/Jefferson County,2020-10-10,1.06
+Michigan City-La Porte,2020-10-10,0.63
+Muncie,2020-10-10,0.75
+South Bend-Mishawaka,2020-10-10,1.07
+Terre Haute,2020-10-10,0.71
+Bloomington,2020-10-11,2.29
+Cincinnati,2020-10-11,0.76
+Columbus,2020-10-11,0.63
+Fort Wayne,2020-10-11,0.69
+Elkhart-Goshen,2020-10-11,0.73
+Evansville,2020-10-11,1.35
+Chicago-Naperville-Elgin,2020-10-11,0.93
+Indianapolis-Carmel-Anderson,2020-10-11,0.63
+Kokomo,2020-10-11,0.7
+Lafayette-West Lafayette,2020-10-11,0.87
+Louisville/Jefferson County,2020-10-11,0.98
+Michigan City-La Porte,2020-10-11,0.49
+Muncie,2020-10-11,0.75
+South Bend-Mishawaka,2020-10-11,1.09
+Terre Haute,2020-10-11,0.81
+Bloomington,2020-10-12,2.07
+Cincinnati,2020-10-12,0.77
+Columbus,2020-10-12,0.55
+Fort Wayne,2020-10-12,0.73
+Elkhart-Goshen,2020-10-12,0.85
+Evansville,2020-10-12,1.36
+Chicago-Naperville-Elgin,2020-10-12,0.89
+Indianapolis-Carmel-Anderson,2020-10-12,0.66
+Kokomo,2020-10-12,0.64
+Lafayette-West Lafayette,2020-10-12,0.54
+Louisville/Jefferson County,2020-10-12,0.93
+Michigan City-La Porte,2020-10-12,0.49
+Muncie,2020-10-12,0.83
+South Bend-Mishawaka,2020-10-12,1.02
+Terre Haute,2020-10-12,0.78
+Bloomington,2020-10-13,1.94
+Cincinnati,2020-10-13,0.93
+Columbus,2020-10-13,0.64
+Fort Wayne,2020-10-13,0.86
+Elkhart-Goshen,2020-10-13,1.01
+Evansville,2020-10-13,1.58
+Chicago-Naperville-Elgin,2020-10-13,0.84
+Indianapolis-Carmel-Anderson,2020-10-13,0.72
+Kokomo,2020-10-13,0.7
+Lafayette-West Lafayette,2020-10-13,0.58
+Louisville/Jefferson County,2020-10-13,1.33
+Michigan City-La Porte,2020-10-13,0.55
+Muncie,2020-10-13,0.91
+South Bend-Mishawaka,2020-10-13,0.97
+Terre Haute,2020-10-13,0.79
+Bloomington,2020-10-14,1.65
+Cincinnati,2020-10-14,0.76
+Columbus,2020-10-14,0.66
+Fort Wayne,2020-10-14,0.76
+Elkhart-Goshen,2020-10-14,1.41
+Evansville,2020-10-14,1.35
+Chicago-Naperville-Elgin,2020-10-14,0.81
+Indianapolis-Carmel-Anderson,2020-10-14,0.76
+Kokomo,2020-10-14,0.7
+Lafayette-West Lafayette,2020-10-14,0.65
+Louisville/Jefferson County,2020-10-14,0.73
+Michigan City-La Porte,2020-10-14,0.59
+Muncie,2020-10-14,0.94
+South Bend-Mishawaka,2020-10-14,1.42
+Terre Haute,2020-10-14,0.64
+Bloomington,2020-10-15,1.84
+Cincinnati,2020-10-15,0.9
+Columbus,2020-10-15,0.76
+Fort Wayne,2020-10-15,0.78
+Elkhart-Goshen,2020-10-15,0.95
+Evansville,2020-10-15,1.59
+Chicago-Naperville-Elgin,2020-10-15,0.85
+Indianapolis-Carmel-Anderson,2020-10-15,0.93
+Kokomo,2020-10-15,0.75
+Lafayette-West Lafayette,2020-10-15,0.85
+Louisville/Jefferson County,2020-10-15,0.98
+Michigan City-La Porte,2020-10-15,0.68
+Muncie,2020-10-15,1.27
+South Bend-Mishawaka,2020-10-15,0.77
+Terre Haute,2020-10-15,1.93
+Bloomington,2020-10-16,1.62
+Cincinnati,2020-10-16,0.81
+Columbus,2020-10-16,0.64
+Fort Wayne,2020-10-16,0.85
+Elkhart-Goshen,2020-10-16,1.05
+Evansville,2020-10-16,1.65
+Chicago-Naperville-Elgin,2020-10-16,1.06
+Indianapolis-Carmel-Anderson,2020-10-16,0.76
+Kokomo,2020-10-16,0.66
+Lafayette-West Lafayette,2020-10-16,0.96
+Louisville/Jefferson County,2020-10-16,0.93
+Michigan City-La Porte,2020-10-16,0.83
+Muncie,2020-10-16,1.13
+South Bend-Mishawaka,2020-10-16,0.94
+Terre Haute,2020-10-16,0.77
+Bloomington,2020-10-17,1.36
+Cincinnati,2020-10-17,0.88
+Columbus,2020-10-17,0.78
+Fort Wayne,2020-10-17,0.9
+Elkhart-Goshen,2020-10-17,1.41
+Evansville,2020-10-17,1.71
+Chicago-Naperville-Elgin,2020-10-17,1.01
+Indianapolis-Carmel-Anderson,2020-10-17,0.79
+Kokomo,2020-10-17,0.82
+Lafayette-West Lafayette,2020-10-17,1.09
+Louisville/Jefferson County,2020-10-17,0.86
+Michigan City-La Porte,2020-10-17,0.68
+Muncie,2020-10-17,1.53
+South Bend-Mishawaka,2020-10-17,1.29
+Terre Haute,2020-10-17,0.81
+Bloomington,2020-10-18,1.16
+Cincinnati,2020-10-18,0.98
+Columbus,2020-10-18,0.87
+Fort Wayne,2020-10-18,1.47
+Elkhart-Goshen,2020-10-18,1.05
+Evansville,2020-10-18,1.47
+Chicago-Naperville-Elgin,2020-10-18,0.99
+Indianapolis-Carmel-Anderson,2020-10-18,0.85
+Kokomo,2020-10-18,0.92
+Lafayette-West Lafayette,2020-10-18,1.11
+Louisville/Jefferson County,2020-10-18,0.81
+Michigan City-La Porte,2020-10-18,0.71
+Muncie,2020-10-18,1.38
+South Bend-Mishawaka,2020-10-18,0.95
+Terre Haute,2020-10-18,0.64
+Bloomington,2020-10-19,1.01
+Cincinnati,2020-10-19,0.96
+Columbus,2020-10-19,0.76
+Fort Wayne,2020-10-19,0.88
+Elkhart-Goshen,2020-10-19,1
+Evansville,2020-10-19,1.27
+Chicago-Naperville-Elgin,2020-10-19,0.98
+Indianapolis-Carmel-Anderson,2020-10-19,0.69
+Kokomo,2020-10-19,0.83
+Lafayette-West Lafayette,2020-10-19,1.06
+Louisville/Jefferson County,2020-10-19,0.71
+Michigan City-La Porte,2020-10-19,0.73
+Muncie,2020-10-19,1.28
+South Bend-Mishawaka,2020-10-19,0.8
+Terre Haute,2020-10-19,3.14
+Bloomington,2020-10-20,1.01
+Cincinnati,2020-10-20,0.92
+Columbus,2020-10-20,0.76
+Fort Wayne,2020-10-20,0.92
+Elkhart-Goshen,2020-10-20,1.21
+Evansville,2020-10-20,2.63
+Chicago-Naperville-Elgin,2020-10-20,1
+Indianapolis-Carmel-Anderson,2020-10-20,0.75
+Kokomo,2020-10-20,0.82
+Lafayette-West Lafayette,2020-10-20,1.14
+Louisville/Jefferson County,2020-10-20,0.82
+Michigan City-La Porte,2020-10-20,0.97
+Muncie,2020-10-20,1.32
+South Bend-Mishawaka,2020-10-20,0.96
+Terre Haute,2020-10-20,0.78
+Bloomington,2020-10-21,1.11
+Cincinnati,2020-10-21,0.74
+Columbus,2020-10-21,1.03
+Fort Wayne,2020-10-21,0.85
+Elkhart-Goshen,2020-10-21,1.08
+Evansville,2020-10-21,1.55
+Chicago-Naperville-Elgin,2020-10-21,1.08
+Indianapolis-Carmel-Anderson,2020-10-21,1
+Kokomo,2020-10-21,1.11
+Lafayette-West Lafayette,2020-10-21,0.99
+Louisville/Jefferson County,2020-10-21,0.79
+Michigan City-La Porte,2020-10-21,1.11
+Muncie,2020-10-21,1.54
+South Bend-Mishawaka,2020-10-21,0.99
+Terre Haute,2020-10-21,0.8
+Bloomington,2020-10-22,0.97
+Cincinnati,2020-10-22,0.75
+Columbus,2020-10-22,0.9
+Fort Wayne,2020-10-22,0.88
+Elkhart-Goshen,2020-10-22,1.06
+Evansville,2020-10-22,1.61
+Chicago-Naperville-Elgin,2020-10-22,1.17
+Indianapolis-Carmel-Anderson,2020-10-22,0.99
+Kokomo,2020-10-22,1
+Lafayette-West Lafayette,2020-10-22,1.03
+Louisville/Jefferson County,2020-10-22,0.82
+Michigan City-La Porte,2020-10-22,0.86
+Muncie,2020-10-22,1.6
+South Bend-Mishawaka,2020-10-22,0.92
+Terre Haute,2020-10-22,0.83
+Bloomington,2020-10-25,0.8
+Cincinnati,2020-10-25,0.7
+Columbus,2020-10-25,0.66
+Fort Wayne,2020-10-25,0.89
+Elkhart-Goshen,2020-10-25,0.98
+Evansville,2020-10-25,1.44
+Chicago-Naperville-Elgin,2020-10-25,0.98
+Indianapolis-Carmel-Anderson,2020-10-25,0.7
+Kokomo,2020-10-25,0.77
+Lafayette-West Lafayette,2020-10-25,0.93
+Louisville/Jefferson County,2020-10-25,0.68
+Michigan City-La Porte,2020-10-25,0.84
+Muncie,2020-10-25,1.3
+South Bend-Mishawaka,2020-10-25,0.74
+Terre Haute,2020-10-25,0.84
+Bloomington,2020-10-26,1.29
+Cincinnati,2020-10-26,0.99
+Columbus,2020-10-26,0.9
+Fort Wayne,2020-10-26,1
+Elkhart-Goshen,2020-10-26,2.05
+Evansville,2020-10-26,1.64
+Chicago-Naperville-Elgin,2020-10-26,1.07
+Indianapolis-Carmel-Anderson,2020-10-26,1.01
+Kokomo,2020-10-26,1.04
+Lafayette-West Lafayette,2020-10-26,0.84
+Louisville/Jefferson County,2020-10-26,0.98
+Michigan City-La Porte,2020-10-26,0.97
+Muncie,2020-10-26,1.37
+South Bend-Mishawaka,2020-10-26,1.77
+Terre Haute,2020-10-26,1.3
+Bloomington,2020-10-27,1.25
+Cincinnati,2020-10-27,1.07
+Columbus,2020-10-27,0.89
+Fort Wayne,2020-10-27,1
+Elkhart-Goshen,2020-10-27,1.13
+Evansville,2020-10-27,1.93
+Chicago-Naperville-Elgin,2020-10-27,0.99
+Indianapolis-Carmel-Anderson,2020-10-27,1.02
+Kokomo,2020-10-27,1
+Lafayette-West Lafayette,2020-10-27,0.82
+Louisville/Jefferson County,2020-10-27,0.97
+Michigan City-La Porte,2020-10-27,0.97
+Muncie,2020-10-27,1.35
+South Bend-Mishawaka,2020-10-27,0.87
+Terre Haute,2020-10-27,3.05
+Bloomington,2020-10-28,1.02
+Cincinnati,2020-10-28,1.03
+Columbus,2020-10-28,0.7
+Fort Wayne,2020-10-28,1.01
+Elkhart-Goshen,2020-10-28,1.15
+Evansville,2020-10-28,1.46
+Chicago-Naperville-Elgin,2020-10-28,1.01
+Indianapolis-Carmel-Anderson,2020-10-28,0.9
+Kokomo,2020-10-28,0.81
+Lafayette-West Lafayette,2020-10-28,0.86
+Louisville/Jefferson County,2020-10-28,1.24
+Michigan City-La Porte,2020-10-28,1.35
+Muncie,2020-10-28,1.11
+South Bend-Mishawaka,2020-10-28,0.92
+Terre Haute,2020-10-28,1.24
+Bloomington,2020-10-29,1.17
+Cincinnati,2020-10-29,0.87
+Columbus,2020-10-29,0.78
+Fort Wayne,2020-10-29,1.54
+Elkhart-Goshen,2020-10-29,2.27
+Evansville,2020-10-29,1.24
+Chicago-Naperville-Elgin,2020-10-29,1.25
+Indianapolis-Carmel-Anderson,2020-10-29,1.04
+Kokomo,2020-10-29,0.87
+Lafayette-West Lafayette,2020-10-29,0.68
+Louisville/Jefferson County,2020-10-29,0.79
+Michigan City-La Porte,2020-10-29,1.45
+Muncie,2020-10-29,0.91
+South Bend-Mishawaka,2020-10-29,2.07
+Terre Haute,2020-10-29,1.26
+Bloomington,2020-10-30,1.26
+Cincinnati,2020-10-30,0.95
+Columbus,2020-10-30,0.78
+Fort Wayne,2020-10-30,1.06
+Elkhart-Goshen,2020-10-30,1.35
+Evansville,2020-10-30,1.61
+Chicago-Naperville-Elgin,2020-10-30,1.25
+Indianapolis-Carmel-Anderson,2020-10-30,1
+Kokomo,2020-10-30,0.85
+Lafayette-West Lafayette,2020-10-30,0.75
+Louisville/Jefferson County,2020-10-30,0.8
+Michigan City-La Porte,2020-10-30,1.23
+Muncie,2020-10-30,0.96
+South Bend-Mishawaka,2020-10-30,1.2
+Terre Haute,2020-10-30,1.2
+Bloomington,2020-11-02,1.28
+Cincinnati,2020-11-02,1.23
+Columbus,2020-11-02,0.89
+Fort Wayne,2020-11-02,1.51
+Elkhart-Goshen,2020-11-02,1.47
+Evansville,2020-11-02,1.07
+Chicago-Naperville-Elgin,2020-11-02,1.22
+Indianapolis-Carmel-Anderson,2020-11-02,1.13
+Kokomo,2020-11-02,0.96
+Lafayette-West Lafayette,2020-11-02,1.03
+Louisville/Jefferson County,2020-11-02,0.83
+Michigan City-La Porte,2020-11-02,1.1
+Muncie,2020-11-02,0.98
+South Bend-Mishawaka,2020-11-02,1.26
+Terre Haute,2020-11-02,0.79
+Bloomington,2020-11-03,0.98
+Cincinnati,2020-11-03,1.26
+Columbus,2020-11-03,0.84
+Fort Wayne,2020-11-03,1.17
+Elkhart-Goshen,2020-11-03,1.24
+Evansville,2020-11-03,1.56
+Chicago-Naperville-Elgin,2020-11-03,1.22
+Indianapolis-Carmel-Anderson,2020-11-03,0.96
+Kokomo,2020-11-03,0.91
+Lafayette-West Lafayette,2020-11-03,1.02
+Louisville/Jefferson County,2020-11-03,1
+Michigan City-La Porte,2020-11-03,1.15
+Muncie,2020-11-03,0.86
+South Bend-Mishawaka,2020-11-03,1.04
+Terre Haute,2020-11-03,0.81
+Bloomington,2020-11-04,0.88
+Cincinnati,2020-11-04,1.22
+Columbus,2020-11-04,0.72
+Fort Wayne,2020-11-04,2.32
+Elkhart-Goshen,2020-11-04,1.64
+Evansville,2020-11-04,1.23
+Chicago-Naperville-Elgin,2020-11-04,1.33
+Indianapolis-Carmel-Anderson,2020-11-04,0.78
+Kokomo,2020-11-04,0.82
+Lafayette-West Lafayette,2020-11-04,0.91
+Louisville/Jefferson County,2020-11-04,0.9
+Michigan City-La Porte,2020-11-04,1.26
+Muncie,2020-11-04,0.8
+South Bend-Mishawaka,2020-11-04,1.23
+Terre Haute,2020-11-04,1.22
+Bloomington,2020-11-05,0.75
+Cincinnati,2020-11-05,0.96
+Columbus,2020-11-05,0.63
+Fort Wayne,2020-11-05,0.97
+Elkhart-Goshen,2020-11-05,1.74
+Evansville,2020-11-05,2.3
+Chicago-Naperville-Elgin,2020-11-05,1.38
+Indianapolis-Carmel-Anderson,2020-11-05,0.66
+Kokomo,2020-11-05,0.72
+Lafayette-West Lafayette,2020-11-05,0.8
+Louisville/Jefferson County,2020-11-05,0.82
+Michigan City-La Porte,2020-11-05,1.16
+Muncie,2020-11-05,0.65
+South Bend-Mishawaka,2020-11-05,1.13
+Terre Haute,2020-11-05,2.58
+Bloomington,2020-11-07,0.84
+Cincinnati,2020-11-07,1.59
+Columbus,2020-11-07,0.78
+Fort Wayne,2020-11-07,1.01
+Elkhart-Goshen,2020-11-07,1.77
+Evansville,2020-11-07,1.2
+Chicago-Naperville-Elgin,2020-11-07,1.35
+Indianapolis-Carmel-Anderson,2020-11-07,0.84
+Kokomo,2020-11-07,0.93
+Lafayette-West Lafayette,2020-11-07,0.85
+Louisville/Jefferson County,2020-11-07,0.87
+Michigan City-La Porte,2020-11-07,1.04
+Muncie,2020-11-07,0.76
+South Bend-Mishawaka,2020-11-07,1.09
+Terre Haute,2020-11-07,1.52
+Bloomington,2020-11-08,0.82
+Cincinnati,2020-11-08,1.59
+Columbus,2020-11-08,0.87
+Fort Wayne,2020-11-08,1.27
+Elkhart-Goshen,2020-11-08,1.97
+Evansville,2020-11-08,1.39
+Chicago-Naperville-Elgin,2020-11-08,1.34
+Indianapolis-Carmel-Anderson,2020-11-08,1.02
+Kokomo,2020-11-08,1.09
+Lafayette-West Lafayette,2020-11-08,1.1
+Louisville/Jefferson County,2020-11-08,0.93
+Michigan City-La Porte,2020-11-08,1.05
+Muncie,2020-11-08,0.78
+South Bend-Mishawaka,2020-11-08,1.23
+Terre Haute,2020-11-08,1.69
+Bloomington,2020-11-09,0.87
+Cincinnati,2020-11-09,1.73
+Columbus,2020-11-09,0.97
+Fort Wayne,2020-11-09,1.36
+Elkhart-Goshen,2020-11-09,2.08
+Evansville,2020-11-09,1.58
+Chicago-Naperville-Elgin,2020-11-09,1.44
+Indianapolis-Carmel-Anderson,2020-11-09,1.13
+Kokomo,2020-11-09,1.17
+Lafayette-West Lafayette,2020-11-09,1
+Louisville/Jefferson County,2020-11-09,0.97
+Michigan City-La Porte,2020-11-09,0.99
+Muncie,2020-11-09,0.8
+South Bend-Mishawaka,2020-11-09,1.31
+Terre Haute,2020-11-09,1.83
+Bloomington,2020-11-10,0.94
+Cincinnati,2020-11-10,1.71
+Columbus,2020-11-10,1.11
+Fort Wayne,2020-11-10,1.4
+Elkhart-Goshen,2020-11-10,2.38
+Evansville,2020-11-10,1.7
+Chicago-Naperville-Elgin,2020-11-10,1.44
+Indianapolis-Carmel-Anderson,2020-11-10,1.39
+Kokomo,2020-11-10,1.36
+Lafayette-West Lafayette,2020-11-10,1.32
+Louisville/Jefferson County,2020-11-10,0.98
+Michigan City-La Porte,2020-11-10,1.09
+Muncie,2020-11-10,0.83
+South Bend-Mishawaka,2020-11-10,1.73
+Terre Haute,2020-11-10,2.03
+Bloomington,2020-11-11,0.87
+Cincinnati,2020-11-11,1.68
+Columbus,2020-11-11,1.15
+Fort Wayne,2020-11-11,1.41
+Elkhart-Goshen,2020-11-11,2.46
+Evansville,2020-11-11,1.73
+Chicago-Naperville-Elgin,2020-11-11,1.57
+Indianapolis-Carmel-Anderson,2020-11-11,1.29
+Kokomo,2020-11-11,1.36
+Lafayette-West Lafayette,2020-11-11,1.36
+Louisville/Jefferson County,2020-11-11,0.94
+Michigan City-La Porte,2020-11-11,1.17
+Muncie,2020-11-11,0.81
+South Bend-Mishawaka,2020-11-11,1.38
+Terre Haute,2020-11-11,1.55
+Bloomington,2020-11-12,0.88
+Cincinnati,2020-11-12,1.62
+Columbus,2020-11-12,1.13
+Fort Wayne,2020-11-12,1.49
+Elkhart-Goshen,2020-11-12,2.28
+Evansville,2020-11-12,1.72
+Chicago-Naperville-Elgin,2020-11-12,1.63
+Indianapolis-Carmel-Anderson,2020-11-12,1.46
+Kokomo,2020-11-12,1.32
+Lafayette-West Lafayette,2020-11-12,1.31
+Louisville/Jefferson County,2020-11-12,0.99
+Michigan City-La Porte,2020-11-12,1.99
+Muncie,2020-11-12,0.86
+South Bend-Mishawaka,2020-11-12,1.24
+Terre Haute,2020-11-12,1.17
+Bloomington,2020-11-13,1.29
+Cincinnati,2020-11-13,1.4
+Columbus,2020-11-13,1.28
+Fort Wayne,2020-11-13,2.21
+Elkhart-Goshen,2020-11-13,3.6
+Evansville,2020-11-13,2.65
+Chicago-Naperville-Elgin,2020-11-13,1.59
+Indianapolis-Carmel-Anderson,2020-11-13,1.48
+Kokomo,2020-11-13,1.47
+Lafayette-West Lafayette,2020-11-13,1.36
+Louisville/Jefferson County,2020-11-13,1.02
+Michigan City-La Porte,2020-11-13,1.98
+Muncie,2020-11-13,1.47
+South Bend-Mishawaka,2020-11-13,2.05
+Terre Haute,2020-11-13,1.19
+Bloomington,2020-11-14,1.46
+Cincinnati,2020-11-14,1.38
+Columbus,2020-11-14,1.3
+Fort Wayne,2020-11-14,2.18
+Elkhart-Goshen,2020-11-14,3.63
+Evansville,2020-11-14,2.67
+Chicago-Naperville-Elgin,2020-11-14,1.54
+Indianapolis-Carmel-Anderson,2020-11-14,1.46
+Kokomo,2020-11-14,1.52
+Lafayette-West Lafayette,2020-11-14,1.35
+Louisville/Jefferson County,2020-11-14,1.04
+Michigan City-La Porte,2020-11-14,2
+Muncie,2020-11-14,1.45
+South Bend-Mishawaka,2020-11-14,2.02
+Terre Haute,2020-11-14,1.24
+Bloomington,2020-11-15,1.78
+Cincinnati,2020-11-15,1.22
+Columbus,2020-11-15,1.45
+Fort Wayne,2020-11-15,1.79
+Elkhart-Goshen,2020-11-15,2.78
+Evansville,2020-11-15,1.62
+Chicago-Naperville-Elgin,2020-11-15,1.52
+Indianapolis-Carmel-Anderson,2020-11-15,1.51
+Kokomo,2020-11-15,1.74
+Lafayette-West Lafayette,2020-11-15,1.53
+Louisville/Jefferson County,2020-11-15,0.96
+Michigan City-La Porte,2020-11-15,2.09
+Muncie,2020-11-15,1.48
+South Bend-Mishawaka,2020-11-15,1.29
+Terre Haute,2020-11-15,1.62
+Bloomington,2020-11-16,1.7
+Cincinnati,2020-11-16,1.43
+Columbus,2020-11-16,1.13
+Fort Wayne,2020-11-16,1.6
+Elkhart-Goshen,2020-11-16,2.68
+Evansville,2020-11-16,2.25
+Chicago-Naperville-Elgin,2020-11-16,1.6
+Indianapolis-Carmel-Anderson,2020-11-16,1.31
+Kokomo,2020-11-16,1.52
+Lafayette-West Lafayette,2020-11-16,2.88
+Louisville/Jefferson County,2020-11-16,0.93
+Michigan City-La Porte,2020-11-16,2.11
+Muncie,2020-11-16,1.23
+South Bend-Mishawaka,2020-11-16,1.36
+Terre Haute,2020-11-16,1.93
+Bloomington,2020-11-17,1.76
+Cincinnati,2020-11-17,1.37
+Columbus,2020-11-17,1.13
+Fort Wayne,2020-11-17,1.9
+Elkhart-Goshen,2020-11-17,3.74
+Evansville,2020-11-17,1.64
+Chicago-Naperville-Elgin,2020-11-17,1.62
+Indianapolis-Carmel-Anderson,2020-11-17,1.48
+Kokomo,2020-11-17,1.55
+Lafayette-West Lafayette,2020-11-17,1.64
+Louisville/Jefferson County,2020-11-17,1.19
+Michigan City-La Porte,2020-11-17,1.81
+Muncie,2020-11-17,1.33
+South Bend-Mishawaka,2020-11-17,2.42
+Terre Haute,2020-11-17,3.28
+Bloomington,2020-11-18,1.88
+Cincinnati,2020-11-18,1.42
+Columbus,2020-11-18,1.18
+Fort Wayne,2020-11-18,1.61
+Elkhart-Goshen,2020-11-18,3
+Evansville,2020-11-18,2
+Chicago-Naperville-Elgin,2020-11-18,1.55
+Indianapolis-Carmel-Anderson,2020-11-18,1.5
+Kokomo,2020-11-18,1.56
+Lafayette-West Lafayette,2020-11-18,1.57
+Louisville/Jefferson County,2020-11-18,0.83
+Michigan City-La Porte,2020-11-18,1.59
+Muncie,2020-11-18,1.27
+South Bend-Mishawaka,2020-11-18,1.78
+Terre Haute,2020-11-18,3.76
+Bloomington,2020-11-19,1.99
+Cincinnati,2020-11-19,1.61
+Columbus,2020-11-19,1.27
+Fort Wayne,2020-11-19,1.58
+Elkhart-Goshen,2020-11-19,2.25
+Evansville,2020-11-19,2.17
+Chicago-Naperville-Elgin,2020-11-19,1.65
+Indianapolis-Carmel-Anderson,2020-11-19,1.62
+Kokomo,2020-11-19,1.55
+Lafayette-West Lafayette,2020-11-19,1.51
+Louisville/Jefferson County,2020-11-19,0.82
+Michigan City-La Porte,2020-11-19,1.66
+Muncie,2020-11-19,1.18
+South Bend-Mishawaka,2020-11-19,1.35
+Terre Haute,2020-11-19,3.01
+Bloomington,2020-11-20,1.69
+Cincinnati,2020-11-20,1.42
+Columbus,2020-11-20,1.26
+Fort Wayne,2020-11-20,1.44
+Elkhart-Goshen,2020-11-20,2.79
+Evansville,2020-11-20,1.5
+Chicago-Naperville-Elgin,2020-11-20,1.58
+Indianapolis-Carmel-Anderson,2020-11-20,1.49
+Kokomo,2020-11-20,1.39
+Lafayette-West Lafayette,2020-11-20,1.51
+Louisville/Jefferson County,2020-11-20,0.99
+Michigan City-La Porte,2020-11-20,1.43
+Muncie,2020-11-20,1.38
+South Bend-Mishawaka,2020-11-20,2.02
+Terre Haute,2020-11-20,1.79
+Bloomington,2020-11-21,1.65
+Cincinnati,2020-11-21,1.28
+Columbus,2020-11-21,1.21
+Fort Wayne,2020-11-21,1.93
+Elkhart-Goshen,2020-11-21,2.02
+Evansville,2020-11-21,1.53
+Chicago-Naperville-Elgin,2020-11-21,1.57
+Indianapolis-Carmel-Anderson,2020-11-21,1.54
+Kokomo,2020-11-21,1.36
+Lafayette-West Lafayette,2020-11-21,1.55
+Louisville/Jefferson County,2020-11-21,1.21
+Michigan City-La Porte,2020-11-21,1.35
+Muncie,2020-11-21,1.4
+South Bend-Mishawaka,2020-11-21,1.51
+Terre Haute,2020-11-21,1.97
+Bloomington,2020-11-22,1.74
+Cincinnati,2020-11-22,1.58
+Columbus,2020-11-22,1.28
+Fort Wayne,2020-11-22,1.96
+Elkhart-Goshen,2020-11-22,2
+Evansville,2020-11-22,1.67
+Chicago-Naperville-Elgin,2020-11-22,1.45
+Indianapolis-Carmel-Anderson,2020-11-22,1.52
+Kokomo,2020-11-22,1.36
+Lafayette-West Lafayette,2020-11-22,1.52
+Louisville/Jefferson County,2020-11-22,1.13
+Michigan City-La Porte,2020-11-22,1.12
+Muncie,2020-11-22,1.45
+South Bend-Mishawaka,2020-11-22,1.53
+Terre Haute,2020-11-22,1.81
+Bloomington,2020-11-23,1.87
+Cincinnati,2020-11-23,1.55
+Columbus,2020-11-23,1.31
+Fort Wayne,2020-11-23,1.33
+Elkhart-Goshen,2020-11-23,2.04
+Evansville,2020-11-23,1.58
+Chicago-Naperville-Elgin,2020-11-23,1.37
+Indianapolis-Carmel-Anderson,2020-11-23,1.6
+Kokomo,2020-11-23,1.41
+Lafayette-West Lafayette,2020-11-23,1.38
+Louisville/Jefferson County,2020-11-23,1.19
+Michigan City-La Porte,2020-11-23,1.05
+Muncie,2020-11-23,1.66
+South Bend-Mishawaka,2020-11-23,1.42
+Terre Haute,2020-11-23,1.68
+Bloomington,2020-11-24,1.83
+Cincinnati,2020-11-24,1.83
+Columbus,2020-11-24,1.18
+Fort Wayne,2020-11-24,1.43
+Elkhart-Goshen,2020-11-24,2.52
+Evansville,2020-11-24,1.64
+Chicago-Naperville-Elgin,2020-11-24,1.34
+Indianapolis-Carmel-Anderson,2020-11-24,1.5
+Kokomo,2020-11-24,1.35
+Lafayette-West Lafayette,2020-11-24,1.27
+Louisville/Jefferson County,2020-11-24,1.16
+Michigan City-La Porte,2020-11-24,1.35
+Muncie,2020-11-24,1.75
+South Bend-Mishawaka,2020-11-24,2.19
+Terre Haute,2020-11-24,1.86
+Bloomington,2020-11-25,1.89
+Cincinnati,2020-11-25,1.76
+Columbus,2020-11-25,1.22
+Fort Wayne,2020-11-25,1.74
+Elkhart-Goshen,2020-11-25,1.7
+Evansville,2020-11-25,1.61
+Chicago-Naperville-Elgin,2020-11-25,1.33
+Indianapolis-Carmel-Anderson,2020-11-25,1.6
+Kokomo,2020-11-25,1.42
+Lafayette-West Lafayette,2020-11-25,1.47
+Louisville/Jefferson County,2020-11-25,1.22
+Michigan City-La Porte,2020-11-25,1.32
+Muncie,2020-11-25,1.73
+South Bend-Mishawaka,2020-11-25,1.32
+Terre Haute,2020-11-25,1.79
+Bloomington,2020-11-26,1.75
+Cincinnati,2020-11-26,1.7
+Columbus,2020-11-26,1.21
+Fort Wayne,2020-11-26,1.42
+Elkhart-Goshen,2020-11-26,1.87
+Evansville,2020-11-26,1.8
+Chicago-Naperville-Elgin,2020-11-26,1.3
+Indianapolis-Carmel-Anderson,2020-11-26,1.7
+Kokomo,2020-11-26,1.42
+Lafayette-West Lafayette,2020-11-26,1.63
+Louisville/Jefferson County,2020-11-26,1.29
+Michigan City-La Porte,2020-11-26,1.26
+Muncie,2020-11-26,1.79
+South Bend-Mishawaka,2020-11-26,1.32
+Terre Haute,2020-11-26,1.78
+Bloomington,2020-11-27,1.98
+Cincinnati,2020-11-27,1.51
+Columbus,2020-11-27,1.17
+Fort Wayne,2020-11-27,1.35
+Elkhart-Goshen,2020-11-27,1.81
+Evansville,2020-11-27,1.73
+Chicago-Naperville-Elgin,2020-11-27,1.28
+Indianapolis-Carmel-Anderson,2020-11-27,1.62
+Kokomo,2020-11-27,1.41
+Lafayette-West Lafayette,2020-11-27,1.56
+Louisville/Jefferson County,2020-11-27,1.22
+Michigan City-La Porte,2020-11-27,1.12
+Muncie,2020-11-27,1.77
+South Bend-Mishawaka,2020-11-27,1.47
+Terre Haute,2020-11-27,1.61
+Bloomington,2020-11-28,2.04
+Cincinnati,2020-11-28,1.38
+Columbus,2020-11-28,1.17
+Fort Wayne,2020-11-28,1.27
+Elkhart-Goshen,2020-11-28,1.86
+Evansville,2020-11-28,1.91
+Chicago-Naperville-Elgin,2020-11-28,1.26
+Indianapolis-Carmel-Anderson,2020-11-28,1.58
+Kokomo,2020-11-28,1.5
+Lafayette-West Lafayette,2020-11-28,1.59
+Louisville/Jefferson County,2020-11-28,1.11
+Michigan City-La Porte,2020-11-28,1.12
+Muncie,2020-11-28,1.66
+South Bend-Mishawaka,2020-11-28,1.52
+Terre Haute,2020-11-28,1.53
+Bloomington,2020-11-29,2.13
+Cincinnati,2020-11-29,1.51
+Columbus,2020-11-29,1.17
+Fort Wayne,2020-11-29,1.19
+Elkhart-Goshen,2020-11-29,1.59
+Evansville,2020-11-29,1.8
+Chicago-Naperville-Elgin,2020-11-29,1.19
+Indianapolis-Carmel-Anderson,2020-11-29,1.68
+Kokomo,2020-11-29,1.57
+Lafayette-West Lafayette,2020-11-29,1.72
+Louisville/Jefferson County,2020-11-29,1.05
+Michigan City-La Porte,2020-11-29,1.04
+Muncie,2020-11-29,1.64
+South Bend-Mishawaka,2020-11-29,1.29
+Terre Haute,2020-11-29,1.44
+Bloomington,2020-12-01,2.25
+Cincinnati,2020-12-01,1.55
+Columbus,2020-12-01,1.08
+Fort Wayne,2020-12-01,1.37
+Elkhart-Goshen,2020-12-01,1.47
+Evansville,2020-12-01,1.74
+Chicago-Naperville-Elgin,2020-12-01,1.33
+Indianapolis-Carmel-Anderson,2020-12-01,1.95
+Kokomo,2020-12-01,1.54
+Lafayette-West Lafayette,2020-12-01,1.94
+Louisville/Jefferson County,2020-12-01,1.43
+Michigan City-La Porte,2020-12-01,1.08
+Muncie,2020-12-01,1.41
+South Bend-Mishawaka,2020-12-01,1.17
+Terre Haute,2020-12-01,1.37
+Bloomington,2020-12-02,2.37
+Cincinnati,2020-12-02,1.67
+Columbus,2020-12-02,1.1
+Fort Wayne,2020-12-02,1.66
+Elkhart-Goshen,2020-12-02,1.32
+Evansville,2020-12-02,1.93
+Chicago-Naperville-Elgin,2020-12-02,1.58
+Indianapolis-Carmel-Anderson,2020-12-02,2.04
+Kokomo,2020-12-02,1.64
+Lafayette-West Lafayette,2020-12-02,1.83
+Louisville/Jefferson County,2020-12-02,1.39
+Michigan City-La Porte,2020-12-02,1.18
+Muncie,2020-12-02,1.58
+South Bend-Mishawaka,2020-12-02,1.19
+Terre Haute,2020-12-02,1.58
+Bloomington,2020-12-03,2.3
+Cincinnati,2020-12-03,1.44
+Columbus,2020-12-03,1.04
+Fort Wayne,2020-12-03,1.32
+Elkhart-Goshen,2020-12-03,1.39
+Evansville,2020-12-03,1.72
+Chicago-Naperville-Elgin,2020-12-03,1.5
+Indianapolis-Carmel-Anderson,2020-12-03,1.84
+Kokomo,2020-12-03,1.59
+Lafayette-West Lafayette,2020-12-03,1.67
+Louisville/Jefferson County,2020-12-03,1.39
+Michigan City-La Porte,2020-12-03,1.14
+Muncie,2020-12-03,1.47
+South Bend-Mishawaka,2020-12-03,1.15
+Terre Haute,2020-12-03,1.42
+Bloomington,2020-12-04,2.11
+Cincinnati,2020-12-04,1.44
+Columbus,2020-12-04,1.1
+Fort Wayne,2020-12-04,2.03
+Elkhart-Goshen,2020-12-04,1.34
+Evansville,2020-12-04,1.66
+Chicago-Naperville-Elgin,2020-12-04,1.36
+Indianapolis-Carmel-Anderson,2020-12-04,1.74
+Kokomo,2020-12-04,1.66
+Lafayette-West Lafayette,2020-12-04,1.59
+Louisville/Jefferson County,2020-12-04,1.44
+Michigan City-La Porte,2020-12-04,1.07
+Muncie,2020-12-04,1.49
+South Bend-Mishawaka,2020-12-04,1.2
+Terre Haute,2020-12-04,1.36
+Bloomington,2020-12-05,2.17
+Cincinnati,2020-12-05,1.53
+Columbus,2020-12-05,1.16
+Fort Wayne,2020-12-05,1.52
+Elkhart-Goshen,2020-12-05,1.47
+Evansville,2020-12-05,1.49
+Chicago-Naperville-Elgin,2020-12-05,1.28
+Indianapolis-Carmel-Anderson,2020-12-05,1.53
+Kokomo,2020-12-05,1.67
+Lafayette-West Lafayette,2020-12-05,1.55
+Louisville/Jefferson County,2020-12-05,1.2
+Michigan City-La Porte,2020-12-05,1.11
+Muncie,2020-12-05,1.62
+South Bend-Mishawaka,2020-12-05,1.38
+Terre Haute,2020-12-05,1.32
+Bloomington,2020-12-06,2
+Cincinnati,2020-12-06,1.35
+Columbus,2020-12-06,1.08
+Fort Wayne,2020-12-06,1.66
+Elkhart-Goshen,2020-12-06,1.21
+Evansville,2020-12-06,1.54
+Chicago-Naperville-Elgin,2020-12-06,1.23
+Indianapolis-Carmel-Anderson,2020-12-06,1.4
+Kokomo,2020-12-06,1.6
+Lafayette-West Lafayette,2020-12-06,1.58
+Louisville/Jefferson County,2020-12-06,1.1
+Michigan City-La Porte,2020-12-06,1.08
+Muncie,2020-12-06,1.64
+South Bend-Mishawaka,2020-12-06,1.19
+Terre Haute,2020-12-06,1.52
+Bloomington,2020-12-07,1.84
+Cincinnati,2020-12-07,1.34
+Columbus,2020-12-07,1.05
+Fort Wayne,2020-12-07,1.61
+Elkhart-Goshen,2020-12-07,1.15
+Evansville,2020-12-07,1.51
+Chicago-Naperville-Elgin,2020-12-07,1.16
+Indianapolis-Carmel-Anderson,2020-12-07,1.33
+Kokomo,2020-12-07,1.53
+Lafayette-West Lafayette,2020-12-07,1.61
+Louisville/Jefferson County,2020-12-07,1
+Michigan City-La Porte,2020-12-07,0.77
+Muncie,2020-12-07,1.6
+South Bend-Mishawaka,2020-12-07,1.24
+Terre Haute,2020-12-07,1.39
+Bloomington,2020-12-08,1.66
+Cincinnati,2020-12-08,1.24
+Columbus,2020-12-08,1.07
+Fort Wayne,2020-12-08,1.49
+Elkhart-Goshen,2020-12-08,1.12
+Evansville,2020-12-08,1.47
+Chicago-Naperville-Elgin,2020-12-08,1.14
+Indianapolis-Carmel-Anderson,2020-12-08,1.34
+Kokomo,2020-12-08,1.47
+Lafayette-West Lafayette,2020-12-08,1.39
+Louisville/Jefferson County,2020-12-08,0.94
+Michigan City-La Porte,2020-12-08,1.02
+Muncie,2020-12-08,1.7
+South Bend-Mishawaka,2020-12-08,1.25
+Terre Haute,2020-12-08,1.37
+Bloomington,2020-12-09,1.52
+Cincinnati,2020-12-09,1.3
+Columbus,2020-12-09,1
+Fort Wayne,2020-12-09,1.44
+Elkhart-Goshen,2020-12-09,1.17
+Evansville,2020-12-09,1.41
+Chicago-Naperville-Elgin,2020-12-09,1.14
+Indianapolis-Carmel-Anderson,2020-12-09,1.27
+Kokomo,2020-12-09,1.34
+Lafayette-West Lafayette,2020-12-09,1.3
+Louisville/Jefferson County,2020-12-09,0.92
+Michigan City-La Porte,2020-12-09,0.97
+Muncie,2020-12-09,1.54
+South Bend-Mishawaka,2020-12-09,1.18
+Terre Haute,2020-12-09,1.13
+Bloomington,2020-12-10,1.44
+Cincinnati,2020-12-10,1.36
+Columbus,2020-12-10,1.08
+Fort Wayne,2020-12-10,1.36
+Elkhart-Goshen,2020-12-10,1.4
+Evansville,2020-12-10,1.43
+Chicago-Naperville-Elgin,2020-12-10,1.19
+Indianapolis-Carmel-Anderson,2020-12-10,1.4
+Kokomo,2020-12-10,1.4
+Lafayette-West Lafayette,2020-12-10,1.29
+Louisville/Jefferson County,2020-12-10,0.9
+Michigan City-La Porte,2020-12-10,1.03
+Muncie,2020-12-10,1.62
+South Bend-Mishawaka,2020-12-10,1.4
+Terre Haute,2020-12-10,1.53
+Bloomington,2020-12-12,1.27
+Cincinnati,2020-12-12,1.21
+Columbus,2020-12-12,1.09
+Fort Wayne,2020-12-12,1.27
+Elkhart-Goshen,2020-12-12,1.18
+Evansville,2020-12-12,1.31
+Chicago-Naperville-Elgin,2020-12-12,1.08
+Indianapolis-Carmel-Anderson,2020-12-12,1.33
+Kokomo,2020-12-12,1.32
+Lafayette-West Lafayette,2020-12-12,1.41
+Louisville/Jefferson County,2020-12-12,0.79
+Michigan City-La Porte,2020-12-12,0.96
+Muncie,2020-12-12,1.49
+South Bend-Mishawaka,2020-12-12,1.27
+Terre Haute,2020-12-12,1.63
+Bloomington,2020-12-13,1.21
+Cincinnati,2020-12-13,1.15
+Columbus,2020-12-13,1.06
+Fort Wayne,2020-12-13,1.2
+Elkhart-Goshen,2020-12-13,1.22
+Evansville,2020-12-13,1.34
+Chicago-Naperville-Elgin,2020-12-13,1.03
+Indianapolis-Carmel-Anderson,2020-12-13,1.31
+Kokomo,2020-12-13,1.27
+Lafayette-West Lafayette,2020-12-13,1.33
+Louisville/Jefferson County,2020-12-13,0.81
+Michigan City-La Porte,2020-12-13,0.94
+Muncie,2020-12-13,1.37
+South Bend-Mishawaka,2020-12-13,1.19
+Terre Haute,2020-12-13,1.48
+Bloomington,2020-12-14,1.23
+Cincinnati,2020-12-14,1.17
+Columbus,2020-12-14,1.07
+Fort Wayne,2020-12-14,1.16
+Elkhart-Goshen,2020-12-14,1.18
+Evansville,2020-12-14,1.41
+Chicago-Naperville-Elgin,2020-12-14,1.06
+Indianapolis-Carmel-Anderson,2020-12-14,1.3
+Kokomo,2020-12-14,1.29
+Lafayette-West Lafayette,2020-12-14,1.31
+Louisville/Jefferson County,2020-12-14,0.79
+Michigan City-La Porte,2020-12-14,0.98
+Muncie,2020-12-14,1.21
+South Bend-Mishawaka,2020-12-14,1.16
+Terre Haute,2020-12-14,1.65
+Bloomington,2020-12-15,1.22
+Cincinnati,2020-12-15,1.14
+Columbus,2020-12-15,0.99
+Fort Wayne,2020-12-15,1.13
+Elkhart-Goshen,2020-12-15,1.11
+Evansville,2020-12-15,1.34
+Chicago-Naperville-Elgin,2020-12-15,0.99
+Indianapolis-Carmel-Anderson,2020-12-15,1.25
+Kokomo,2020-12-15,1.22
+Lafayette-West Lafayette,2020-12-15,1.27
+Louisville/Jefferson County,2020-12-15,0.81
+Michigan City-La Porte,2020-12-15,0.87
+Muncie,2020-12-15,1.3
+South Bend-Mishawaka,2020-12-15,1.12
+Terre Haute,2020-12-15,1.54
+Bloomington,2020-12-16,1.22
+Cincinnati,2020-12-16,1.14
+Columbus,2020-12-16,0.99
+Fort Wayne,2020-12-16,1.06
+Elkhart-Goshen,2020-12-16,1.03
+Evansville,2020-12-16,1.45
+Chicago-Naperville-Elgin,2020-12-16,1
+Indianapolis-Carmel-Anderson,2020-12-16,1.16
+Kokomo,2020-12-16,1.2
+Lafayette-West Lafayette,2020-12-16,1.22
+Louisville/Jefferson County,2020-12-16,0.8
+Michigan City-La Porte,2020-12-16,1.07
+Muncie,2020-12-16,1.28
+South Bend-Mishawaka,2020-12-16,1.03
+Terre Haute,2020-12-16,1.48
+Bloomington,2020-12-17,1.21
+Cincinnati,2020-12-17,1.08
+Columbus,2020-12-17,1.02
+Fort Wayne,2020-12-17,1.03
+Elkhart-Goshen,2020-12-17,1.01
+Evansville,2020-12-17,1.49
+Chicago-Naperville-Elgin,2020-12-17,1
+Indianapolis-Carmel-Anderson,2020-12-17,1.29
+Kokomo,2020-12-17,1.24
+Lafayette-West Lafayette,2020-12-17,1.24
+Louisville/Jefferson County,2020-12-17,0.75
+Michigan City-La Porte,2020-12-17,1.19
+Muncie,2020-12-17,1.06
+South Bend-Mishawaka,2020-12-17,1.13
+Terre Haute,2020-12-17,1.32
+Bloomington,2020-12-18,1.27
+Cincinnati,2020-12-18,1.09
+Columbus,2020-12-18,0.97
+Fort Wayne,2020-12-18,0.98
+Elkhart-Goshen,2020-12-18,0.98
+Evansville,2020-12-18,1.41
+Chicago-Naperville-Elgin,2020-12-18,1.01
+Indianapolis-Carmel-Anderson,2020-12-18,1.22
+Kokomo,2020-12-18,1.17
+Lafayette-West Lafayette,2020-12-18,1.17
+Louisville/Jefferson County,2020-12-18,0.76
+Michigan City-La Porte,2020-12-18,1.12
+Muncie,2020-12-18,0.96
+South Bend-Mishawaka,2020-12-18,1.14
+Terre Haute,2020-12-18,1.13
+Bloomington,2020-12-19,1.26
+Cincinnati,2020-12-19,1.13
+Columbus,2020-12-19,0.98
+Fort Wayne,2020-12-19,0.97
+Elkhart-Goshen,2020-12-19,1.01
+Evansville,2020-12-19,1.27
+Chicago-Naperville-Elgin,2020-12-19,0.98
+Indianapolis-Carmel-Anderson,2020-12-19,1.13
+Kokomo,2020-12-19,1.21
+Lafayette-West Lafayette,2020-12-19,1.11
+Louisville/Jefferson County,2020-12-19,0.77
+Michigan City-La Porte,2020-12-19,1.11
+Muncie,2020-12-19,0.91
+South Bend-Mishawaka,2020-12-19,1.18
+Terre Haute,2020-12-19,1.06
+Bloomington,2020-12-20,1.26
+Cincinnati,2020-12-20,1.09
+Columbus,2020-12-20,0.95
+Fort Wayne,2020-12-20,0.99
+Elkhart-Goshen,2020-12-20,0.86
+Evansville,2020-12-20,1.28
+Chicago-Naperville-Elgin,2020-12-20,0.96
+Indianapolis-Carmel-Anderson,2020-12-20,1.13
+Kokomo,2020-12-20,1.2
+Lafayette-West Lafayette,2020-12-20,1.12
+Louisville/Jefferson County,2020-12-20,0.74
+Michigan City-La Porte,2020-12-20,1.06
+Muncie,2020-12-20,0.92
+South Bend-Mishawaka,2020-12-20,1.16
+Terre Haute,2020-12-20,1.03
+Bloomington,2020-12-21,1.25
+Cincinnati,2020-12-21,1.09
+Columbus,2020-12-21,0.92
+Fort Wayne,2020-12-21,1.11
+Elkhart-Goshen,2020-12-21,0.84
+Evansville,2020-12-21,1.38
+Chicago-Naperville-Elgin,2020-12-21,0.94
+Indianapolis-Carmel-Anderson,2020-12-21,1.08
+Kokomo,2020-12-21,1.18
+Lafayette-West Lafayette,2020-12-21,1.08
+Louisville/Jefferson County,2020-12-21,0.72
+Michigan City-La Porte,2020-12-21,1.08
+Muncie,2020-12-21,0.93
+South Bend-Mishawaka,2020-12-21,1.1
+Terre Haute,2020-12-21,1.14
+Bloomington,2020-12-22,1.21
+Cincinnati,2020-12-22,1.05
+Columbus,2020-12-22,0.92
+Fort Wayne,2020-12-22,1.07
+Elkhart-Goshen,2020-12-22,0.88
+Evansville,2020-12-22,1.36
+Chicago-Naperville-Elgin,2020-12-22,0.94
+Indianapolis-Carmel-Anderson,2020-12-22,1.09
+Kokomo,2020-12-22,1.19
+Lafayette-West Lafayette,2020-12-22,1.09
+Louisville/Jefferson County,2020-12-22,0.75
+Michigan City-La Porte,2020-12-22,1.08
+Muncie,2020-12-22,0.75
+South Bend-Mishawaka,2020-12-22,1.13
+Terre Haute,2020-12-22,1.3
+Bloomington,2020-12-23,1.24
+Cincinnati,2020-12-23,1.04
+Columbus,2020-12-23,0.99
+Fort Wayne,2020-12-23,1.02
+Elkhart-Goshen,2020-12-23,0.83
+Evansville,2020-12-23,1.36
+Chicago-Naperville-Elgin,2020-12-23,0.99
+Indianapolis-Carmel-Anderson,2020-12-23,1.17
+Kokomo,2020-12-23,1.21
+Lafayette-West Lafayette,2020-12-23,1.18
+Louisville/Jefferson County,2020-12-23,0.76
+Michigan City-La Porte,2020-12-23,0.96
+Muncie,2020-12-23,0.77
+South Bend-Mishawaka,2020-12-23,1.16
+Terre Haute,2020-12-23,1.2
+Bloomington,2020-12-24,1.24
+Cincinnati,2020-12-24,1.09
+Columbus,2020-12-24,0.92
+Fort Wayne,2020-12-24,0.95
+Elkhart-Goshen,2020-12-24,0.94
+Evansville,2020-12-24,1.49
+Chicago-Naperville-Elgin,2020-12-24,1.07
+Indianapolis-Carmel-Anderson,2020-12-24,1.2
+Kokomo,2020-12-24,1.15
+Lafayette-West Lafayette,2020-12-24,1.09
+Louisville/Jefferson County,2020-12-24,0.81
+Michigan City-La Porte,2020-12-24,0.81
+Muncie,2020-12-24,0.84
+South Bend-Mishawaka,2020-12-24,1.02
+Terre Haute,2020-12-24,1.16
+Bloomington,2020-12-25,1.14
+Cincinnati,2020-12-25,1.1
+Columbus,2020-12-25,0.95
+Fort Wayne,2020-12-25,0.99
+Elkhart-Goshen,2020-12-25,0.97
+Evansville,2020-12-25,1.49
+Chicago-Naperville-Elgin,2020-12-25,1.05
+Indianapolis-Carmel-Anderson,2020-12-25,1.2
+Kokomo,2020-12-25,1.15
+Lafayette-West Lafayette,2020-12-25,1.03
+Louisville/Jefferson County,2020-12-25,0.75
+Michigan City-La Porte,2020-12-25,0.71
+Muncie,2020-12-25,0.92
+South Bend-Mishawaka,2020-12-25,0.84
+Terre Haute,2020-12-25,1.14
+Bloomington,2020-12-26,1.07
+Cincinnati,2020-12-26,1.07
+Columbus,2020-12-26,0.95
+Fort Wayne,2020-12-26,1
+Elkhart-Goshen,2020-12-26,1.04
+Evansville,2020-12-26,1.51
+Chicago-Naperville-Elgin,2020-12-26,1.03
+Indianapolis-Carmel-Anderson,2020-12-26,1.14
+Kokomo,2020-12-26,1.16
+Lafayette-West Lafayette,2020-12-26,1.08
+Louisville/Jefferson County,2020-12-26,0.76
+Michigan City-La Porte,2020-12-26,0.66
+Muncie,2020-12-26,0.9
+South Bend-Mishawaka,2020-12-26,0.81
+Terre Haute,2020-12-26,1.01
+Bloomington,2020-12-27,1.02
+Cincinnati,2020-12-27,1.14
+Columbus,2020-12-27,0.95
+Fort Wayne,2020-12-27,0.96
+Elkhart-Goshen,2020-12-27,1
+Evansville,2020-12-27,1.43
+Chicago-Naperville-Elgin,2020-12-27,0.95
+Indianapolis-Carmel-Anderson,2020-12-27,1.21
+Kokomo,2020-12-27,1.14
+Lafayette-West Lafayette,2020-12-27,1.06
+Louisville/Jefferson County,2020-12-27,0.75
+Michigan City-La Porte,2020-12-27,0.66
+Muncie,2020-12-27,0.98
+South Bend-Mishawaka,2020-12-27,0.81
+Terre Haute,2020-12-27,1.25
+Bloomington,2020-12-29,0.92
+Cincinnati,2020-12-29,1.28
+Columbus,2020-12-29,0.96
+Fort Wayne,2020-12-29,0.99
+Elkhart-Goshen,2020-12-29,1.09
+Evansville,2020-12-29,1.73
+Chicago-Naperville-Elgin,2020-12-29,1.25
+Indianapolis-Carmel-Anderson,2020-12-29,1.27
+Kokomo,2020-12-29,1.01
+Lafayette-West Lafayette,2020-12-29,1.05
+Louisville/Jefferson County,2020-12-29,0.82
+Michigan City-La Porte,2020-12-29,0.68
+Muncie,2020-12-29,1.05
+South Bend-Mishawaka,2020-12-29,0.64
+Terre Haute,2020-12-29,1.39
+Bloomington,2020-12-30,0.95
+Cincinnati,2020-12-30,1.27
+Columbus,2020-12-30,0.92
+Fort Wayne,2020-12-30,0.97
+Elkhart-Goshen,2020-12-30,1.12
+Evansville,2020-12-30,1.69
+Chicago-Naperville-Elgin,2020-12-30,1.23
+Indianapolis-Carmel-Anderson,2020-12-30,1.19
+Kokomo,2020-12-30,0.97
+Lafayette-West Lafayette,2020-12-30,0.98
+Louisville/Jefferson County,2020-12-30,0.78
+Michigan City-La Porte,2020-12-30,0.66
+Muncie,2020-12-30,1.04
+South Bend-Mishawaka,2020-12-30,0.68
+Terre Haute,2020-12-30,1.41
+Bloomington,2020-12-31,0.94
+Cincinnati,2020-12-31,1.22
+Columbus,2020-12-31,0.92
+Fort Wayne,2020-12-31,0.98
+Elkhart-Goshen,2020-12-31,1.02
+Evansville,2020-12-31,1.65
+Chicago-Naperville-Elgin,2020-12-31,1.22
+Indianapolis-Carmel-Anderson,2020-12-31,1.18
+Kokomo,2020-12-31,0.96
+Lafayette-West Lafayette,2020-12-31,1.04
+Louisville/Jefferson County,2020-12-31,0.74
+Michigan City-La Porte,2020-12-31,0.71
+Muncie,2020-12-31,1.09
+South Bend-Mishawaka,2020-12-31,0.71
+Terre Haute,2020-12-31,1.47
+Bloomington,2021-01-02,0.82
+Cincinnati,2021-01-02,1.07
+Columbus,2021-01-02,0.95
+Fort Wayne,2021-01-02,0.85
+Elkhart-Goshen,2021-01-02,1.01
+Evansville,2021-01-02,1.5
+Chicago-Naperville-Elgin,2021-01-02,1.02
+Indianapolis-Carmel-Anderson,2021-01-02,1.21
+Kokomo,2021-01-02,0.96
+Lafayette-West Lafayette,2021-01-02,1.27
+Louisville/Jefferson County,2021-01-02,0.76
+Michigan City-La Porte,2021-01-02,0.88
+Muncie,2021-01-02,1.45
+South Bend-Mishawaka,2021-01-02,0.65
+Terre Haute,2021-01-02,1.15
+Bloomington,2021-01-03,0.79
+Cincinnati,2021-01-03,1.05
+Columbus,2021-01-03,0.92
+Fort Wayne,2021-01-03,0.85
+Elkhart-Goshen,2021-01-03,0.96
+Evansville,2021-01-03,1.63
+Chicago-Naperville-Elgin,2021-01-03,0.99
+Indianapolis-Carmel-Anderson,2021-01-03,1.15
+Kokomo,2021-01-03,0.93
+Lafayette-West Lafayette,2021-01-03,1.29
+Louisville/Jefferson County,2021-01-03,0.81
+Michigan City-La Porte,2021-01-03,0.86
+Muncie,2021-01-03,1.3
+South Bend-Mishawaka,2021-01-03,0.61
+Terre Haute,2021-01-03,1.08
+Bloomington,2021-01-04,0.77
+Cincinnati,2021-01-04,1.1
+Columbus,2021-01-04,0.89
+Fort Wayne,2021-01-04,0.84
+Elkhart-Goshen,2021-01-04,0.76
+Evansville,2021-01-04,1.57
+Chicago-Naperville-Elgin,2021-01-04,0.99
+Indianapolis-Carmel-Anderson,2021-01-04,1.09
+Kokomo,2021-01-04,0.9
+Lafayette-West Lafayette,2021-01-04,1.34
+Louisville/Jefferson County,2021-01-04,0.78
+Michigan City-La Porte,2021-01-04,0.87
+Muncie,2021-01-04,1.11
+South Bend-Mishawaka,2021-01-04,0.57
+Terre Haute,2021-01-04,0.9
+Bloomington,2021-01-05,0.77
+Cincinnati,2021-01-05,1.1
+Columbus,2021-01-05,0.86
+Fort Wayne,2021-01-05,0.9
+Elkhart-Goshen,2021-01-05,0.73
+Evansville,2021-01-05,1.6
+Chicago-Naperville-Elgin,2021-01-05,0.94
+Indianapolis-Carmel-Anderson,2021-01-05,1.08
+Kokomo,2021-01-05,1.15
+Lafayette-West Lafayette,2021-01-05,1.32
+Louisville/Jefferson County,2021-01-05,0.87
+Michigan City-La Porte,2021-01-05,1.03
+Muncie,2021-01-05,1.15
+South Bend-Mishawaka,2021-01-05,0.66
+Terre Haute,2021-01-05,0.89
+Bloomington,2021-01-06,0.74
+Cincinnati,2021-01-06,1.04
+Columbus,2021-01-06,0.89
+Fort Wayne,2021-01-06,0.96
+Elkhart-Goshen,2021-01-06,0.74
+Evansville,2021-01-06,1.53
+Chicago-Naperville-Elgin,2021-01-06,0.93
+Indianapolis-Carmel-Anderson,2021-01-06,1.08
+Kokomo,2021-01-06,1.18
+Lafayette-West Lafayette,2021-01-06,1.32
+Louisville/Jefferson County,2021-01-06,0.9
+Michigan City-La Porte,2021-01-06,1.01
+Muncie,2021-01-06,1.26
+South Bend-Mishawaka,2021-01-06,0.65
+Terre Haute,2021-01-06,0.82
+Bloomington,2021-01-07,0.98
+Cincinnati,2021-01-07,1.1
+Columbus,2021-01-07,0.76
+Fort Wayne,2021-01-07,0.97
+Elkhart-Goshen,2021-01-07,0.73
+Evansville,2021-01-07,1.4
+Chicago-Naperville-Elgin,2021-01-07,0.99
+Indianapolis-Carmel-Anderson,2021-01-07,1.01
+Kokomo,2021-01-07,1.12
+Lafayette-West Lafayette,2021-01-07,1.33
+Louisville/Jefferson County,2021-01-07,0.82
+Michigan City-La Porte,2021-01-07,0.95
+Muncie,2021-01-07,1.22
+South Bend-Mishawaka,2021-01-07,0.76
+Terre Haute,2021-01-07,0.7
+Bloomington,2021-01-09,0.88
+Cincinnati,2021-01-09,0.94
+Columbus,2021-01-09,0.75
+Fort Wayne,2021-01-09,0.96
+Elkhart-Goshen,2021-01-09,0.63
+Evansville,2021-01-09,1.07
+Chicago-Naperville-Elgin,2021-01-09,0.81
+Indianapolis-Carmel-Anderson,2021-01-09,0.87
+Kokomo,2021-01-09,1.03
+Lafayette-West Lafayette,2021-01-09,1.71
+Louisville/Jefferson County,2021-01-09,0.71
+Michigan City-La Porte,2021-01-09,0.77
+Muncie,2021-01-09,0.92
+South Bend-Mishawaka,2021-01-09,0.85
+Terre Haute,2021-01-09,0.66
+Bloomington,2021-01-12,0.88
+Cincinnati,2021-01-12,0.89
+Columbus,2021-01-12,0.7
+Fort Wayne,2021-01-12,0.96
+Elkhart-Goshen,2021-01-12,0.81
+Evansville,2021-01-12,1.06
+Chicago-Naperville-Elgin,2021-01-12,0.64
+Indianapolis-Carmel-Anderson,2021-01-12,0.75
+Kokomo,2021-01-12,0.89
+Lafayette-West Lafayette,2021-01-12,1.08
+Louisville/Jefferson County,2021-01-12,0.84
+Michigan City-La Porte,2021-01-12,0.96
+Muncie,2021-01-12,1.01
+South Bend-Mishawaka,2021-01-12,0.83
+Terre Haute,2021-01-12,0.69
+Bloomington,2021-01-13,0.78
+Cincinnati,2021-01-13,0.84
+Columbus,2021-01-13,0.65
+Fort Wayne,2021-01-13,0.88
+Elkhart-Goshen,2021-01-13,0.82
+Evansville,2021-01-13,0.98
+Chicago-Naperville-Elgin,2021-01-13,0.58
+Indianapolis-Carmel-Anderson,2021-01-13,0.72
+Kokomo,2021-01-13,0.81
+Lafayette-West Lafayette,2021-01-13,0.95
+Louisville/Jefferson County,2021-01-13,0.84
+Michigan City-La Porte,2021-01-13,0.95
+Muncie,2021-01-13,0.92
+South Bend-Mishawaka,2021-01-13,0.78
+Terre Haute,2021-01-13,0.68
+Bloomington,2021-01-14,0.74
+Cincinnati,2021-01-14,0.86
+Columbus,2021-01-14,0.66
+Fort Wayne,2021-01-14,0.75
+Elkhart-Goshen,2021-01-14,0.84
+Evansville,2021-01-14,0.92
+Chicago-Naperville-Elgin,2021-01-14,0.56
+Indianapolis-Carmel-Anderson,2021-01-14,0.67
+Kokomo,2021-01-14,0.78
+Lafayette-West Lafayette,2021-01-14,0.95
+Louisville/Jefferson County,2021-01-14,0.84
+Michigan City-La Porte,2021-01-14,0.92
+Muncie,2021-01-14,0.82
+South Bend-Mishawaka,2021-01-14,0.78
+Terre Haute,2021-01-14,0.84
+Bloomington,2021-01-15,0.71
+Cincinnati,2021-01-15,0.85
+Columbus,2021-01-15,0.64
+Fort Wayne,2021-01-15,0.75
+Elkhart-Goshen,2021-01-15,0.83
+Evansville,2021-01-15,0.92
+Chicago-Naperville-Elgin,2021-01-15,0.55
+Indianapolis-Carmel-Anderson,2021-01-15,0.68
+Kokomo,2021-01-15,0.74
+Lafayette-West Lafayette,2021-01-15,0.96
+Louisville/Jefferson County,2021-01-15,0.84
+Michigan City-La Porte,2021-01-15,0.9
+Muncie,2021-01-15,0.79
+South Bend-Mishawaka,2021-01-15,0.77
+Terre Haute,2021-01-15,0.84
+Bloomington,2021-01-16,0.64
+Cincinnati,2021-01-16,0.88
+Columbus,2021-01-16,0.61
+Fort Wayne,2021-01-16,0.75
+Elkhart-Goshen,2021-01-16,1.06
+Evansville,2021-01-16,0.73
+Chicago-Naperville-Elgin,2021-01-16,0.51
+Indianapolis-Carmel-Anderson,2021-01-16,0.67
+Kokomo,2021-01-16,0.72
+Lafayette-West Lafayette,2021-01-16,0.59
+Louisville/Jefferson County,2021-01-16,0.82
+Michigan City-La Porte,2021-01-16,0.93
+Muncie,2021-01-16,0.76
+South Bend-Mishawaka,2021-01-16,0.9
+Terre Haute,2021-01-16,0.72
+Bloomington,2021-01-17,0.64
+Cincinnati,2021-01-17,0.89
+Columbus,2021-01-17,0.57
+Fort Wayne,2021-01-17,0.8
+Elkhart-Goshen,2021-01-17,1
+Evansville,2021-01-17,0.68
+Chicago-Naperville-Elgin,2021-01-17,0.51
+Indianapolis-Carmel-Anderson,2021-01-17,0.66
+Kokomo,2021-01-17,0.68
+Lafayette-West Lafayette,2021-01-17,0.56
+Louisville/Jefferson County,2021-01-17,0.83
+Michigan City-La Porte,2021-01-17,0.72
+Muncie,2021-01-17,0.76
+South Bend-Mishawaka,2021-01-17,0.86
+Terre Haute,2021-01-17,1.02
+Bloomington,2021-01-18,0.7
+Cincinnati,2021-01-18,0.84
+Columbus,2021-01-18,0.63
+Fort Wayne,2021-01-18,0.66
+Elkhart-Goshen,2021-01-18,0.83
+Evansville,2021-01-18,0.85
+Chicago-Naperville-Elgin,2021-01-18,0.54
+Indianapolis-Carmel-Anderson,2021-01-18,0.68
+Kokomo,2021-01-18,0.74
+Lafayette-West Lafayette,2021-01-18,0.68
+Louisville/Jefferson County,2021-01-18,0.84
+Michigan City-La Porte,2021-01-18,0.89
+Muncie,2021-01-18,0.78
+South Bend-Mishawaka,2021-01-18,0.77
+Terre Haute,2021-01-18,0.84
+Bloomington,2021-01-19,0.59
+Cincinnati,2021-01-19,0.88
+Columbus,2021-01-19,0.59
+Fort Wayne,2021-01-19,0.68
+Elkhart-Goshen,2021-01-19,1.09
+Evansville,2021-01-19,0.59
+Chicago-Naperville-Elgin,2021-01-19,0.46
+Indianapolis-Carmel-Anderson,2021-01-19,0.65
+Kokomo,2021-01-19,0.67
+Lafayette-West Lafayette,2021-01-19,0.63
+Louisville/Jefferson County,2021-01-19,0.75
+Michigan City-La Porte,2021-01-19,0.74
+Muncie,2021-01-19,0.53
+South Bend-Mishawaka,2021-01-19,0.87
+Terre Haute,2021-01-19,1.08
+Bloomington,2021-01-20,0.56
+Cincinnati,2021-01-20,0.86
+Columbus,2021-01-20,0.6
+Fort Wayne,2021-01-20,0.63
+Elkhart-Goshen,2021-01-20,0.98
+Evansville,2021-01-20,0.6
+Chicago-Naperville-Elgin,2021-01-20,0.47
+Indianapolis-Carmel-Anderson,2021-01-20,0.65
+Kokomo,2021-01-20,0.65
+Lafayette-West Lafayette,2021-01-20,0.65
+Louisville/Jefferson County,2021-01-20,0.77
+Michigan City-La Porte,2021-01-20,0.73
+Muncie,2021-01-20,0.51
+South Bend-Mishawaka,2021-01-20,0.92
+Terre Haute,2021-01-20,1.06
+Bloomington,2021-01-21,0.6
+Cincinnati,2021-01-21,0.88
+Columbus,2021-01-21,0.61
+Fort Wayne,2021-01-21,0.64
+Elkhart-Goshen,2021-01-21,0.96
+Evansville,2021-01-21,0.61
+Chicago-Naperville-Elgin,2021-01-21,0.51
+Indianapolis-Carmel-Anderson,2021-01-21,0.67
+Kokomo,2021-01-21,0.66
+Lafayette-West Lafayette,2021-01-21,0.63
+Louisville/Jefferson County,2021-01-21,0.77
+Michigan City-La Porte,2021-01-21,0.7
+Muncie,2021-01-21,0.5
+South Bend-Mishawaka,2021-01-21,0.92
+Terre Haute,2021-01-21,1
+Bloomington,2021-01-22,0.58
+Cincinnati,2021-01-22,0.89
+Columbus,2021-01-22,0.59
+Fort Wayne,2021-01-22,0.61
+Elkhart-Goshen,2021-01-22,0.8
+Evansville,2021-01-22,0.68
+Chicago-Naperville-Elgin,2021-01-22,0.52
+Indianapolis-Carmel-Anderson,2021-01-22,0.69
+Kokomo,2021-01-22,0.63
+Lafayette-West Lafayette,2021-01-22,0.7
+Louisville/Jefferson County,2021-01-22,0.77
+Michigan City-La Porte,2021-01-22,0.84
+Muncie,2021-01-22,0.43
+South Bend-Mishawaka,2021-01-22,0.87
+Terre Haute,2021-01-22,0.91
+Bloomington,2021-01-23,0.43
+Cincinnati,2021-01-23,0.91
+Columbus,2021-01-23,0.6
+Fort Wayne,2021-01-23,0.6
+Elkhart-Goshen,2021-01-23,0.73
+Evansville,2021-01-23,0.69
+Chicago-Naperville-Elgin,2021-01-23,0.52
+Indianapolis-Carmel-Anderson,2021-01-23,0.68
+Kokomo,2021-01-23,0.65
+Lafayette-West Lafayette,2021-01-23,0.65
+Louisville/Jefferson County,2021-01-23,0.73
+Michigan City-La Porte,2021-01-23,0.83
+Muncie,2021-01-23,0.55
+South Bend-Mishawaka,2021-01-23,0.87
+Terre Haute,2021-01-23,0.87
+Bloomington,2021-01-25,0.49
+Cincinnati,2021-01-25,0.71
+Columbus,2021-01-25,0.67
+Fort Wayne,2021-01-25,0.66
+Elkhart-Goshen,2021-01-25,0.59
+Evansville,2021-01-25,0.87
+Chicago-Naperville-Elgin,2021-01-25,0.54
+Indianapolis-Carmel-Anderson,2021-01-25,0.75
+Kokomo,2021-01-25,0.72
+Lafayette-West Lafayette,2021-01-25,0.76
+Louisville/Jefferson County,2021-01-25,0.56
+Michigan City-La Porte,2021-01-25,0.61
+Muncie,2021-01-25,0.58
+South Bend-Mishawaka,2021-01-25,0.72
+Terre Haute,2021-01-25,0.54
+Bloomington,2021-01-26,0.48
+Cincinnati,2021-01-26,0.68
+Columbus,2021-01-26,0.65
+Fort Wayne,2021-01-26,0.69
+Elkhart-Goshen,2021-01-26,0.62
+Evansville,2021-01-26,0.92
+Chicago-Naperville-Elgin,2021-01-26,0.52
+Indianapolis-Carmel-Anderson,2021-01-26,0.73
+Kokomo,2021-01-26,0.7
+Lafayette-West Lafayette,2021-01-26,0.79
+Louisville/Jefferson County,2021-01-26,0.56
+Michigan City-La Porte,2021-01-26,0.57
+Muncie,2021-01-26,0.57
+South Bend-Mishawaka,2021-01-26,0.72
+Terre Haute,2021-01-26,0.63
+Bloomington,2021-01-27,0.53
+Cincinnati,2021-01-27,0.67
+Columbus,2021-01-27,0.65
+Fort Wayne,2021-01-27,0.69
+Elkhart-Goshen,2021-01-27,0.6
+Evansville,2021-01-27,0.84
+Chicago-Naperville-Elgin,2021-01-27,0.52
+Indianapolis-Carmel-Anderson,2021-01-27,0.7
+Kokomo,2021-01-27,0.69
+Lafayette-West Lafayette,2021-01-27,0.73
+Louisville/Jefferson County,2021-01-27,0.53
+Michigan City-La Porte,2021-01-27,0.71
+Muncie,2021-01-27,0.57
+South Bend-Mishawaka,2021-01-27,0.61
+Terre Haute,2021-01-27,0.7
+Bloomington,2021-01-28,0.54
+Cincinnati,2021-01-28,0.69
+Columbus,2021-01-28,0.65
+Fort Wayne,2021-01-28,0.68
+Elkhart-Goshen,2021-01-28,0.59
+Evansville,2021-01-28,0.85
+Chicago-Naperville-Elgin,2021-01-28,0.56
+Indianapolis-Carmel-Anderson,2021-01-28,0.71
+Kokomo,2021-01-28,0.7
+Lafayette-West Lafayette,2021-01-28,0.73
+Louisville/Jefferson County,2021-01-28,0.53
+Michigan City-La Porte,2021-01-28,0.71
+Muncie,2021-01-28,0.56
+South Bend-Mishawaka,2021-01-28,0.61
+Terre Haute,2021-01-28,0.7
+Bloomington,2021-01-30,0.48
+Cincinnati,2021-01-30,0.64
+Columbus,2021-01-30,0.65
+Fort Wayne,2021-01-30,0.65
+Elkhart-Goshen,2021-01-30,0.51
+Evansville,2021-01-30,0.81
+Chicago-Naperville-Elgin,2021-01-30,0.51
+Indianapolis-Carmel-Anderson,2021-01-30,0.75
+Kokomo,2021-01-30,0.7
+Lafayette-West Lafayette,2021-01-30,0.71
+Louisville/Jefferson County,2021-01-30,0.59
+Michigan City-La Porte,2021-01-30,0.73
+Muncie,2021-01-30,0.55
+South Bend-Mishawaka,2021-01-30,0.56
+Terre Haute,2021-01-30,0.72
+Bloomington,2021-01-31,0.6
+Cincinnati,2021-01-31,0.72
+Columbus,2021-01-31,0.68
+Fort Wayne,2021-01-31,0.64
+Elkhart-Goshen,2021-01-31,0.56
+Evansville,2021-01-31,0.93
+Chicago-Naperville-Elgin,2021-01-31,0.48
+Indianapolis-Carmel-Anderson,2021-01-31,0.74
+Kokomo,2021-01-31,0.7
+Lafayette-West Lafayette,2021-01-31,0.64
+Louisville/Jefferson County,2021-01-31,0.61
+Michigan City-La Porte,2021-01-31,0.9
+Muncie,2021-01-31,0.55
+South Bend-Mishawaka,2021-01-31,0.61
+Terre Haute,2021-01-31,0.88
+Bloomington,2021-02-10,0.73
+Cincinnati,2021-02-10,0.73
+Columbus,2021-02-10,0.58
+Fort Wayne,2021-02-10,0.54
+Elkhart-Goshen,2021-02-10,0.67
+Evansville,2021-02-10,0.8
+Chicago-Naperville-Elgin,2021-02-10,0.43
+Indianapolis-Carmel-Anderson,2021-02-10,0.7
+Kokomo,2021-02-10,0.62
+Lafayette-West Lafayette,2021-02-10,0.49
+Louisville/Jefferson County,2021-02-10,0.62
+Michigan City-La Porte,2021-02-10,1.1
+Muncie,2021-02-10,0.55
+South Bend-Mishawaka,2021-02-10,0.62
+Terre Haute,2021-02-10,0.71
+Bloomington,2021-02-11,0.72
+Cincinnati,2021-02-11,0.74
+Columbus,2021-02-11,0.58
+Fort Wayne,2021-02-11,0.53
+Elkhart-Goshen,2021-02-11,0.67
+Evansville,2021-02-11,0.8
+Chicago-Naperville-Elgin,2021-02-11,0.44
+Indianapolis-Carmel-Anderson,2021-02-11,0.71
+Kokomo,2021-02-11,0.61
+Lafayette-West Lafayette,2021-02-11,0.49
+Louisville/Jefferson County,2021-02-11,0.62
+Michigan City-La Porte,2021-02-11,1.1
+Muncie,2021-02-11,0.54
+South Bend-Mishawaka,2021-02-11,0.61
+Terre Haute,2021-02-11,0.71
+Bloomington,2021-02-13,0.48
+Cincinnati,2021-02-13,0.61
+Columbus,2021-02-13,0.54
+Fort Wayne,2021-02-13,0.62
+Elkhart-Goshen,2021-02-13,0.3
+Evansville,2021-02-13,0.82
+Chicago-Naperville-Elgin,2021-02-13,0.41
+Indianapolis-Carmel-Anderson,2021-02-13,0.56
+Kokomo,2021-02-13,0.58
+Lafayette-West Lafayette,2021-02-13,0.67
+Louisville/Jefferson County,2021-02-13,0.56
+Michigan City-La Porte,2021-02-13,0.32
+Muncie,2021-02-13,0.97
+South Bend-Mishawaka,2021-02-13,0.35
+Terre Haute,2021-02-13,0.55
+Bloomington,2021-02-14,0.44
+Cincinnati,2021-02-14,0.61
+Columbus,2021-02-14,0.46
+Fort Wayne,2021-02-14,0.58
+Elkhart-Goshen,2021-02-14,0.26
+Evansville,2021-02-14,0.8
+Chicago-Naperville-Elgin,2021-02-14,0.44
+Indianapolis-Carmel-Anderson,2021-02-14,0.5
+Kokomo,2021-02-14,0.53
+Lafayette-West Lafayette,2021-02-14,0.63
+Louisville/Jefferson County,2021-02-14,0.49
+Michigan City-La Porte,2021-02-14,0.25
+Muncie,2021-02-14,0.79
+South Bend-Mishawaka,2021-02-14,0.44
+Terre Haute,2021-02-14,0.66
+Bloomington,2021-02-16,0.43
+Cincinnati,2021-02-16,0.6
+Columbus,2021-02-16,0.51
+Fort Wayne,2021-02-16,0.62
+Elkhart-Goshen,2021-02-16,0.27
+Evansville,2021-02-16,0.59
+Chicago-Naperville-Elgin,2021-02-16,0.48
+Indianapolis-Carmel-Anderson,2021-02-16,0.57
+Kokomo,2021-02-16,0.62
+Lafayette-West Lafayette,2021-02-16,0.62
+Louisville/Jefferson County,2021-02-16,0.61
+Michigan City-La Porte,2021-02-16,0.28
+Muncie,2021-02-16,0.58
+South Bend-Mishawaka,2021-02-16,0.47
+Terre Haute,2021-02-16,0.55
+Bloomington,2021-02-17,0.41
+Cincinnati,2021-02-17,0.58
+Columbus,2021-02-17,0.48
+Fort Wayne,2021-02-17,0.54
+Elkhart-Goshen,2021-02-17,0.24
+Evansville,2021-02-17,0.5
+Chicago-Naperville-Elgin,2021-02-17,0.47
+Indianapolis-Carmel-Anderson,2021-02-17,0.5
+Kokomo,2021-02-17,0.57
+Lafayette-West Lafayette,2021-02-17,0.61
+Louisville/Jefferson County,2021-02-17,0.55
+Michigan City-La Porte,2021-02-17,0.43
+Muncie,2021-02-17,0.55
+South Bend-Mishawaka,2021-02-17,0.5
+Terre Haute,2021-02-17,0.54
+Bloomington,2021-02-18,0.43
+Cincinnati,2021-02-18,0.57
+Columbus,2021-02-18,0.48
+Fort Wayne,2021-02-18,0.52
+Elkhart-Goshen,2021-02-18,0.52
+Evansville,2021-02-18,0.54
+Chicago-Naperville-Elgin,2021-02-18,0.49
+Indianapolis-Carmel-Anderson,2021-02-18,0.49
+Kokomo,2021-02-18,0.57
+Lafayette-West Lafayette,2021-02-18,0.6
+Louisville/Jefferson County,2021-02-18,0.51
+Michigan City-La Porte,2021-02-18,0.42
+Muncie,2021-02-18,0.6
+South Bend-Mishawaka,2021-02-18,0.46
+Terre Haute,2021-02-18,0.55
+Bloomington,2021-02-19,0.46
+Cincinnati,2021-02-19,0.56
+Columbus,2021-02-19,0.46
+Fort Wayne,2021-02-19,0.46
+Elkhart-Goshen,2021-02-19,0.52
+Evansville,2021-02-19,0.54
+Chicago-Naperville-Elgin,2021-02-19,0.49
+Indianapolis-Carmel-Anderson,2021-02-19,0.5
+Kokomo,2021-02-19,0.54
+Lafayette-West Lafayette,2021-02-19,0.54
+Louisville/Jefferson County,2021-02-19,0.51
+Michigan City-La Porte,2021-02-19,0.41
+Muncie,2021-02-19,0.49
+South Bend-Mishawaka,2021-02-19,0.49
+Terre Haute,2021-02-19,0.41
+Bloomington,2021-02-20,0.45
+Cincinnati,2021-02-20,0.59
+Columbus,2021-02-20,0.43
+Fort Wayne,2021-02-20,0.48
+Elkhart-Goshen,2021-02-20,0.54
+Evansville,2021-02-20,0.46
+Chicago-Naperville-Elgin,2021-02-20,0.48
+Indianapolis-Carmel-Anderson,2021-02-20,0.48
+Kokomo,2021-02-20,0.52
+Lafayette-West Lafayette,2021-02-20,0.56
+Louisville/Jefferson County,2021-02-20,0.51
+Michigan City-La Porte,2021-02-20,0.43
+Muncie,2021-02-20,0.49
+South Bend-Mishawaka,2021-02-20,0.51
+Terre Haute,2021-02-20,0.3
+Bloomington,2021-02-21,0.46
+Cincinnati,2021-02-21,0.55
+Columbus,2021-02-21,0.42
+Fort Wayne,2021-02-21,0.45
+Elkhart-Goshen,2021-02-21,0.55
+Evansville,2021-02-21,0.51
+Chicago-Naperville-Elgin,2021-02-21,0.47
+Indianapolis-Carmel-Anderson,2021-02-21,0.51
+Kokomo,2021-02-21,0.51
+Lafayette-West Lafayette,2021-02-21,0.63
+Louisville/Jefferson County,2021-02-21,0.53
+Michigan City-La Porte,2021-02-21,0.47
+Muncie,2021-02-21,0.37
+South Bend-Mishawaka,2021-02-21,0.44
+Terre Haute,2021-02-21,0.41
+Bloomington,2021-02-23,0.39
+Cincinnati,2021-02-23,0.55
+Columbus,2021-02-23,0.49
+Fort Wayne,2021-02-23,0.53
+Elkhart-Goshen,2021-02-23,0.54
+Evansville,2021-02-23,0.62
+Chicago-Naperville-Elgin,2021-02-23,0.45
+Indianapolis-Carmel-Anderson,2021-02-23,0.43
+Kokomo,2021-02-23,0.53
+Lafayette-West Lafayette,2021-02-23,0.6
+Louisville/Jefferson County,2021-02-23,0.48
+Michigan City-La Porte,2021-02-23,0.46
+Muncie,2021-02-23,0.42
+South Bend-Mishawaka,2021-02-23,0.57
+Terre Haute,2021-02-23,0.52
+Bloomington,2021-02-24,0.39
+Cincinnati,2021-02-24,0.57
+Columbus,2021-02-24,0.49
+Fort Wayne,2021-02-24,0.52
+Elkhart-Goshen,2021-02-24,0.57
+Evansville,2021-02-24,0.72
+Chicago-Naperville-Elgin,2021-02-24,0.44
+Indianapolis-Carmel-Anderson,2021-02-24,0.43
+Kokomo,2021-02-24,0.53
+Lafayette-West Lafayette,2021-02-24,0.52
+Louisville/Jefferson County,2021-02-24,0.47
+Michigan City-La Porte,2021-02-24,0.28
+Muncie,2021-02-24,0.41
+South Bend-Mishawaka,2021-02-24,0.6
+Terre Haute,2021-02-24,0.5
+Bloomington,2021-02-25,0.56
+Cincinnati,2021-02-25,0.57
+Columbus,2021-02-25,0.5
+Fort Wayne,2021-02-25,0.47
+Elkhart-Goshen,2021-02-25,0.34
+Evansville,2021-02-25,0.69
+Chicago-Naperville-Elgin,2021-02-25,0.42
+Indianapolis-Carmel-Anderson,2021-02-25,0.4
+Kokomo,2021-02-25,0.51
+Lafayette-West Lafayette,2021-02-25,0.52
+Louisville/Jefferson County,2021-02-25,0.47
+Michigan City-La Porte,2021-02-25,0.28
+Muncie,2021-02-25,0.47
+South Bend-Mishawaka,2021-02-25,0.59
+Terre Haute,2021-02-25,0.56
+Bloomington,2021-02-26,0.57
+Cincinnati,2021-02-26,0.56
+Columbus,2021-02-26,0.51
+Fort Wayne,2021-02-26,0.48
+Elkhart-Goshen,2021-02-26,0.37
+Evansville,2021-02-26,0.67
+Chicago-Naperville-Elgin,2021-02-26,0.41
+Indianapolis-Carmel-Anderson,2021-02-26,0.4
+Kokomo,2021-02-26,0.51
+Lafayette-West Lafayette,2021-02-26,0.49
+Louisville/Jefferson County,2021-02-26,0.46
+Michigan City-La Porte,2021-02-26,0.31
+Muncie,2021-02-26,0.54
+South Bend-Mishawaka,2021-02-26,0.56
+Terre Haute,2021-02-26,0.58
+Bloomington,2021-02-27,0.54
+Cincinnati,2021-02-27,0.46
+Columbus,2021-02-27,0.48
+Fort Wayne,2021-02-27,0.45
+Elkhart-Goshen,2021-02-27,0.43
+Evansville,2021-02-27,0.7
+Chicago-Naperville-Elgin,2021-02-27,0.42
+Indianapolis-Carmel-Anderson,2021-02-27,0.37
+Kokomo,2021-02-27,0.5
+Lafayette-West Lafayette,2021-02-27,0.49
+Louisville/Jefferson County,2021-02-27,0.43
+Michigan City-La Porte,2021-02-27,0.31
+Muncie,2021-02-27,0.72
+South Bend-Mishawaka,2021-02-27,0.55
+Terre Haute,2021-02-27,0.58
+Bloomington,2021-02-28,0.54
+Cincinnati,2021-02-28,0.49
+Columbus,2021-02-28,0.43
+Fort Wayne,2021-02-28,0.43
+Elkhart-Goshen,2021-02-28,0.45
+Evansville,2021-02-28,0.61
+Chicago-Naperville-Elgin,2021-02-28,0.41
+Indianapolis-Carmel-Anderson,2021-02-28,0.34
+Kokomo,2021-02-28,0.44
+Lafayette-West Lafayette,2021-02-28,0.44
+Louisville/Jefferson County,2021-02-28,0.42
+Michigan City-La Porte,2021-02-28,0.3
+Muncie,2021-02-28,0.74
+South Bend-Mishawaka,2021-02-28,0.55
+Terre Haute,2021-02-28,0.55
+Bloomington,2021-03-01,0.59
+Cincinnati,2021-03-01,0.47
+Columbus,2021-03-01,0.42
+Fort Wayne,2021-03-01,0.41
+Elkhart-Goshen,2021-03-01,0.53
+Evansville,2021-03-01,0.62
+Chicago-Naperville-Elgin,2021-03-01,0.39
+Indianapolis-Carmel-Anderson,2021-03-01,0.45
+Kokomo,2021-03-01,0.42
+Lafayette-West Lafayette,2021-03-01,0.43
+Louisville/Jefferson County,2021-03-01,0.35
+Michigan City-La Porte,2021-03-01,0.26
+Muncie,2021-03-01,0.71
+South Bend-Mishawaka,2021-03-01,0.58
+Terre Haute,2021-03-01,0.58
+Bloomington,2021-03-02,0.58
+Cincinnati,2021-03-02,0.46
+Columbus,2021-03-02,0.4
+Fort Wayne,2021-03-02,0.41
+Elkhart-Goshen,2021-03-02,0.51
+Evansville,2021-03-02,0.48
+Chicago-Naperville-Elgin,2021-03-02,0.37
+Indianapolis-Carmel-Anderson,2021-03-02,0.43
+Kokomo,2021-03-02,0.4
+Lafayette-West Lafayette,2021-03-02,0.36
+Louisville/Jefferson County,2021-03-02,0.33
+Michigan City-La Porte,2021-03-02,0.26
+Muncie,2021-03-02,0.62
+South Bend-Mishawaka,2021-03-02,0.61
+Terre Haute,2021-03-02,0.46
+Bloomington,2021-03-03,0.6
+Cincinnati,2021-03-03,0.44
+Columbus,2021-03-03,0.39
+Fort Wayne,2021-03-03,0.46
+Elkhart-Goshen,2021-03-03,0.45
+Evansville,2021-03-03,0.36
+Chicago-Naperville-Elgin,2021-03-03,0.38
+Indianapolis-Carmel-Anderson,2021-03-03,0.39
+Kokomo,2021-03-03,0.38
+Lafayette-West Lafayette,2021-03-03,0.34
+Louisville/Jefferson County,2021-03-03,0.29
+Michigan City-La Porte,2021-03-03,0.22
+Muncie,2021-03-03,0.53
+South Bend-Mishawaka,2021-03-03,0.55
+Terre Haute,2021-03-03,0.51
+Bloomington,2021-03-04,0.32
+Cincinnati,2021-03-04,0.44
+Columbus,2021-03-04,0.37
+Fort Wayne,2021-03-04,0.43
+Elkhart-Goshen,2021-03-04,0.54
+Evansville,2021-03-04,0.39
+Chicago-Naperville-Elgin,2021-03-04,0.37
+Indianapolis-Carmel-Anderson,2021-03-04,0.42
+Kokomo,2021-03-04,0.37
+Lafayette-West Lafayette,2021-03-04,0.33
+Louisville/Jefferson County,2021-03-04,0.31
+Michigan City-La Porte,2021-03-04,0.21
+Muncie,2021-03-04,0.48
+South Bend-Mishawaka,2021-03-04,0.6
+Terre Haute,2021-03-04,0.43
+Bloomington,2021-03-05,0.27
+Cincinnati,2021-03-05,0.47
+Columbus,2021-03-05,0.35
+Fort Wayne,2021-03-05,0.42
+Elkhart-Goshen,2021-03-05,0.66
+Evansville,2021-03-05,0.42
+Chicago-Naperville-Elgin,2021-03-05,0.37
+Indianapolis-Carmel-Anderson,2021-03-05,0.39
+Kokomo,2021-03-05,0.35
+Lafayette-West Lafayette,2021-03-05,0.31
+Louisville/Jefferson County,2021-03-05,0.32
+Michigan City-La Porte,2021-03-05,0.24
+Muncie,2021-03-05,0.41
+South Bend-Mishawaka,2021-03-05,0.59
+Terre Haute,2021-03-05,0.4
+Bloomington,2021-03-06,0.27
+Cincinnati,2021-03-06,0.47
+Columbus,2021-03-06,0.35
+Fort Wayne,2021-03-06,0.69
+Elkhart-Goshen,2021-03-06,0.59
+Evansville,2021-03-06,0.36
+Chicago-Naperville-Elgin,2021-03-06,0.37
+Indianapolis-Carmel-Anderson,2021-03-06,0.4
+Kokomo,2021-03-06,0.36
+Lafayette-West Lafayette,2021-03-06,0.33
+Louisville/Jefferson County,2021-03-06,0.39
+Michigan City-La Porte,2021-03-06,0.22
+Muncie,2021-03-06,0.24
+South Bend-Mishawaka,2021-03-06,0.49
+Terre Haute,2021-03-06,0.41
+Bloomington,2021-03-07,0.29
+Cincinnati,2021-03-07,0.47
+Columbus,2021-03-07,0.36
+Fort Wayne,2021-03-07,0.67
+Elkhart-Goshen,2021-03-07,0.59
+Evansville,2021-03-07,0.38
+Chicago-Naperville-Elgin,2021-03-07,0.39
+Indianapolis-Carmel-Anderson,2021-03-07,0.44
+Kokomo,2021-03-07,0.37
+Lafayette-West Lafayette,2021-03-07,0.31
+Louisville/Jefferson County,2021-03-07,0.41
+Michigan City-La Porte,2021-03-07,0.24
+Muncie,2021-03-07,0.24
+South Bend-Mishawaka,2021-03-07,0.51
+Terre Haute,2021-03-07,0.34
+Bloomington,2021-03-08,0.27
+Cincinnati,2021-03-08,0.47
+Columbus,2021-03-08,0.33
+Fort Wayne,2021-03-08,0.65
+Elkhart-Goshen,2021-03-08,0.49
+Evansville,2021-03-08,0.46
+Chicago-Naperville-Elgin,2021-03-08,0.39
+Indianapolis-Carmel-Anderson,2021-03-08,0.4
+Kokomo,2021-03-08,0.35
+Lafayette-West Lafayette,2021-03-08,0.35
+Louisville/Jefferson County,2021-03-08,0.39
+Michigan City-La Porte,2021-03-08,0.27
+Muncie,2021-03-08,0.26
+South Bend-Mishawaka,2021-03-08,0.46
+Terre Haute,2021-03-08,0.31
+Bloomington,2021-03-09,0.27
+Cincinnati,2021-03-09,0.43
+Columbus,2021-03-09,0.35
+Fort Wayne,2021-03-09,0.6
+Elkhart-Goshen,2021-03-09,0.48
+Evansville,2021-03-09,0.39
+Chicago-Naperville-Elgin,2021-03-09,0.39
+Indianapolis-Carmel-Anderson,2021-03-09,0.39
+Kokomo,2021-03-09,0.38
+Lafayette-West Lafayette,2021-03-09,0.39
+Louisville/Jefferson County,2021-03-09,0.38
+Michigan City-La Porte,2021-03-09,0.27
+Muncie,2021-03-09,0.61
+South Bend-Mishawaka,2021-03-09,0.43
+Terre Haute,2021-03-09,0.39
+Bloomington,2021-03-10,0.27
+Cincinnati,2021-03-10,0.44
+Columbus,2021-03-10,0.35
+Fort Wayne,2021-03-10,0.57
+Elkhart-Goshen,2021-03-10,0.49
+Evansville,2021-03-10,0.38
+Chicago-Naperville-Elgin,2021-03-10,0.39
+Indianapolis-Carmel-Anderson,2021-03-10,0.38
+Kokomo,2021-03-10,0.39
+Lafayette-West Lafayette,2021-03-10,0.41
+Louisville/Jefferson County,2021-03-10,0.38
+Michigan City-La Porte,2021-03-10,0.5
+Muncie,2021-03-10,0.62
+South Bend-Mishawaka,2021-03-10,0.48
+Terre Haute,2021-03-10,0.34
+Bloomington,2021-03-11,0.24
+Cincinnati,2021-03-11,0.46
+Columbus,2021-03-11,0.35
+Fort Wayne,2021-03-11,0.51
+Elkhart-Goshen,2021-03-11,0.39
+Evansville,2021-03-11,0.4
+Chicago-Naperville-Elgin,2021-03-11,0.42
+Indianapolis-Carmel-Anderson,2021-03-11,0.35
+Kokomo,2021-03-11,0.39
+Lafayette-West Lafayette,2021-03-11,0.46
+Louisville/Jefferson County,2021-03-11,0.33
+Michigan City-La Porte,2021-03-11,0.49
+Muncie,2021-03-11,0.62
+South Bend-Mishawaka,2021-03-11,0.44
+Terre Haute,2021-03-11,0.3
+Bloomington,2021-03-12,0.24
+Cincinnati,2021-03-12,0.42
+Columbus,2021-03-12,0.34
+Fort Wayne,2021-03-12,0.51
+Elkhart-Goshen,2021-03-12,0.24
+Evansville,2021-03-12,0.39
+Chicago-Naperville-Elgin,2021-03-12,0.41
+Indianapolis-Carmel-Anderson,2021-03-12,0.39
+Kokomo,2021-03-12,0.38
+Lafayette-West Lafayette,2021-03-12,0.51
+Louisville/Jefferson County,2021-03-12,0.32
+Michigan City-La Porte,2021-03-12,0.45
+Muncie,2021-03-12,0.65
+South Bend-Mishawaka,2021-03-12,0.44
+Terre Haute,2021-03-12,0.31

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Function reference • indianacovid19data</title>
+<title>Get file path to .csv files — path_to_file • indianacovid19data</title>
 
 
 <!-- jquery -->
@@ -41,7 +41,9 @@
   <link href="../extra.css" rel="stylesheet">
   
 
-<meta property="og:title" content="Function reference" />
+<meta property="og:title" content="Get file path to .csv files — path_to_file" />
+<meta property="og:description" content="indianacovid19data has csv file types for all its datasets in the inst/extdata
+directory. This function makes them easy to access." />
 
 
 
@@ -70,7 +72,7 @@
   </head>
 
   <body data-spy="scroll" data-target="#toc">
-    <div class="container template-reference-index">
+    <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
@@ -120,151 +122,55 @@
       </header>
 
 <div class="row">
-  <div class="contents col-md-9">
+  <div class="col-md-9 contents">
     <div class="page-header">
-      <h1>Reference</h1>
+    <h1>Get file path to .csv files</h1>
+    <small class="dont-index">Source: <a href='https://github.com/ercbk/indianacovid19data/blob/master/R/path-to-file.R'><code>R/path-to-file.R</code></a></small>
+    <div class="hidden name"><code>path_to_file.Rd</code></div>
     </div>
 
-    <table class="ref-index">
+    <div class="ref-description">
+    <p>indianacovid19data has csv file types for all its datasets in the <code>inst/extdata</code>
+directory. This function makes them easy to access.</p>
+    </div>
 
-    <colgroup>
-      
-      <col class="alias" />
-      <col class="title" />
-    </colgroup>
+    <pre class="usage"><span class='fu'>path_to_file</span><span class='op'>(</span>path <span class='op'>=</span> <span class='cn'>NULL</span><span class='op'>)</span></pre>
 
-    <tbody>
-      <tr>
-        <th colspan="2">
-          <h2 id="section-data" class="hasAnchor"><a href="#section-data" class="anchor"></a>Data</h2>
-          <p class="section-desc"></p>
-        </th>
-      </tr>
-      
-      
-    </tbody><tbody>
-      
-      
-      <tr>
-        
-        <td>
-          <p><code><a href="age_cases_heat.html">age_cases_heat</a></code> </p>
-        </td>
-        <td><p>Historical Weekly COVID-19 Cases by Age for Indiana</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="age_death_line.html">age_death_line</a></code> </p>
-        </td>
-        <td><p>Historical Weekly COVID-19 Deaths by Age Group for Indiana</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="age_hosp_line.html">age_hosp_line</a></code> </p>
-        </td>
-        <td><p>Historical Daily COVID-19 Hospital Admissions by Age Group for Indiana</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="beds_vents_complete.html">beds_vents_complete</a></code> </p>
-        </td>
-        <td><p>Historical Daily ICU Beds and Ventilators for Indiana</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="hosp_msas_line.html">hosp_msas_line</a></code> </p>
-        </td>
-        <td><p>Historical State Hospital Staff Shortages, Hospital Mortality Rate, Hospital Admissions and Ages Skewness of Admissions for Indiana</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="hosp_react_tab.html">hosp_react_tab</a></code> </p>
-        </td>
-        <td><p>Local Hospital Capacity for Indiana</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="ind_age_complete.html">ind_age_complete</a></code> </p>
-        </td>
-        <td><p>Historical Daily Tests, Cases and Deaths by Age for Indiana</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="ind_race_complete.html">ind_race_complete</a></code> </p>
-        </td>
-        <td><p>Historical Daily Cases and Deaths by Race for Indiana</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="median_age_bubble.html">median_age_bubble</a></code> </p>
-        </td>
-        <td><p>Historical Weekly Median Age of Cases, Weekly Tests and Deaths for Indiana</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="mort_hosp_line.html">mort_hosp_line</a></code> </p>
-        </td>
-        <td><p>Historical Daily Hospital Admissions and Deaths for Indiana</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="msa_cases100_posrate_historic.html">msa_cases100_posrate_historic</a></code> </p>
-        </td>
-        <td><p>Historical Weekly Positivity Rates and Daily Cases per 100,000 Indiana Residents</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="dash_ci_line.html">dash_ci_line</a></code> </p>
-        </td>
-        <td><p>Historical Daily Values of Delphi Research Groups Combined Indicator for Indiana</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="illinois_tests_complete.html">illinois_tests_complete</a></code> </p>
-        </td>
-        <td><p>Historical Weekly COVID-19 Statistics and Counts for Illinois Counties</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="ind_tests_complete.html">ind_tests_complete</a></code> </p>
-        </td>
-        <td><p>Historical Daily COVID-19 Test Results for Indiana Counties</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="mich_tests_complete.html">mich_tests_complete</a></code> </p>
-        </td>
-        <td><p>Historical Daily COVID-19 Test Results for Michigan Counties</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="wisc_tests_complete.html">wisc_tests_complete</a></code> </p>
-        </td>
-        <td><p>Historical Daily COVID-19 Test Results for Wisconsin Counties</p></td>
-      </tr>
-    </tbody><tbody>
-      <tr>
-        <th colspan="2">
-          <h2 id="section-functions" class="hasAnchor"><a href="#section-functions" class="anchor"></a>Functions</h2>
-          <p class="section-desc"></p>
-        </th>
-      </tr>
-      
-      
-    </tbody><tbody>
-      
-      
-      <tr>
-        
-        <td>
-          <p><code><a href="path_to_file.html">path_to_file()</a></code> </p>
-        </td>
-        <td><p>Get file path to .csv files</p></td>
-      </tr>
-    </tbody>
+    <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
+    <table class="ref-arguments">
+    <colgroup><col class="name" /><col class="desc" /></colgroup>
+    <tr>
+      <th>path</th>
+      <td><p>Name of file in quotes with extension. If <code>NULL</code>, the example files will be listed.</p></td>
+    </tr>
     </table>
-  </div>
 
+    <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
+
+    <p>The function is the same as <code><a href='https://allisonhorst.github.io/palmerpenguins/reference/path_to_file.html'>palmerpenguins::path_to_file()</a></code> with a few edits.</p>
+    <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
+
+    <p>The csv file for <a href='hosp_react_tab.html'>hosp_react_tab</a> doesn't include the list columns.</p>
+
+    <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
+    <pre class="examples"><div class='input'><span class='fu'>path_to_file</span><span class='op'>(</span><span class='op'>)</span>
+</div><div class='output co'>#&gt;  [1] "age_cases_heat.csv"                "age_death_line.csv"               
+#&gt;  [3] "age_hosp_line.csv"                 "beds_vents_complete.csv"          
+#&gt;  [5] "dash_ci_line.csv"                  "hosp_msas_line.csv"               
+#&gt;  [7] "hosp_react_tab.csv"                "illinois_tests_complete.csv"      
+#&gt;  [9] "ind_age_complete.csv"              "ind_race_complete.csv"            
+#&gt; [11] "ind_tests_complete.csv"            "median_age_bubble.csv"            
+#&gt; [13] "mich_tests_complete.csv"           "mort_hosp_line.csv"               
+#&gt; [15] "msa_cases100_posrate_historic.csv" "wisc_tests_complete.csv"          </div><div class='input'><span class='fu'>path_to_file</span><span class='op'>(</span><span class='st'>"hosp_msas_line.csv"</span><span class='op'>)</span>
+</div><div class='output co'>#&gt; [1] "C:/Users/tbats/Documents/R/win-library/4.0/indianacovid19data/extdata/hosp_msas_line.csv"</div><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/utils/read.table.html'>read.csv</a></span><span class='op'>(</span><span class='fu'>path_to_file</span><span class='op'>(</span><span class='st'>"hosp_msas_line.csv"</span><span class='op'>)</span><span class='op'>)</span><span class='op'>)</span>
+</div><div class='output co'>#&gt;     date roll_mean_staff_short_perc mean_mort_rate roll_mean_admiss  skewness
+#&gt; 1 Dec 08                  0.1767381      0.1276227         426.8571 0.8701146
+#&gt; 2 Dec 09                  0.1767381      0.1292178         392.4286 0.8597092
+#&gt; 3 Dec 10                  0.1793673      0.1301993         358.1429 0.8463110
+#&gt; 4 Dec 11                  0.1812771      0.1300213         345.8571 0.8493029
+#&gt; 5 Dec 12                  0.1802384      0.1281706         309.4286 0.8464296
+#&gt; 6 Dec 13                  0.1791996      0.1302980         361.4286 0.8361402</div></pre>
+  </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">
       <h2 data-toc-skip>Contents</h2>
