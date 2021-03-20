@@ -10,7 +10,7 @@ The function is the same as \code{\link[palmerpenguins:path_to_file]{palmerpengu
 path_to_file(path = NULL)
 }
 \arguments{
-\item{path}{Name of file in quotes with extension. If \code{NULL}, the example files will be listed.}
+\item{path}{Name of file in quotes with extension. If \code{NULL}, the available files will be listed.}
 }
 \description{
 indianacovid19data has csv file types for all its datasets in the \code{inst/extdata}

@@ -25,6 +25,10 @@ table p {
   font-size: 16px;
 }
 
+/* increases Arguments text size (default 12) in function documentation */
+table th {
+  font-size: 16px;
+}
 
 /* increases margin between top header and navabar */
 .contents .page-header {

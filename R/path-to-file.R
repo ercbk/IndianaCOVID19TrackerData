@@ -5,7 +5,7 @@
 #'
 #' @details The csv file for [hosp_react_tab] doesn't include the list columns.
 #'
-#' @param path Name of file in quotes with extension. If `NULL`, the example files will be listed.
+#' @param path Name of file in quotes with extension. If `NULL`, the available files will be listed.
 #'
 #' @source The function is the same as [palmerpenguins::path_to_file()] with a few edits.
 #'
