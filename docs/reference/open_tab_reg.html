@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Get file path to .csv files — path_to_file • indianacovid19data</title>
+<title>OpenTable Year-Over-Year Seated Diners for Regional States — open_tab_reg • indianacovid19data</title>
 
 
 <!-- jquery -->
@@ -41,9 +41,8 @@
   <link href="../extra.css" rel="stylesheet">
   
 
-<meta property="og:title" content="Get file path to .csv files — path_to_file" />
-<meta property="og:description" content="indianacovid19data has csv file types for all its datasets in the inst/extdata
-directory. This function makes them easy to access." />
+<meta property="og:title" content="OpenTable Year-Over-Year Seated Diners for Regional States — open_tab_reg" />
+<meta property="og:description" content="Processed data for the OpenTable Year-Over-Year Seated Diners line charts that shows reservation data from a sample of restaurants across Indiana and other regional states. Each data point is the median daily percent difference in seated diners from 2019 to either 2020 or 2021 depending on the date." />
 
 
 
@@ -124,53 +123,36 @@ directory. This function makes them easy to access." />
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>Get file path to .csv files</h1>
-    <small class="dont-index">Source: <a href='https://github.com/ercbk/indianacovid19data/blob/master/R/path-to-file.R'><code>R/path-to-file.R</code></a></small>
-    <div class="hidden name"><code>path_to_file.Rd</code></div>
+    <h1>OpenTable Year-Over-Year Seated Diners for Regional States</h1>
+    <small class="dont-index">Source: <a href='https://github.com/ercbk/indianacovid19data/blob/master/R/data.R'><code>R/data.R</code></a></small>
+    <div class="hidden name"><code>open_tab_reg.Rd</code></div>
     </div>
 
     <div class="ref-description">
-    <p>indianacovid19data has csv file types for all its datasets in the <code>inst/extdata</code>
-directory. This function makes them easy to access.</p>
+    <p>Processed data for the OpenTable Year-Over-Year Seated Diners <a href='https://ercbk.github.io/Indiana-COVID-19-Website/static.html#OpenTable_Year-Over-Year_Seated_Diners_'>line charts</a> that shows reservation data from a sample of restaurants across Indiana and other regional states. Each data point is the median daily percent difference in seated diners from 2019 to either 2020 or 2021 depending on the date.</p>
     </div>
 
-    <pre class="usage"><span class='fu'>path_to_file</span><span class='op'>(</span>path <span class='op'>=</span> <span class='cn'>NULL</span><span class='op'>)</span></pre>
+    <pre class="usage"><span class='va'>open_tab_reg</span></pre>
 
-    <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
-    <table class="ref-arguments">
-    <colgroup><col class="name" /><col class="desc" /></colgroup>
-    <tr>
-      <th>path</th>
-      <td><p>Name of file in quotes with extension. If <code>NULL</code>, the available files will be listed.</p></td>
-    </tr>
-    </table>
 
-    <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
+    <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
-    <p>The function is the same as <code><a href='https://allisonhorst.github.io/palmerpenguins/reference/path_to_file.html'>palmerpenguins::path_to_file()</a></code> with a few edits.</p>
+    <p>An object of class <code>tbl_df</code> (inherits from <code>tbl</code>, <code>data.frame</code>) with 2244 rows and 4 columns.</p>
     <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
 
-    <p>The csv file for <a href='hosp_react_tab.html'>hosp_react_tab</a> doesn't include the list columns.</p>
+    <p>Data Dictionary <a href='https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#openTable-year-over-year-seated-diners-for-regional-states-1'>entry</a></p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='fu'>path_to_file</span><span class='op'>(</span><span class='op'>)</span>
-</div><div class='output co'>#&gt;  [1] "age_cases_heat.csv"                "age_death_line.csv"               
-#&gt;  [3] "age_hosp_line.csv"                 "beds_vents_complete.csv"          
-#&gt;  [5] "dash_ci_line.csv"                  "goog_mob_ind.csv"                 
-#&gt;  [7] "hosp_msas_line.csv"                "hosp_react_tab.csv"               
-#&gt;  [9] "illinois_tests_complete.csv"       "ind_age_complete.csv"             
-#&gt; [11] "ind_race_complete.csv"             "ind_tests_complete.csv"           
-#&gt; [13] "median_age_bubble.csv"             "mich_tests_complete.csv"          
-#&gt; [15] "mort_hosp_line.csv"                "msa_cases100_posrate_historic.csv"
-#&gt; [17] "open_tab_reg.csv"                  "wisc_tests_complete.csv"          </div><div class='input'><span class='fu'>path_to_file</span><span class='op'>(</span><span class='st'>"hosp_msas_line.csv"</span><span class='op'>)</span>
-</div><div class='output co'>#&gt; [1] "C:/Users/tbats/Documents/R/win-library/4.0/indianacovid19data/extdata/hosp_msas_line.csv"</div><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/utils/read.table.html'>read.csv</a></span><span class='op'>(</span><span class='fu'>path_to_file</span><span class='op'>(</span><span class='st'>"hosp_msas_line.csv"</span><span class='op'>)</span><span class='op'>)</span><span class='op'>)</span>
-</div><div class='output co'>#&gt;     date roll_mean_staff_short_perc mean_mort_rate roll_mean_admiss  skewness
-#&gt; 1 Dec 08                  0.1767381      0.1276227         426.8571 0.8701146
-#&gt; 2 Dec 09                  0.1767381      0.1292178         392.4286 0.8597092
-#&gt; 3 Dec 10                  0.1793673      0.1301993         358.1429 0.8463110
-#&gt; 4 Dec 11                  0.1812771      0.1300213         345.8571 0.8493029
-#&gt; 5 Dec 12                  0.1802384      0.1281706         309.4286 0.8464296
-#&gt; 6 Dec 13                  0.1791996      0.1302980         361.4286 0.8361402</div></pre>
+    <pre class="examples"><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>open_tab_reg</span><span class='op'>)</span>
+</div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 6 x 4</span><span>
+#&gt;   Name     date       pct_diff weekend
+#&gt;   </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>    </span><span style='color: #949494;font-style: italic;'>&lt;date&gt;</span><span>        </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span> </span><span style='color: #949494;font-style: italic;'>&lt;lgl&gt;</span><span>  
+#&gt; </span><span style='color: #BCBCBC;'>1</span><span> Illinois 2020-02-18    -</span><span style='color: #BB0000;'>0.04</span><span> FALSE  
+#&gt; </span><span style='color: #BCBCBC;'>2</span><span> Illinois 2020-02-19     0.04 FALSE  
+#&gt; </span><span style='color: #BCBCBC;'>3</span><span> Illinois 2020-02-20    -</span><span style='color: #BB0000;'>0.02</span><span> FALSE  
+#&gt; </span><span style='color: #BCBCBC;'>4</span><span> Illinois 2020-02-21    -</span><span style='color: #BB0000;'>0.03</span><span> FALSE  
+#&gt; </span><span style='color: #BCBCBC;'>5</span><span> Illinois 2020-02-22     0.06 TRUE   
+#&gt; </span><span style='color: #BCBCBC;'>6</span><span> Illinois 2020-02-23     0.11 TRUE   </div></span></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">

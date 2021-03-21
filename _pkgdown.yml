@@ -11,6 +11,7 @@ reference:
     - age_death_line
     - age_hosp_line
     - beds_vents_complete
+    - goog_mob_ind
     - hosp_msas_line
     - hosp_react_tab
     - ind_age_complete
@@ -22,6 +23,7 @@ reference:
     - illinois_tests_complete
     - ind_tests_complete
     - mich_tests_complete
+    - open_tab_reg
     - wisc_tests_complete
   - title: Functions
     contents:

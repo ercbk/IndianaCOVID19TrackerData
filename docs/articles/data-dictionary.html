@@ -512,34 +512,121 @@ tidycensus R package: <a href="https://walker-data.com/tidycensus/">website</a>,
 <p><br><br><br></p>
 </div>
 </div>
-<div id="historical-state-hospital-staff-shortages-hospital-mortality-rate-hospital-admissions-and-ages-skewness-of-admissions-for-indiana" class="section level2">
+<div id="historical-google-maps-mobility-indices-for-indiana" class="section level2">
 <h2 class="hasAnchor">
-<a href="#historical-state-hospital-staff-shortages-hospital-mortality-rate-hospital-admissions-and-ages-skewness-of-admissions-for-indiana" class="anchor"></a>Historical State Hospital Staff Shortages, Hospital Mortality Rate, Hospital Admissions and Ages Skewness of Admissions for Indiana</h2>
+<a href="#historical-google-maps-mobility-indices-for-indiana" class="anchor"></a>Historical Google Maps Mobility Indices for Indiana</h2>
 <div id="description-4" class="section level3">
 <h3 class="hasAnchor">
 <a href="#description-4" class="anchor"></a>Description</h3>
-<p>Processed data for Hospitals <a href="https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#state-hospital-mortality-staffing-shortages-admissions">line charts</a> that shows state hospital staff shortages, hospital mortality rate, hospital admissions, and age skewness of hospital admissions towards older patients.</p>
+<p>Processed data for the Google Maps Mobility Indices <a href="https://ercbk.github.io/Indiana-COVID-19-Website/static.html#Google_Maps_Mobility_Indices">line chart</a> that shows percent differences from a mobility baseline that was calculated during the 5-week period Jan 3 – Feb 6, 2020. These percent changes show how lengths-of-stay at different locations have changed from pre-pandemic conditions.</p>
 </div>
 <div id="dataset-4" class="section level3">
 <h3 class="hasAnchor">
 <a href="#dataset-4" class="anchor"></a>Dataset</h3>
-<p><a href="https://ercbk.github.io/indianacovid19data/reference/hosp_msas_line.html">hosp_msas_line</a></p>
+<p><a href="https://ercbk.github.io/indianacovid19data/reference/goog_mob_ind.html">goog_mob_ind</a></p>
 </div>
 <div id="script-4" class="section level3">
 <h3 class="hasAnchor">
 <a href="#script-4" class="anchor"></a>Script</h3>
-<p>Process: <a href="https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/process/process-hospitals-data.R">process-hospitals-data.R</a></p>
+<p>Static-Charts: <a href="https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/static-charts/goog-mob-line.R">goog-mob-line.R</a></p>
 </div>
 <div id="raw-sources-4" class="section level3">
 <h3 class="hasAnchor">
 <a href="#raw-sources-4" class="anchor"></a>Raw Sources</h3>
-<p>Regenstrief Institute: <a href="https://www.regenstrief.org/covid-dashboard/">dashboard</a><br>
-Department of Health and Human Services: <a href="https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh">COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries</a><br>
-Department of Health and Human Services: <a href="https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u">COVID-19 Reported Patient Impact and Hospital Capacity by Facility</a></p>
+<p>Google Mobility Reports: <a href="https://www.google.com/covid19/mobility/">website</a></p>
 </div>
 <div id="notes-4" class="section level3">
 <h3 class="hasAnchor">
 <a href="#notes-4" class="anchor"></a>Notes</h3>
+<p>Other variables:<br>
+- <code>date</code>: yyyymmdd format<br><br></p>
+<table class="table">
+<colgroup>
+<col>
+<col style="width:150px;">
+<col>
+</colgroup>
+<thead style="border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;"><tr>
+<th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: left;" rowspan="1" colspan="1">Variable</th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: left;" rowspan="1" colspan="1">
+<strong>N = 1,188</strong><sup style="font-style: italic; font-size: 65%;">1</sup>
+</th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: left;" rowspan="1" colspan="1">Definition</th>
+    </tr></thead>
+<tbody style="border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3;">
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">activity</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;"></td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">Length-of-stay (mobility) measurements are calculated for these location categories</td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left; text-align: left; text-indent: 10px;">Residential</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">396 (33%)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;"></td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left; text-align: left; text-indent: 10px;">Retail and Recreation</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">396 (33%)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;"></td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left; text-align: left; text-indent: 10px;">Workplace</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">396 (33%)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;"></td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">index</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">-0.04 (-0.19, 0.05)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">Percent difference from the mobility baseline for each category</td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">weekend</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">342 (29%)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">TRUE/FALSE binary for whether the date is on a weekend or not</td>
+    </tr>
+</tbody>
+<tfoot><tr style="color: #333333; background-color: #FFFFFF; border-bottom-style: none; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3;">
+<td colspan="3">
+        <p style="margin: 0px; font-size: 90%; padding: 4px;">
+          <sup style="font-style: italic; font-size: 65%;"><em>1</em>
+          </sup>
+           
+          n (%); Median (IQR)
+          <br></p>
+      </td>
+    </tr></tfoot>
+</table>
+<p><br><br><br></p>
+</div>
+</div>
+<div id="historical-state-hospital-staff-shortages-hospital-mortality-rate-hospital-admissions-and-ages-skewness-of-admissions-for-indiana" class="section level2">
+<h2 class="hasAnchor">
+<a href="#historical-state-hospital-staff-shortages-hospital-mortality-rate-hospital-admissions-and-ages-skewness-of-admissions-for-indiana" class="anchor"></a>Historical State Hospital Staff Shortages, Hospital Mortality Rate, Hospital Admissions and Ages Skewness of Admissions for Indiana</h2>
+<div id="description-5" class="section level3">
+<h3 class="hasAnchor">
+<a href="#description-5" class="anchor"></a>Description</h3>
+<p>Processed data for Hospitals <a href="https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#state-hospital-mortality-staffing-shortages-admissions">line charts</a> that shows state hospital staff shortages, hospital mortality rate, hospital admissions, and age skewness of hospital admissions towards older patients.</p>
+</div>
+<div id="dataset-5" class="section level3">
+<h3 class="hasAnchor">
+<a href="#dataset-5" class="anchor"></a>Dataset</h3>
+<p><a href="https://ercbk.github.io/indianacovid19data/reference/hosp_msas_line.html">hosp_msas_line</a></p>
+</div>
+<div id="script-5" class="section level3">
+<h3 class="hasAnchor">
+<a href="#script-5" class="anchor"></a>Script</h3>
+<p>Process: <a href="https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/process/process-hospitals-data.R">process-hospitals-data.R</a></p>
+</div>
+<div id="raw-sources-5" class="section level3">
+<h3 class="hasAnchor">
+<a href="#raw-sources-5" class="anchor"></a>Raw Sources</h3>
+<p>Regenstrief Institute: <a href="https://www.regenstrief.org/covid-dashboard/">dashboard</a><br>
+Department of Health and Human Services: <a href="https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh">COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries</a><br>
+Department of Health and Human Services: <a href="https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u">COVID-19 Reported Patient Impact and Hospital Capacity by Facility</a></p>
+</div>
+<div id="notes-5" class="section level3">
+<h3 class="hasAnchor">
+<a href="#notes-5" class="anchor"></a>Notes</h3>
 <p>Other variables:<br>
 - <code>date</code>: Ordered factor, Month Day format<br><br></p>
 <table class="table">
@@ -594,29 +681,29 @@ Department of Health and Human Services: <a href="https://beta.healthdata.gov/Ho
 <div id="local-hospital-capacity-for-indiana" class="section level2">
 <h2 class="hasAnchor">
 <a href="#local-hospital-capacity-for-indiana" class="anchor"></a>Local Hospital Capacity for Indiana</h2>
-<div id="description-5" class="section level3">
+<div id="description-6" class="section level3">
 <h3 class="hasAnchor">
-<a href="#description-5" class="anchor"></a>Description</h3>
+<a href="#description-6" class="anchor"></a>Description</h3>
 <p>Processed data for the Hospitals <a href="https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#local-hospital-capacity">Local Hospital Capacity table</a> that shows capacity measures and counts of COVID-19 patients for hospitals at the local level.</p>
 </div>
-<div id="dataset-5" class="section level3">
+<div id="dataset-6" class="section level3">
 <h3 class="hasAnchor">
-<a href="#dataset-5" class="anchor"></a>Dataset</h3>
+<a href="#dataset-6" class="anchor"></a>Dataset</h3>
 <p><a href="https://ercbk.github.io/indianacovid19data/reference/hosp_react_tab.html">hosp_react_tab</a></p>
 </div>
-<div id="script-5" class="section level3">
+<div id="script-6" class="section level3">
 <h3 class="hasAnchor">
-<a href="#script-5" class="anchor"></a>Script</h3>
+<a href="#script-6" class="anchor"></a>Script</h3>
 <p>Process: <a href="https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/process/process-hospitals-data.R">process-hospitals-data.R</a></p>
 </div>
-<div id="raw-sources-5" class="section level3">
+<div id="raw-sources-6" class="section level3">
 <h3 class="hasAnchor">
-<a href="#raw-sources-5" class="anchor"></a>Raw Sources</h3>
+<a href="#raw-sources-6" class="anchor"></a>Raw Sources</h3>
 <p>Department of Health and Human Services: <a href="https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh">COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries</a></p>
 </div>
-<div id="notes-5" class="section level3">
+<div id="notes-6" class="section level3">
 <h3 class="hasAnchor">
-<a href="#notes-5" class="anchor"></a>Notes</h3>
+<a href="#notes-6" class="anchor"></a>Notes</h3>
 <p>Other variables:<br>
 - <code>end_date</code>: date, yyyy-mm-dd format, end date of week interval<br>
 - <code>hospital_name</code>: char, Name of hospital<br>
@@ -678,29 +765,29 @@ Department of Health and Human Services: <a href="https://beta.healthdata.gov/Ho
 <div id="historical-daily-tests-cases-and-deaths-by-age-for-indiana" class="section level2">
 <h2 class="hasAnchor">
 <a href="#historical-daily-tests-cases-and-deaths-by-age-for-indiana" class="anchor"></a>Historical Daily Tests, Cases and Deaths by Age for Indiana</h2>
-<div id="description-6" class="section level3">
+<div id="description-7" class="section level3">
 <h3 class="hasAnchor">
-<a href="#description-6" class="anchor"></a>Description</h3>
+<a href="#description-7" class="anchor"></a>Description</h3>
 <p>Raw data for Demographics <a href="https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html">line charts</a> that shows daily case and death counts by age group.</p>
 </div>
-<div id="dataset-6" class="section level3">
+<div id="dataset-7" class="section level3">
 <h3 class="hasAnchor">
-<a href="#dataset-6" class="anchor"></a>Dataset</h3>
+<a href="#dataset-7" class="anchor"></a>Dataset</h3>
 <p><a href="https://ercbk.github.io/indianacovid19data/reference/ind_age_complete.html">ind_age_complete</a></p>
 </div>
-<div id="script-6" class="section level3">
+<div id="script-7" class="section level3">
 <h3 class="hasAnchor">
-<a href="#script-6" class="anchor"></a>Script</h3>
+<a href="#script-7" class="anchor"></a>Script</h3>
 <p>Collection: <a href="https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/collection/build-datasets.R">build-datasets.R</a></p>
 </div>
-<div id="raw-sources-6" class="section level3">
+<div id="raw-sources-7" class="section level3">
 <h3 class="hasAnchor">
-<a href="#raw-sources-6" class="anchor"></a>Raw Sources</h3>
+<a href="#raw-sources-7" class="anchor"></a>Raw Sources</h3>
 <p>Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset/covid-19-case-demographics">COVID-19 CASE DEMOGRAPHICS</a></p>
 </div>
-<div id="notes-6" class="section level3">
+<div id="notes-7" class="section level3">
 <h3 class="hasAnchor">
-<a href="#notes-6" class="anchor"></a>Notes</h3>
+<a href="#notes-7" class="anchor"></a>Notes</h3>
 <p>The source publishs daily excel spreadsheets with total resource counts, and these spreadsheets are collected and joined daily to produce a dataset with historical values.<br>
 Other variables:<br>
 - <code>date</code>: date, yyyy-mm-dd format<br><br></p>
@@ -816,29 +903,29 @@ Other variables:<br>
 <div id="historical-daily-cases-and-deaths-by-race-for-indiana" class="section level2">
 <h2 class="hasAnchor">
 <a href="#historical-daily-cases-and-deaths-by-race-for-indiana" class="anchor"></a>Historical Daily Cases and Deaths by Race for Indiana</h2>
-<div id="description-7" class="section level3">
+<div id="description-8" class="section level3">
 <h3 class="hasAnchor">
-<a href="#description-7" class="anchor"></a>Description</h3>
+<a href="#description-8" class="anchor"></a>Description</h3>
 <p>Raw data that shows daily case and death counts by race.</p>
 </div>
-<div id="dataset-7" class="section level3">
+<div id="dataset-8" class="section level3">
 <h3 class="hasAnchor">
-<a href="#dataset-7" class="anchor"></a>Dataset</h3>
+<a href="#dataset-8" class="anchor"></a>Dataset</h3>
 <p><a href="https://ercbk.github.io/indianacovid19data/reference/ind_race_complete.html">ind_race_complete</a></p>
 </div>
-<div id="script-7" class="section level3">
+<div id="script-8" class="section level3">
 <h3 class="hasAnchor">
-<a href="#script-7" class="anchor"></a>Script</h3>
+<a href="#script-8" class="anchor"></a>Script</h3>
 <p>Collection: <a href="https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/collection/build-datasets.R">build-datasets.R</a></p>
 </div>
-<div id="raw-sources-7" class="section level3">
+<div id="raw-sources-8" class="section level3">
 <h3 class="hasAnchor">
-<a href="#raw-sources-7" class="anchor"></a>Raw Sources</h3>
+<a href="#raw-sources-8" class="anchor"></a>Raw Sources</h3>
 <p>The Covid Tracking Project: <a href="https://covidtracking.com/race">The COVID Racial Data Tracker</a></p>
 </div>
-<div id="notes-7" class="section level3">
+<div id="notes-8" class="section level3">
 <h3 class="hasAnchor">
-<a href="#notes-7" class="anchor"></a>Notes</h3>
+<a href="#notes-8" class="anchor"></a>Notes</h3>
 <p>The source publishs data every 3 or 4 days.<br>
 Other variables:<br>
 - <code>date</code>: date, yyyy-mm-dd format</p>
@@ -989,29 +1076,29 @@ Other variables:<br>
 <div id="historical-weekly-median-age-of-cases-weekly-tests-and-deaths-for-indiana" class="section level2">
 <h2 class="hasAnchor">
 <a href="#historical-weekly-median-age-of-cases-weekly-tests-and-deaths-for-indiana" class="anchor"></a>Historical Weekly Median Age of Cases, Weekly Tests and Deaths for Indiana</h2>
-<div id="description-8" class="section level3">
+<div id="description-9" class="section level3">
 <h3 class="hasAnchor">
-<a href="#description-8" class="anchor"></a>Description</h3>
+<a href="#description-9" class="anchor"></a>Description</h3>
 <p>Processed data for the Demographics <a href="https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html#median-age-of-cases-tests-deaths">bubble chart</a> that shows the number of tests, number of deaths, and median age of the cases per week.</p>
 </div>
-<div id="dataset-8" class="section level3">
+<div id="dataset-9" class="section level3">
 <h3 class="hasAnchor">
-<a href="#dataset-8" class="anchor"></a>Dataset</h3>
+<a href="#dataset-9" class="anchor"></a>Dataset</h3>
 <p><a href="https://ercbk.github.io/indianacovid19data/reference/median_age_bubble.html">median_age_bubble</a></p>
 </div>
-<div id="script-8" class="section level3">
+<div id="script-9" class="section level3">
 <h3 class="hasAnchor">
-<a href="#script-8" class="anchor"></a>Script</h3>
+<a href="#script-9" class="anchor"></a>Script</h3>
 <p>Processing: <a href="https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/process/process-demog-data.R">process-demog-data.R</a></p>
 </div>
-<div id="raw-sources-8" class="section level3">
+<div id="raw-sources-9" class="section level3">
 <h3 class="hasAnchor">
-<a href="#raw-sources-8" class="anchor"></a>Raw Sources</h3>
+<a href="#raw-sources-9" class="anchor"></a>Raw Sources</h3>
 <p>Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset/covid-19-case-data">COVID-19 CASE DATA</a></p>
 </div>
-<div id="notes-8" class="section level3">
+<div id="notes-9" class="section level3">
 <h3 class="hasAnchor">
-<a href="#notes-8" class="anchor"></a>Notes</h3>
+<a href="#notes-9" class="anchor"></a>Notes</h3>
 <p>Other variables:<br>
 - <code>end_date</code>: ordered factor, Month Day format; end date of weekly interval<br><br></p>
 <table class="table">
@@ -1061,29 +1148,29 @@ Other variables:<br>
 <div id="historical-daily-hospital-admissions-and-deaths-for-indiana" class="section level2">
 <h2 class="hasAnchor">
 <a href="#historical-daily-hospital-admissions-and-deaths-for-indiana" class="anchor"></a>Historical Daily Hospital Admissions and Deaths for Indiana</h2>
-<div id="description-9" class="section level3">
+<div id="description-10" class="section level3">
 <h3 class="hasAnchor">
-<a href="#description-9" class="anchor"></a>Description</h3>
+<a href="#description-10" class="anchor"></a>Description</h3>
 <p>Raw data for the Hospitals <a href="https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#state-hospital-mortality-staffing-shortages-admissions">line charts</a> that shows daily COVID-19 hospital admissions, hospital deaths, and hospital death rate.</p>
 </div>
-<div id="dataset-9" class="section level3">
+<div id="dataset-10" class="section level3">
 <h3 class="hasAnchor">
-<a href="#dataset-9" class="anchor"></a>Dataset</h3>
+<a href="#dataset-10" class="anchor"></a>Dataset</h3>
 <p><a href="https://ercbk.github.io/indianacovid19data/reference/mort_hosp_line.html">mort_hosp_line</a></p>
 </div>
-<div id="script-9" class="section level3">
+<div id="script-10" class="section level3">
 <h3 class="hasAnchor">
-<a href="#script-9" class="anchor"></a>Script</h3>
+<a href="#script-10" class="anchor"></a>Script</h3>
 <p>Collection: <a href="https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/collection/scrape-regenstrief-tableau.R">scrape-regenstrief-tableau.R</a></p>
 </div>
-<div id="raw-sources-9" class="section level3">
+<div id="raw-sources-10" class="section level3">
 <h3 class="hasAnchor">
-<a href="#raw-sources-9" class="anchor"></a>Raw Sources</h3>
+<a href="#raw-sources-10" class="anchor"></a>Raw Sources</h3>
 <p>Regenstrief Institute: <a href="https://www.regenstrief.org/covid-dashboard/">dashboard</a></p>
 </div>
-<div id="notes-9" class="section level3">
+<div id="notes-10" class="section level3">
 <h3 class="hasAnchor">
-<a href="#notes-9" class="anchor"></a>Notes</h3>
+<a href="#notes-10" class="anchor"></a>Notes</h3>
 <p>This dataset is incomplete with random gaps between days.</p>
 <p>Other variables:<br>
 - <code>date</code>: yyyy-mm-dd format<br><br></p>
@@ -1134,14 +1221,14 @@ Other variables:<br>
 <div id="historical-weekly-positivity-rates-and-daily-cases-per-100000-indiana-residents" class="section level2">
 <h2 class="hasAnchor">
 <a href="#historical-weekly-positivity-rates-and-daily-cases-per-100000-indiana-residents" class="anchor"></a>Historical Weekly Positivity Rates and Daily Cases per 100,000 Indiana Residents</h2>
-<div id="description-10" class="section level3">
+<div id="description-11" class="section level3">
 <h3 class="hasAnchor">
-<a href="#description-10" class="anchor"></a>Description</h3>
+<a href="#description-11" class="anchor"></a>Description</h3>
 <p>Processed data for the <a href="https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard">Indiana COVIDcast Dashboard</a> that shows weekly positivity rate and daily cases per 100,000 residents per metropolitan statistical area.</p>
 </div>
-<div id="dataset-10" class="section level3">
+<div id="dataset-11" class="section level3">
 <h3 class="hasAnchor">
-<a href="#dataset-10" class="anchor"></a>Dataset</h3>
+<a href="#dataset-11" class="anchor"></a>Dataset</h3>
 <p><a href="https://ercbk.github.io/indianacovid19data/reference/msa_cases100_posrate_historic.html">msa_cases100_posrate_historic</a></p>
 </div>
 <div id="scripts" class="section level3">
@@ -1149,18 +1236,18 @@ Other variables:<br>
 <a href="#scripts" class="anchor"></a>Scripts</h3>
 <p>Processing: <a href="https://github.com/ercbk/Indiana-COVIDcast-Dashboard/blob/master/R/process-hist-regional-dat.R">process-hist-regional-dat.R</a></p>
 </div>
-<div id="raw-sources-10" class="section level3">
+<div id="raw-sources-11" class="section level3">
 <h3 class="hasAnchor">
-<a href="#raw-sources-10" class="anchor"></a>Raw Sources</h3>
+<a href="#raw-sources-11" class="anchor"></a>Raw Sources</h3>
 <p>covidcast R package: <a href="https://cmu-delphi.github.io/covidcast/covidcastR/">website</a><br>
 Michigan Disease Surveillance System: <a href="https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html">website</a><br>
 Wisconsin Department of Health Services: <a href="https://data.dhsgis.wi.gov/datasets/covid-19-historical-data-by-county/data?orderBy=DATE&amp;orderByAsc=false">website</a><br>
 Illinois Department of Public Health: <a href="http://www.dph.illinois.gov/countymetrics?county=Adams">website</a><br>
 Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset?q=COVID">website</a></p>
 </div>
-<div id="notes-10" class="section level3">
+<div id="notes-11" class="section level3">
 <h3 class="hasAnchor">
-<a href="#notes-10" class="anchor"></a>Notes</h3>
+<a href="#notes-11" class="anchor"></a>Notes</h3>
 <p>The missing values for <code>pos_rate</code> are partly because this dataset has a row for every day and the positivity rate is calculated every week. The other missing values are for Cincinnati, Louisville, and Evansville. At the time this dashboard was created, those states with counties included in those areas didn’t publicly release the necessary data to calcuate their positivity rates.</p>
 <p>Other variables:<br>
 - <code>date</code>: yyyy-mm-dd format; date for daily <code>cases_100k</code><br>
@@ -1289,14 +1376,14 @@ Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset?q=COVID">website</a></
 <div id="historical-daily-values-of-delphi-research-groups-combined-indicator-for-indiana" class="section level2">
 <h2 class="hasAnchor">
 <a href="#historical-daily-values-of-delphi-research-groups-combined-indicator-for-indiana" class="anchor"></a>Historical Daily Values of Delphi Research Groups Combined Indicator for Indiana</h2>
-<div id="description-11" class="section level3">
+<div id="description-12" class="section level3">
 <h3 class="hasAnchor">
-<a href="#description-11" class="anchor"></a>Description</h3>
+<a href="#description-12" class="anchor"></a>Description</h3>
 <p>Processed data for the <a href="https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard">Indiana COVIDcast Dashboard</a> that shows historic daily values of Delphi Research Group’s Combined Indicator for each methropolitan statistical area.</p>
 </div>
-<div id="dataset-11" class="section level3">
+<div id="dataset-12" class="section level3">
 <h3 class="hasAnchor">
-<a href="#dataset-11" class="anchor"></a>Dataset</h3>
+<a href="#dataset-12" class="anchor"></a>Dataset</h3>
 <p><a href="https://ercbk.github.io/indianacovid19data/reference/dash_ci_line.html">dash_ci_line</a></p>
 </div>
 <div id="scripts-1" class="section level3">
@@ -1304,14 +1391,14 @@ Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset?q=COVID">website</a></
 <a href="#scripts-1" class="anchor"></a>Scripts</h3>
 <p>Processing: <a href="https://github.com/ercbk/Indiana-COVIDcast-Dashboard/blob/master/R/process-dashboard-data.R">process-dashboard-data.R</a></p>
 </div>
-<div id="raw-sources-11" class="section level3">
+<div id="raw-sources-12" class="section level3">
 <h3 class="hasAnchor">
-<a href="#raw-sources-11" class="anchor"></a>Raw Sources</h3>
+<a href="#raw-sources-12" class="anchor"></a>Raw Sources</h3>
 <p>covidcast R package: <a href="https://cmu-delphi.github.io/covidcast/covidcastR/">website</a></p>
 </div>
-<div id="notes-11" class="section level3">
+<div id="notes-12" class="section level3">
 <h3 class="hasAnchor">
-<a href="#notes-11" class="anchor"></a>Notes</h3>
+<a href="#notes-12" class="anchor"></a>Notes</h3>
 <p>Other variables:<br>
 - <code>time_value</code>: yyyy-mm-dd format; Daily<br></p>
 <table class="table">
@@ -1426,14 +1513,14 @@ Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset?q=COVID">website</a></
 <div id="historical-weekly-covid-19-statistics-and-counts-for-illinois-counties" class="section level2">
 <h2 class="hasAnchor">
 <a href="#historical-weekly-covid-19-statistics-and-counts-for-illinois-counties" class="anchor"></a>Historical Weekly COVID-19 Statistics and Counts for Illinois Counties</h2>
-<div id="description-12" class="section level3">
+<div id="description-13" class="section level3">
 <h3 class="hasAnchor">
-<a href="#description-12" class="anchor"></a>Description</h3>
+<a href="#description-13" class="anchor"></a>Description</h3>
 <p>Raw data for the <a href="https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard">Indiana COVIDcast Dashboard</a> that shows various weekly COVID-19 county statistics for Illinois</p>
 </div>
-<div id="dataset-12" class="section level3">
+<div id="dataset-13" class="section level3">
 <h3 class="hasAnchor">
-<a href="#dataset-12" class="anchor"></a>Dataset</h3>
+<a href="#dataset-13" class="anchor"></a>Dataset</h3>
 <p><a href="https://ercbk.github.io/indianacovid19data/reference/illinois_tests_complete.html">illinois_tests_complete</a></p>
 </div>
 <div id="scripts-2" class="section level3">
@@ -1441,14 +1528,14 @@ Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset?q=COVID">website</a></
 <a href="#scripts-2" class="anchor"></a>Scripts</h3>
 <p>Collection: <a href="https://github.com/ercbk/Indiana-COVIDcast-Dashboard/blob/master/R/build-regional-dat.R">build-regional-dat.R</a></p>
 </div>
-<div id="raw-sources-12" class="section level3">
+<div id="raw-sources-13" class="section level3">
 <h3 class="hasAnchor">
-<a href="#raw-sources-12" class="anchor"></a>Raw Sources</h3>
+<a href="#raw-sources-13" class="anchor"></a>Raw Sources</h3>
 <p>Illinois Department of Public Health: <a href="http://www.dph.illinois.gov/countymetrics?county=Adams">website</a></p>
 </div>
-<div id="notes-12" class="section level3">
+<div id="notes-13" class="section level3">
 <h3 class="hasAnchor">
-<a href="#notes-12" class="anchor"></a>Notes</h3>
+<a href="#notes-13" class="anchor"></a>Notes</h3>
 <p>These data are published in weekly intervals into a HTML table then scraped and collected.</p>
 <p>Other variables:<br>
 - <code>week</code>: int; week of the year<br>
@@ -1496,14 +1583,14 @@ Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset?q=COVID">website</a></
 <div id="historical-daily-covid-19-test-results-for-indiana-counties" class="section level2">
 <h2 class="hasAnchor">
 <a href="#historical-daily-covid-19-test-results-for-indiana-counties" class="anchor"></a>Historical Daily COVID-19 Test Results for Indiana Counties</h2>
-<div id="description-13" class="section level3">
+<div id="description-14" class="section level3">
 <h3 class="hasAnchor">
-<a href="#description-13" class="anchor"></a>Description</h3>
+<a href="#description-14" class="anchor"></a>Description</h3>
 <p>Raw data for the <a href="https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard">Indiana COVIDcast Dashboard</a> that shows daily COVID-19 county test results for Indiana</p>
 </div>
-<div id="dataset-13" class="section level3">
+<div id="dataset-14" class="section level3">
 <h3 class="hasAnchor">
-<a href="#dataset-13" class="anchor"></a>Dataset</h3>
+<a href="#dataset-14" class="anchor"></a>Dataset</h3>
 <p><a href="https://ercbk.github.io/indianacovid19data/reference/ind_tests_complete.html">ind_tests_complete</a></p>
 </div>
 <div id="scripts-3" class="section level3">
@@ -1511,14 +1598,14 @@ Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset?q=COVID">website</a></
 <a href="#scripts-3" class="anchor"></a>Scripts</h3>
 <p>Collection: <a href="https://github.com/ercbk/Indiana-COVIDcast-Dashboard/blob/master/R/build-regional-dat.R">build-regional-dat.R</a></p>
 </div>
-<div id="raw-sources-13" class="section level3">
+<div id="raw-sources-14" class="section level3">
 <h3 class="hasAnchor">
-<a href="#raw-sources-13" class="anchor"></a>Raw Sources</h3>
+<a href="#raw-sources-14" class="anchor"></a>Raw Sources</h3>
 <p>Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset/covid-19-county-wide-test-case-and-death-trends">COVID-19 COUNTY-WIDE TEST, CASE, AND DEATH TRENDS</a></p>
 </div>
-<div id="notes-13" class="section level3">
+<div id="notes-14" class="section level3">
 <h3 class="hasAnchor">
-<a href="#notes-13" class="anchor"></a>Notes</h3>
+<a href="#notes-14" class="anchor"></a>Notes</h3>
 <p>Other variables:<br>
 - <code>date</code>: yyyy-mm-dd format; Daily<br>
 - <code>county</code>: County name<br></p>
@@ -1559,14 +1646,14 @@ Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset?q=COVID">website</a></
 <div id="historical-daily-covid-19-test-results-for-michigan-counties" class="section level2">
 <h2 class="hasAnchor">
 <a href="#historical-daily-covid-19-test-results-for-michigan-counties" class="anchor"></a>Historical Daily COVID-19 Test Results for Michigan Counties</h2>
-<div id="description-14" class="section level3">
+<div id="description-15" class="section level3">
 <h3 class="hasAnchor">
-<a href="#description-14" class="anchor"></a>Description</h3>
+<a href="#description-15" class="anchor"></a>Description</h3>
 <p>Raw data for the <a href="https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard">Indiana COVIDcast Dashboard</a> that shows daily COVID-19 county test results for Michigan</p>
 </div>
-<div id="dataset-14" class="section level3">
+<div id="dataset-15" class="section level3">
 <h3 class="hasAnchor">
-<a href="#dataset-14" class="anchor"></a>Dataset</h3>
+<a href="#dataset-15" class="anchor"></a>Dataset</h3>
 <p><a href="https://ercbk.github.io/indianacovid19data/reference/mich_tests_complete.html">mich_tests_complete</a></p>
 </div>
 <div id="scripts-4" class="section level3">
@@ -1574,14 +1661,14 @@ Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset?q=COVID">website</a></
 <a href="#scripts-4" class="anchor"></a>Scripts</h3>
 <p>Collection: <a href="https://github.com/ercbk/Indiana-COVIDcast-Dashboard/blob/master/R/build-regional-dat.R">build-regional-dat.R</a></p>
 </div>
-<div id="raw-sources-14" class="section level3">
+<div id="raw-sources-15" class="section level3">
 <h3 class="hasAnchor">
-<a href="#raw-sources-14" class="anchor"></a>Raw Sources</h3>
+<a href="#raw-sources-15" class="anchor"></a>Raw Sources</h3>
 <p>Michigan Department of Health and Human Services: <a href="https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html">COVID-19 Tests by County</a></p>
 </div>
-<div id="notes-14" class="section level3">
+<div id="notes-15" class="section level3">
 <h3 class="hasAnchor">
-<a href="#notes-14" class="anchor"></a>Notes</h3>
+<a href="#notes-15" class="anchor"></a>Notes</h3>
 <p>Other variables:<br>
 - <code>date</code>: yyyy-mm-dd format; Daily<br>
 - <code>county</code>: County name<br></p>
@@ -1624,17 +1711,119 @@ Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset?q=COVID">website</a></
 <p><br><br><br></p>
 </div>
 </div>
+<div id="opentable-year-over-year-seated-diners-for-regional-states" class="section level2">
+<h2 class="hasAnchor">
+<a href="#opentable-year-over-year-seated-diners-for-regional-states" class="anchor"></a>OpenTable Year-Over-Year Seated Diners for Regional States</h2>
+<div id="description-16" class="section level3">
+<h3 class="hasAnchor">
+<a href="#description-16" class="anchor"></a>Description</h3>
+<p>Processed data for the OpenTable Year-Over-Year Seated Diners <a href="https://ercbk.github.io/Indiana-COVID-19-Website/static.html#OpenTable_Year-Over-Year_Seated_Diners_">line charts</a> that shows reservation data from a sample of restaurants across Indiana and other regional states. Each data point is the median daily percent difference in seated diners from 2019 to either 2020 or 2021 depending on the date.</p>
+</div>
+<div id="dataset-16" class="section level3">
+<h3 class="hasAnchor">
+<a href="#dataset-16" class="anchor"></a>Dataset</h3>
+<p><a href="https://ercbk.github.io/indianacovid19data/reference/open_tab_reg.html">open_tab_reg</a></p>
+</div>
+<div id="script-11" class="section level3">
+<h3 class="hasAnchor">
+<a href="#script-11" class="anchor"></a>Script</h3>
+<p>Static-Charts: <a href="https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/static-charts/opentab-rest-line.R">opentab-rest-line.R</a></p>
+</div>
+<div id="raw-sources-16" class="section level3">
+<h3 class="hasAnchor">
+<a href="#raw-sources-16" class="anchor"></a>Raw Sources</h3>
+<p>OpenTable: <a href="https://www.opentable.com/state-of-industry">State of the Industry</a></p>
+</div>
+<div id="notes-16" class="section level3">
+<h3 class="hasAnchor">
+<a href="#notes-16" class="anchor"></a>Notes</h3>
+<p>Other variables:<br>
+- <code>date</code>: yyyymmdd format<br><br></p>
+<table class="table">
+<colgroup>
+<col>
+<col style="width:150px;">
+<col>
+</colgroup>
+<thead style="border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;"><tr>
+<th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: left;" rowspan="1" colspan="1">Variable</th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: left;" rowspan="1" colspan="1">
+<strong>N = 2,244</strong><sup style="font-style: italic; font-size: 65%;">1</sup>
+</th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: left;" rowspan="1" colspan="1">Definition</th>
+    </tr></thead>
+<tbody style="border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3;">
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">Name</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;"></td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">State</td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left; text-align: left; text-indent: 10px;">Illinois</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">374 (17%)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;"></td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left; text-align: left; text-indent: 10px;">Indiana</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">374 (17%)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;"></td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left; text-align: left; text-indent: 10px;">Kentucky</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">374 (17%)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;"></td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left; text-align: left; text-indent: 10px;">Michigan</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">374 (17%)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;"></td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left; text-align: left; text-indent: 10px;">Missouri</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">374 (17%)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;"></td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left; text-align: left; text-indent: 10px;">Ohio</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">374 (17%)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;"></td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">pct_diff</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">-0.54 (-0.83, -0.37)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">Median daily percent difference in seated diners for each state</td>
+    </tr>
+<tr>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">weekend</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">636 (28%)</td>
+      <td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">TRUE/FALSE binary for whether the date is on a weekend or not</td>
+    </tr>
+</tbody>
+<tfoot><tr style="color: #333333; background-color: #FFFFFF; border-bottom-style: none; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3;">
+<td colspan="3">
+        <p style="margin: 0px; font-size: 90%; padding: 4px;">
+          <sup style="font-style: italic; font-size: 65%;"><em>1</em>
+          </sup>
+           
+          n (%); Median (IQR)
+          <br></p>
+      </td>
+    </tr></tfoot>
+</table>
+<p><br><br><br></p>
+</div>
+</div>
 <div id="historical-daily-covid-19-test-results-for-wisconsin-counties" class="section level2">
 <h2 class="hasAnchor">
 <a href="#historical-daily-covid-19-test-results-for-wisconsin-counties" class="anchor"></a>Historical Daily COVID-19 Test Results for Wisconsin Counties</h2>
-<div id="description-15" class="section level3">
+<div id="description-17" class="section level3">
 <h3 class="hasAnchor">
-<a href="#description-15" class="anchor"></a>Description</h3>
+<a href="#description-17" class="anchor"></a>Description</h3>
 <p>Raw data for the <a href="https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard">Indiana COVIDcast Dashboard</a> that shows daily COVID-19 county test results for Wisconsin</p>
 </div>
-<div id="dataset-15" class="section level3">
+<div id="dataset-17" class="section level3">
 <h3 class="hasAnchor">
-<a href="#dataset-15" class="anchor"></a>Dataset</h3>
+<a href="#dataset-17" class="anchor"></a>Dataset</h3>
 <p><a href="https://ercbk.github.io/indianacovid19data/reference/wisc_tests_complete.html">wisc_tests_complete</a></p>
 </div>
 <div id="scripts-5" class="section level3">
@@ -1642,14 +1831,14 @@ Indiana Data Hub: <a href="https://hub.mph.in.gov/dataset?q=COVID">website</a></
 <a href="#scripts-5" class="anchor"></a>Scripts</h3>
 <p>Collection: <a href="https://github.com/ercbk/Indiana-COVIDcast-Dashboard/blob/master/R/build-regional-dat.R">build-regional-dat.R</a></p>
 </div>
-<div id="raw-sources-15" class="section level3">
+<div id="raw-sources-17" class="section level3">
 <h3 class="hasAnchor">
-<a href="#raw-sources-15" class="anchor"></a>Raw Sources</h3>
+<a href="#raw-sources-17" class="anchor"></a>Raw Sources</h3>
 <p>Wisconsin Department of Health Services: <a href="https://data.dhsgis.wi.gov/datasets/covid-19-historical-data-by-county/data?orderBy=DATE&amp;orderByAsc=false">COVID-19 Historical Data by County</a></p>
 </div>
-<div id="notes-15" class="section level3">
+<div id="notes-17" class="section level3">
 <h3 class="hasAnchor">
-<a href="#notes-15" class="anchor"></a>Notes</h3>
+<a href="#notes-17" class="anchor"></a>Notes</h3>
 <p>Other variables:<br>
 - <code>date</code>: yyyy-mm-dd format; Daily<br>
 - <code>county</code>: County name<br></p>

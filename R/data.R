@@ -43,6 +43,17 @@
 "beds_vents_complete"
 
 
+#' Historical Google Maps Mobility Indices for Indiana
+#'
+#' Processed data for the Google Maps Mobility Indices [line chart](https://ercbk.github.io/Indiana-COVID-19-Website/static.html#Google_Maps_Mobility_Indices) that shows percent differences from a mobility baseline that was calculated during the 5-week period Jan 3 – Feb 6, 2020. These percent changes show how lengths-of-stay at different locations have changed from pre-pandemic conditions.
+#'
+#' @details Data Dictionary [entry](https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#historical-google-maps-mobility-indices-for-indiana-1)
+#'
+#' @examples
+#' head(goog_mob_ind)
+"goog_mob_ind"
+
+
 #' Historical State Hospital Staff Shortages, Hospital Mortality Rate, Hospital Admissions and Ages Skewness of Admissions for Indiana
 #'
 #' Processed data for Hospitals [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#state-hospital-mortality-staffing-shortages-admissions) that shows state hospital staff shortages, hospital mortality rate, hospital admissions, and age skewness of hospital admissions towards older patients.
@@ -162,6 +173,17 @@
 #' @examples
 #' head(mich_tests_complete)
 "mich_tests_complete"
+
+
+#' OpenTable Year-Over-Year Seated Diners for Regional States
+#'
+#' Processed data for the OpenTable Year-Over-Year Seated Diners [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/static.html#OpenTable_Year-Over-Year_Seated_Diners_) that shows reservation data from a sample of restaurants across Indiana and other regional states. Each data point is the median daily percent difference in seated diners from 2019 to either 2020 or 2021 depending on the date.
+#'
+#' @details Data Dictionary [entry](https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#openTable-year-over-year-seated-diners-for-regional-states-1)
+#'
+#' @examples
+#' head(open_tab_reg)
+"open_tab_reg"
 
 
 #' Historical Daily COVID-19 Test Results for Wisconsin Counties
