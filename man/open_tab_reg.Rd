@@ -14,7 +14,7 @@ open_tab_reg
 Processed data for the OpenTable Year-Over-Year Seated Diners \href{https://ercbk.github.io/Indiana-COVID-19-Website/static.html#OpenTable_Year-Over-Year_Seated_Diners_}{line charts} that shows reservation data from a sample of restaurants across Indiana and other regional states. Each data point is the median daily percent difference in seated diners from 2019 to either 2020 or 2021 depending on the date.
 }
 \details{
-Data Dictionary \href{https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#openTable-year-over-year-seated-diners-for-regional-states-1}{entry}
+Data Dictionary \href{https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#opentable-year-over-year-seated-diners-for-regional-states-1}{entry}
 }
 \examples{
 head(open_tab_reg)
