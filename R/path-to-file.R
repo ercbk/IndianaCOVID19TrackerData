@@ -7,7 +7,7 @@
 #'
 #' @param path Name of file in quotes with extension. If `NULL`, the available files will be listed.
 #'
-#' @source The function is the same as [palmerpenguins::path_to_file()] with a few edits.
+#' @source The function is similar to [palmerpenguins::path_to_file()] with a few edits.
 #'
 #' @export
 #' @examples

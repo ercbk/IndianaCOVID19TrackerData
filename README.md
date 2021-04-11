@@ -4,6 +4,8 @@
 # indianacovid19data
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/ercbk/indianacovid19data/workflows/R-CMD-check/badge.svg)](https://github.com/ercbk/indianacovid19data/actions)
 <!-- badges: end -->
 
 This R package provides access to most of the processed and raw datasets
@@ -16,8 +18,8 @@ Visualizations created using this data can be seen at the
 
 ## Installation
 
-You can install the latest version of indianacovid19data from
-Github with:
+You can install the latest version of indianacovid19data from Github
+with:
 
 ``` r
 # install.packages("remotes")

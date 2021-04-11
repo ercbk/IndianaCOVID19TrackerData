@@ -106,7 +106,8 @@ Other variables:
 
 ```{r, asis=TRUE}
 
-adl_var_defs <- c("Age group",
+adl_var_defs <- c("Date of the last day of the weekly interval",
+                  "Age group",
                   "",
                   "",
                   "",
@@ -122,7 +123,7 @@ adl_var_defs <- c("Age group",
 tbl_summary(age_death_line,
             missing = "ifany",
             missing_text = "Missing",
-            include = c(agegrp, weekly_total)) %>% 
+            include = c(end_date, agegrp, weekly_total)) %>% 
   modify_header(update = list(
     label ~ 'Variable')) %>% 
   modify_table_body(dplyr::mutate, defs = adl_var_defs) %>% 
