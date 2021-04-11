@@ -4,7 +4,7 @@
 \alias{path_to_file}
 \title{Get file path to .csv files}
 \source{
-The function is the same as \code{\link[palmerpenguins:path_to_file]{palmerpenguins::path_to_file()}} with a few edits.
+The function is similar to \code{\link[palmerpenguins:path_to_file]{palmerpenguins::path_to_file()}} with a few edits.
 }
 \usage{
 path_to_file(path = NULL)
