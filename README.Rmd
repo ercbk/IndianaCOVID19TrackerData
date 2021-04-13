@@ -11,6 +11,7 @@ knitr::opts_chunk$set(
   fig.path = "man/figures/README-",
   out.width = "100%"
 )
+library(indianacovid19data)
 ```
 
 # indianacovid19data
@@ -28,5 +29,16 @@ You can install the latest version of indianacovid19data from Github with:
 ``` r
 # install.packages("remotes")
 remotes::install_github("ercbk/indianacovid19data")
+```
+
+## File path to .csv format  
+indianacovid19data has csv file types for all its datasets in the `inst/extdata` directory.  
+```{r}
+path_to_file("hosp_msas_line.csv")
+```
+
+If the name argument is NULL, then a list of the available files in .csv format is returned
+```{r}
+path_to_file()
 ```
 
