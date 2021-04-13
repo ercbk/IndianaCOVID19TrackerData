@@ -15,6 +15,8 @@ and
 [Indiana-COVIDcast-Dashboard](https://github.com/ercbk/Indiana-COVIDcast-Dashboard).
 Visualizations created using this data can be seen at the
 [website](https://ercbk.github.io/Indiana-COVID-19-Website/static.html).
+While most of the data in this package relates to Indiana, there are
+datasets for Illinois, Michigan, and Wisconsin as well.
 
 ## Installation
 

@@ -20,7 +20,7 @@ library(indianacovid19data)
 [![R-CMD-check](https://github.com/ercbk/indianacovid19data/workflows/R-CMD-check/badge.svg)](https://github.com/ercbk/indianacovid19data/actions)
 <!-- badges: end -->
 
-This R package provides access to most of the processed and raw datasets from [Indiana-COVID-19-Tracker](https://github.com/ercbk/Indiana-COVID-19-Tracker) and [Indiana-COVIDcast-Dashboard](https://github.com/ercbk/Indiana-COVIDcast-Dashboard). Visualizations created using this data can be seen at the [website](https://ercbk.github.io/Indiana-COVID-19-Website/static.html).
+This R package provides access to most of the processed and raw datasets from [Indiana-COVID-19-Tracker](https://github.com/ercbk/Indiana-COVID-19-Tracker) and [Indiana-COVIDcast-Dashboard](https://github.com/ercbk/Indiana-COVIDcast-Dashboard). Visualizations created using this data can be seen at the [website](https://ercbk.github.io/Indiana-COVID-19-Website/static.html). While most of the data in this package relates to Indiana, there are datasets for Illinois, Michigan, and Wisconsin as well.  
 
 ## Installation
 
