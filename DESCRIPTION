@@ -1,6 +1,7 @@
 Package: indianacovid19data
-Title: Indiana COVID-19 Tracker Project Data
-Version: 0.0.0.9000
+Title: indianacovid19data: COVID-19 data for Indiana
+Version: 1.0
+Date: 2021-04-13
 Authors@R: 
     person(given = "Eric",
            family = "Book",
@@ -12,7 +13,7 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
-URL: https://github.com/ercbk/indianacovid19data
+URL: https://ercbk.github.io/indianacovid19data/, https://github.com/ercbk/indianacovid19data
 BugReports: https://github.com/ercbk/indianacovid19data/issues
 Depends: 
     R (>= 2.10)

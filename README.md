@@ -54,3 +54,29 @@ path_to_file()
 #> [15] "mort_hosp_line.csv"                "msa_cases100_posrate_historic.csv"
 #> [17] "open_tab_reg.csv"                  "wisc_tests_complete.csv"
 ```
+
+## Citation
+
+To cite the indianacovid19data package, please use:
+
+``` r
+citation("indianacovid19data")
+#> 
+#> To cite indianacovid19data in publications use:
+#> 
+#>   Eric Book. (2021, April 13). indianacovid19data: COVID-19 data for
+#>   Indiana. R package version v1.0.
+#>   https://ercbk.github.io/indianacovid19data/.  doi:
+#>   10.5281/zenodo.4685381.
+#> 
+#> A BibTeX entry for LaTeX users is
+#> 
+#>   @Manual{,
+#>     title = {indianacovid19data: COVID-19 data for Indiana},
+#>     author = {Eric Book},
+#>     year = {2021},
+#>     note = {R package version v1.0},
+#>     doi = {10.5281/zenodo.4685381},
+#>     url = {https://ercbk.github.io/indianacovid19data/},
+#>   }
+```
