@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/ercbk/indianacovid19data/workflows/R-CMD-check/badge.svg)](https://github.com/ercbk/indianacovid19data/actions)
+[![DOI](https://zenodo.org/badge/347752486.svg)](https://zenodo.org/badge/latestdoi/347752486)
 <!-- badges: end -->
 
 This R package provides access to most of the processed and raw datasets
