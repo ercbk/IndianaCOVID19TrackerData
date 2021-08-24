@@ -92,7 +92,7 @@
       <ul class="nav navbar-nav">
         <li>
   <a href="../index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
   </a>
 </li>
@@ -137,23 +137,23 @@
 
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
-    <p>An object of class <code>spec_tbl_df</code> (inherits from <code>tbl_df</code>, <code>tbl</code>, <code>data.frame</code>) with 2304 rows and 8 columns.</p>
+    <p>An object of class <code>spec_tbl_df</code> (inherits from <code>tbl_df</code>, <code>tbl</code>, <code>data.frame</code>) with 3302 rows and 8 columns.</p>
     <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
 
     <p>Data Dictionary <a href='https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#historical-daily-tests-cases-and-deaths-by-age-for-indiana-1'>entry</a></p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
     <pre class="examples"><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>ind_age_complete</span><span class='op'>)</span>
-</div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 6 x 8</span><span>
+</div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 6 × 8</span>
 #&gt;   date       agegrp covid_count covid_deaths covid_test covid_count_pct
-#&gt;   </span><span style='color: #949494;font-style: italic;'>&lt;date&gt;</span><span>     </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>        </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>        </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>      </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>           </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>
-#&gt; </span><span style='color: #BCBCBC;'>1</span><span> 2020-06-20 0-19          </span><span style='text-decoration: underline;'>2</span><span>524            2      </span><span style='text-decoration: underline;'>27</span><span>001             6  
-#&gt; </span><span style='color: #BCBCBC;'>2</span><span> 2020-06-20 20-29         </span><span style='text-decoration: underline;'>6</span><span>317            5      </span><span style='text-decoration: underline;'>57</span><span>760            15.0
-#&gt; </span><span style='color: #BCBCBC;'>3</span><span> 2020-06-20 30-39         </span><span style='text-decoration: underline;'>6</span><span>842           16      </span><span style='text-decoration: underline;'>62</span><span>528            16.3
-#&gt; </span><span style='color: #BCBCBC;'>4</span><span> 2020-06-20 40-49         </span><span style='text-decoration: underline;'>7</span><span>162           44      </span><span style='text-decoration: underline;'>62</span><span>498            17.0
-#&gt; </span><span style='color: #BCBCBC;'>5</span><span> 2020-06-20 50-59         </span><span style='text-decoration: underline;'>6</span><span>758          121      </span><span style='text-decoration: underline;'>67</span><span>602            16.1
-#&gt; </span><span style='color: #BCBCBC;'>6</span><span> 2020-06-20 60-69         </span><span style='text-decoration: underline;'>5</span><span>203          385      </span><span style='text-decoration: underline;'>59</span><span>725            12.4
-#&gt; </span><span style='color: #949494;'># … with 2 more variables: covid_deaths_pct &lt;dbl&gt;, covid_test_pct &lt;dbl&gt;</span><span></div></span></pre>
+#&gt;   <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>        <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span>        <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span>      <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span>           <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span>
+#&gt; <span style='color: #BCBCBC;'>1</span> 2020-06-20 0-19          <span style='text-decoration: underline;'>2</span>524            2      <span style='text-decoration: underline;'>27</span>001             6  
+#&gt; <span style='color: #BCBCBC;'>2</span> 2020-06-20 20-29         <span style='text-decoration: underline;'>6</span>317            5      <span style='text-decoration: underline;'>57</span>760            15.0
+#&gt; <span style='color: #BCBCBC;'>3</span> 2020-06-20 30-39         <span style='text-decoration: underline;'>6</span>842           16      <span style='text-decoration: underline;'>62</span>528            16.3
+#&gt; <span style='color: #BCBCBC;'>4</span> 2020-06-20 40-49         <span style='text-decoration: underline;'>7</span>162           44      <span style='text-decoration: underline;'>62</span>498            17.0
+#&gt; <span style='color: #BCBCBC;'>5</span> 2020-06-20 50-59         <span style='text-decoration: underline;'>6</span>758          121      <span style='text-decoration: underline;'>67</span>602            16.1
+#&gt; <span style='color: #BCBCBC;'>6</span> 2020-06-20 60-69         <span style='text-decoration: underline;'>5</span>203          385      <span style='text-decoration: underline;'>59</span>725            12.4
+#&gt; <span style='color: #949494;'># … with 2 more variables: covid_deaths_pct &lt;dbl&gt;, covid_test_pct &lt;dbl&gt;</span></div></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">
