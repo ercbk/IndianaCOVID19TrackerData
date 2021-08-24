@@ -5,7 +5,7 @@
 \alias{ind_age_complete}
 \title{Historical Daily Tests, Cases and Deaths by Age for Indiana}
 \format{
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 2304 rows and 8 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 3302 rows and 8 columns.
 }
 \usage{
 ind_age_complete

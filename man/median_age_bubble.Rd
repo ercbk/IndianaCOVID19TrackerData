@@ -5,7 +5,7 @@
 \alias{median_age_bubble}
 \title{Historical Weekly Median Age of Cases, Weekly Tests and Deaths for Indiana}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 51 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 74 rows and 4 columns.
 }
 \usage{
 median_age_bubble

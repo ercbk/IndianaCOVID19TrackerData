@@ -5,7 +5,7 @@
 \alias{dash_ci_line}
 \title{Historical Daily Values of Delphi Research Groups Combined Indicator for Indiana}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 4425 rows and 3 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 4485 rows and 3 columns.
 }
 \usage{
 dash_ci_line

@@ -1739,6 +1739,8 @@ Michigan City-La Porte,2020-08-11,0.67
 Muncie,2020-08-11,0.76
 South Bend-Mishawaka,2020-08-11,1.1
 Terre Haute,2020-08-11,1.29
+<<<<<<< HEAD,,
+=======,,
 Bloomington,2020-08-12,1.34
 Cincinnati,2020-08-12,1.1
 Columbus,2020-08-12,0.84
@@ -1769,6 +1771,7 @@ Michigan City-La Porte,2020-08-13,0.74
 Muncie,2020-08-13,0.75
 South Bend-Mishawaka,2020-08-13,0.79
 Terre Haute,2020-08-13,1.11
+>>>>>>> 113d96e638fcac35d736d138e77e8b5d47d9a407,,
 Bloomington,2020-08-14,1.06
 Cincinnati,2020-08-14,1.08
 Columbus,2020-08-14,0.75
@@ -4424,3 +4427,63 @@ Michigan City-La Porte,2021-03-12,0.45
 Muncie,2021-03-12,0.65
 South Bend-Mishawaka,2021-03-12,0.44
 Terre Haute,2021-03-12,0.31
+Bloomington,2021-03-13,0.48
+Cincinnati,2021-03-13,0.44
+Columbus,2021-03-13,0.32
+Fort Wayne,2021-03-13,0.45
+Elkhart-Goshen,2021-03-13,0.34
+Evansville,2021-03-13,0.48
+Chicago-Naperville-Elgin,2021-03-13,0.4
+Indianapolis-Carmel-Anderson,2021-03-13,0.4
+Kokomo,2021-03-13,0.36
+Lafayette-West Lafayette,2021-03-13,0.52
+Louisville/Jefferson County,2021-03-13,0.25
+Michigan City-La Porte,2021-03-13,0.5
+Muncie,2021-03-13,0.7
+South Bend-Mishawaka,2021-03-13,0.45
+Terre Haute,2021-03-13,0.3
+Bloomington,2021-03-14,0.49
+Cincinnati,2021-03-14,0.44
+Columbus,2021-03-14,0.31
+Fort Wayne,2021-03-14,0.52
+Elkhart-Goshen,2021-03-14,0.66
+Evansville,2021-03-14,0.53
+Chicago-Naperville-Elgin,2021-03-14,0.42
+Indianapolis-Carmel-Anderson,2021-03-14,0.41
+Kokomo,2021-03-14,0.36
+Lafayette-West Lafayette,2021-03-14,0.54
+Louisville/Jefferson County,2021-03-14,0.24
+Michigan City-La Porte,2021-03-14,0.48
+Muncie,2021-03-14,0.7
+South Bend-Mishawaka,2021-03-14,0.43
+Terre Haute,2021-03-14,0.3
+Bloomington,2021-03-15,0.51
+Cincinnati,2021-03-15,0.44
+Columbus,2021-03-15,0.35
+Fort Wayne,2021-03-15,0.55
+Elkhart-Goshen,2021-03-15,0.69
+Evansville,2021-03-15,0.46
+Chicago-Naperville-Elgin,2021-03-15,0.41
+Indianapolis-Carmel-Anderson,2021-03-15,0.45
+Kokomo,2021-03-15,0.39
+Lafayette-West Lafayette,2021-03-15,0.53
+Louisville/Jefferson County,2021-03-15,0.26
+Michigan City-La Porte,2021-03-15,0.46
+Muncie,2021-03-15,0.67
+South Bend-Mishawaka,2021-03-15,0.48
+Terre Haute,2021-03-15,0.43
+Bloomington,2021-03-16,0.53
+Cincinnati,2021-03-16,0.45
+Columbus,2021-03-16,0.37
+Fort Wayne,2021-03-16,0.57
+Elkhart-Goshen,2021-03-16,0.84
+Evansville,2021-03-16,0.45
+Chicago-Naperville-Elgin,2021-03-16,0.44
+Indianapolis-Carmel-Anderson,2021-03-16,0.45
+Kokomo,2021-03-16,0.4
+Lafayette-West Lafayette,2021-03-16,0.48
+Louisville/Jefferson County,2021-03-16,0.39
+Michigan City-La Porte,2021-03-16,0.46
+Muncie,2021-03-16,0.28
+South Bend-Mishawaka,2021-03-16,0.44
+Terre Haute,2021-03-16,0.37

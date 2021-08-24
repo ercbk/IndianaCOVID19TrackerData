@@ -5,7 +5,7 @@
 \alias{ind_race_complete}
 \title{Historical Daily Cases and Deaths by Race for Indiana}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 4160 rows and 19 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 4160 rows and 58 columns.
 }
 \usage{
 ind_race_complete

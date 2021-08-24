@@ -5,7 +5,7 @@
 \alias{msa_cases100_posrate_historic}
 \title{Historical Weekly Positivity Rates and Daily Cases per 100,000 Indiana Residents}
 \format{
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 5145 rows and 7 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 7530 rows and 7 columns.
 }
 \usage{
 msa_cases100_posrate_historic

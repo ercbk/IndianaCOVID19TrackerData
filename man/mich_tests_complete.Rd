@@ -5,7 +5,7 @@
 \alias{mich_tests_complete}
 \title{Historical Daily COVID-19 Test Results for Michigan Counties}
 \format{
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 30610 rows and 5 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 44322 rows and 5 columns.
 }
 \usage{
 mich_tests_complete
