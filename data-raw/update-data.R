@@ -146,7 +146,7 @@ if (any(trk_tbl_tests$results)) {
   trk_dat_fails <- trk_tbl_tests %>%
     filter(results == "TRUE") %>%
     pull(name)
-  trk_fail_msg <- glue::glue("Indiana-COVID-19-Tracker dataset(s), {dat_fails}, failed validity")
+  trk_fail_msg <- glue::glue("Indiana-COVID-19-Tracker dataset(s), {trk_dat_fails}, failed validity")
   stop(trk_fail_msg)
 }
 
@@ -239,7 +239,7 @@ if (any(ccast_tbl_tests$results)) {
   ccast_dat_fails <- ccast_tbl_tests %>%
     filter(results == "TRUE") %>%
     pull(name)
-  ccast_fail_msg <- glue::glue("Indiana-COVIDcast-Dashboard data/, {dat_fails}, failed validity")
+  ccast_fail_msg <- glue::glue("Indiana-COVIDcast-Dashboard data/, {ccast_dat_fails}, failed validity")
   stop(ccast_fail_msg)
 }
 
@@ -313,7 +313,7 @@ if (any(ccast_sttbl_tests$results)) {
   ccast_stdat_fails <- ccast_sttbl_tests %>%
     filter(results == "TRUE") %>%
     pull(name)
-  ccast_stfail_msg <- glue::glue("Indiana-COVIDcast-Dashboard data/states/, {dat_fails}, failed validity")
+  ccast_stfail_msg <- glue::glue("Indiana-COVIDcast-Dashboard data/states/, {ccast_stdat_fails}, failed validity")
   stop(ccast_stfail_msg)
 }
 
