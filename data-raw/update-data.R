@@ -29,10 +29,21 @@ get_olddat_stats <- function(dat) {
     summarize(nrows_95_pct = 0.95 * n(), # 0.95 cuz maybe some rows get dropped to correct an error
               ncols_pkgdat = ncol(dat))
 }
+
 get_newdat_stats <- function(dat) {
   dat %>%
     summarize(nrows = n(),
               ncols_newdat = ncol(dat))
+}
+
+read_files <- function(u, e) {
+
+  if (e == ".rds") {
+    f <- readr::read_rds(u)
+  } else {
+    f <- readr::read_csv(u)
+  }
+
 }
 
 
@@ -67,7 +78,7 @@ gc()
 
 
 # d/l dir tree of indiana-covid-19-tracker
-# ** Individual directory urls change as commits are made **
+# ** Individual directory tree urls change as commits are made **
 trk_tree <- httr::GET("https://api.github.com/repos/ercbk/Indiana-COVID-19-Tracker/git/trees/master?recursive=1") %>%
   httr::content()
 
@@ -115,17 +126,6 @@ trk_pkg_files <- map_dfr(trk_dat_names, ~filter(trk_dat_files, str_detect(trk_fi
   mutate(trk_file_urls = paste0("https://raw.githubusercontent.com/ercbk/Indiana-COVID-19-Tracker/master/data/",
                                 trk_files ))
 
-
-read_files <- function(u, e) {
-
-  if (e == ".rds") {
-    f <- readr::read_rds(u)
-  } else {
-    f <- readr::read_csv(u)
-  }
-
-}
-
 # read files into a list
 trk_tbls <- map2(trk_pkg_files$trk_file_urls,
                  trk_pkg_files$trk_exts,
@@ -155,8 +155,11 @@ if (any(trk_tbl_tests$results)) {
 # load each tbl into the global env
 list2env(trk_tbls, envir = .GlobalEnv)
 
-# save tbls as .rda and export to data dir
-walk(trk_dat_names, ~rio::export(.x, paste0("data/", .x, ".rda")))
+# save tbls as .rda and export to data dir, compression and version used by {usethis}
+walk(trk_dat_names, ~rio::export(.x,
+                                 paste0("data/", .x, ".rda"),
+                                 compress = "bzip2",
+                                 version = 2))
 
 
 
@@ -166,8 +169,8 @@ walk(trk_dat_names, ~rio::export(.x, paste0("data/", .x, ".rda")))
 #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
-# d/l dir tree of indiana-covid-19-tracker
-# ** Individual directory urls change as commits are made **
+# d/l dir tree of indiana-covidcast-dashboard
+# ** Individual directory tree urls change as commits are made **
 ccast_tree <- httr::GET("https://api.github.com/repos/ercbk/Indiana-COVIDcast-Dashboard/git/trees/master?recursive=1") %>%
   httr::content()
 
@@ -248,8 +251,11 @@ if (any(ccast_tbl_tests$results)) {
 # load each tbl into the global env
 list2env(ccast_tbls, envir = .GlobalEnv)
 
-# save tbls as .rda and export to data dir
-walk(ccast_dat_names, ~rio::export(.x, paste0("data/", .x, ".rda")))
+# save tbls as .rda and export to data dir, compression and version used by {usethis}
+walk(ccast_dat_names, ~~rio::export(.x,
+                                    paste0("data/", .x, ".rda"),
+                                    compress = "bzip2",
+                                    version = 2))
 
 
 ## data/states/ ----
@@ -322,7 +328,10 @@ if (any(ccast_sttbl_tests$results)) {
 # load each tbl into the global env
 list2env(ccast_sttbls, envir = .GlobalEnv)
 
-# save tbls as .rda and export to data dir
-walk(ccast_stdat_names, ~rio::export(.x, paste0("data/", .x, ".rda")))
+# save tbls as .rda and export to data dir, compression and version used by {usethis}
+walk(ccast_stdat_names, ~rio::export(.x,
+                                     paste0("data/", .x, ".rda"),
+                                     compress = "bzip2",
+                                     version = 2))
 
 
