@@ -9,7 +9,8 @@ import_paths <- fs::dir_ls("data") %>%
   unname()
 
 # file names have a consistent format
-file_names <- purrr::map(import_paths, ~stringr::str_extract(.x, "[a-z]*_[a-z]*_[a-z]*"))
+file_names <- purrr::map(import_paths, ~stringr::str_extract(.x, "[a-z]*_[a-z]*_[a-z]*|[a-z]*_[a-z0-9]*_[a-z]*_[a-z]*"))
+#
 
 # create file paths with new data type
 export_paths <- purrr::map(file_names, ~paste0("inst/extdata/", .x, ".csv"))
