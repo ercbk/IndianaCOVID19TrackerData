@@ -32,5 +32,3 @@ Suggests:
     httr,
     glue
 VignetteBuilder: knitr
-Remotes:  
-    ddsjoberg/gtsummary
