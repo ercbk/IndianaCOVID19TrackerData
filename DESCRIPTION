@@ -29,6 +29,5 @@ Suggests:
     fs,
     readr,
     rio,
-    httr,
     glue
 VignetteBuilder: knitr
