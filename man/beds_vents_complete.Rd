@@ -5,7 +5,7 @@
 \alias{beds_vents_complete}
 \title{Historical Daily ICU Beds and Ventilators for Indiana}
 \format{
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 544 rows and 9 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 546 rows and 9 columns.
 }
 \usage{
 beds_vents_complete
