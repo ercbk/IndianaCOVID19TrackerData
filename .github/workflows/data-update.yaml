@@ -1,0 +1,54 @@
+name: data-update-convert-check
+
+
+on:
+  schedule:
+    # says run at the 40th min, 15th hr UTC (11:49am ET) of every day
+    - cron: '30 17 * * *'
+  #push:
+    #branches:
+      #- dev
+  #pull_request:
+    #branches:
+      #- dev
+
+
+jobs:
+  update-convert-data:
+    runs-on: ubuntu-18.04
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      CRAN_REPO: https://packagemanager.rstudio.com/all/__linux__/bionic/latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+      - uses: r-lib/actions/setup-pandoc@v1
+      - name: Install dependencies
+        run: |
+          cran_repo <- c("CRAN" = Sys.getenv("CRAN_REPO"))
+          install.packages(c("remotes", "rcmdcheck"), repos = cran_repo)
+          remotes::install_deps(dependencies = TRUE, repos = cran_repo)
+        shell: Rscript {0}
+
+      # scripts
+      - name: update-data
+        run: Rscript "data-raw/update-data.R"
+      - name: convert-data
+        run: Rscript "data-raw/convert-rda-to-csv.R"
+
+      # R CMD check
+      - name: Check
+        run: |
+          options(crayon.enabled = TRUE)
+          rcmdcheck::rcmdcheck(args = "--no-manual", error_on = "error")
+        shell: Rscript {0}
+
+      - name: Commit and push files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "data update" || echo "No changes to commit"
+          git pull --rebase
+          git push
+
