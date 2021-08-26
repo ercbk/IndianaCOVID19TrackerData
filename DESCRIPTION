@@ -25,7 +25,12 @@ Suggests:
     gtsummary (>= 1.3.7.9019),
     purrr,
     httr,
-    stringr
+    stringr,
+    fs,
+    readr,
+    rio,
+    httr,
+    glue
 VignetteBuilder: knitr
 Remotes:  
     ddsjoberg/gtsummary
