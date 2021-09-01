@@ -381,6 +381,7 @@ Other variables:
 hrt_var_defs <- c("Last day the data was updated for a particular hospital",
                   "",
                   "",
+                  "",
                   "Proportion of the seven-day average of occupied ICU beds to the seven-day average of available ICU beds.",
                   "",
                   "Proportion of the seven-day average of occupied hospital beds to the seven-day average of available hospital beds.",

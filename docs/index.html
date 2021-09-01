@@ -5,14 +5,14 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Indiana COVID-19 Tracker Project Data • indianacovid19data</title>
+<title>indianacovid19data: COVID-19 data for Indiana • indianacovid19data</title>
 <!-- jquery --><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script><!-- Bootstrap --><link href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.4.0/yeti/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha256-nuL8/2cJ5NDSSwnKD8VqreErSWHtnEP9E7AySL+1ev4=" crossorigin="anonymous"></script><!-- bootstrap-toc --><link rel="stylesheet" href="bootstrap-toc.css">
 <script src="bootstrap-toc.js"></script><!-- Font Awesome icons --><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/v4-shims.min.css" integrity="sha256-wZjR52fzng1pJHwx4aV2AO3yyTOXrcDW7jBpJtTwVxw=" crossorigin="anonymous">
 <!-- clipboard.js --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><!-- headroom.js --><script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/headroom.min.js" integrity="sha256-AsUX4SJE1+yuDu5+mAVzJbuYNPHj/WroHuZ8Ir/CkE0=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.11.0/jQuery.headroom.min.js" integrity="sha256-ZX/yNShbjqsohH1k95liqY9Gd8uOiE1S4vZc+9KQ1K4=" crossorigin="anonymous"></script><!-- pkgdown --><link href="pkgdown.css" rel="stylesheet">
 <script src="pkgdown.js"></script><link href="extra.css" rel="stylesheet">
-<meta property="og:title" content="Indiana COVID-19 Tracker Project Data">
+<meta property="og:title" content="indianacovid19data: COVID-19 data for Indiana">
 <meta property="og:description" content="Provides access to processed data from the Indiana COVID-19 Tracker Project.">
 <!-- mathjax --><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" integrity="sha256-nvJJv9wWKEm88qvoQl9ekL2J+k/RWIsaSScxxlsrv8k=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/config/TeX-AMS-MML_HTMLorMML.js" integrity="sha256-84DKXVJXs0/F8OTMzX4UR909+jtl4G7SPypPavF+GfA=" crossorigin="anonymous"></script><!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -38,7 +38,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="index.html">indianacovid19data</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.0.0.9000</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.0</span>
       </span>
     </div>
 
@@ -46,7 +46,7 @@
       <ul class="nav navbar-nav">
 <li>
   <a href="index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
   </a>
 </li>
@@ -80,8 +80,8 @@
 <div class="page-header"><h1 class="hasAnchor">
 <a href="#indianacovid19data" class="anchor"></a>indianacovid19data</h1></div>
 <!-- badges: start -->
-<!-- badges: end -->
-<p>This R package provides access to most of the processed and raw datasets from <a href="https://github.com/ercbk/Indiana-COVID-19-Tracker">Indiana-COVID-19-Tracker</a> and <a href="https://github.com/ercbk/Indiana-COVIDcast-Dashboard">Indiana-COVIDcast-Dashboard</a>. Visualizations created using this data can be seen at the <a href="https://ercbk.github.io/Indiana-COVID-19-Website/static.html">website</a>.</p>
+
+<p>This R package provides access to most of the processed and raw datasets from <a href="https://github.com/ercbk/Indiana-COVID-19-Tracker">Indiana-COVID-19-Tracker</a> and <a href="https://github.com/ercbk/Indiana-COVIDcast-Dashboard">Indiana-COVIDcast-Dashboard</a>. Visualizations created using this data can be seen at the <a href="https://ercbk.github.io/Indiana-COVID-19-Website/static.html">website</a>. While most of the data in this package relates to Indiana, there are datasets for Illinois, Michigan, and Wisconsin as well.</p>
 <div id="installation" class="section level2">
 <h2 class="hasAnchor">
 <a href="#installation" class="anchor"></a>Installation</h2>
@@ -89,6 +89,51 @@
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="co"># install.packages("remotes")</span>
 <span class="fu">remotes</span><span class="fu">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span><span class="op">(</span><span class="st">"ercbk/indianacovid19data"</span><span class="op">)</span></code></pre></div>
+</div>
+<div id="file-path-to-csv-format" class="section level2">
+<h2 class="hasAnchor">
+<a href="#file-path-to-csv-format" class="anchor"></a>File path to .csv format</h2>
+<p>indianacovid19data has csv file types for all its datasets in the <code>inst/extdata</code> directory.</p>
+<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="fu"><a href="reference/path_to_file.html">path_to_file</a></span><span class="op">(</span><span class="st">"hosp_msas_line.csv"</span><span class="op">)</span>
+<span class="co">#&gt; [1] "C:/Users/ercbk/Documents/R/win-library/4.0/indianacovid19data/extdata/hosp_msas_line.csv"</span></code></pre></div>
+<p>If the name argument is NULL, then a list of the available files in .csv format is returned</p>
+<div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="fu"><a href="reference/path_to_file.html">path_to_file</a></span><span class="op">(</span><span class="op">)</span>
+<span class="co">#&gt;  [1] "age_cases_heat.csv"                "age_death_line.csv"               </span>
+<span class="co">#&gt;  [3] "age_hosp_line.csv"                 "beds_vents_complete.csv"          </span>
+<span class="co">#&gt;  [5] "dash_ci_line.csv"                  "goog_mob_ind.csv"                 </span>
+<span class="co">#&gt;  [7] "hosp_msas_line.csv"                "hosp_react_tab.csv"               </span>
+<span class="co">#&gt;  [9] "illinois_tests_complete.csv"       "ind_age_complete.csv"             </span>
+<span class="co">#&gt; [11] "ind_race_complete.csv"             "ind_tests_complete.csv"           </span>
+<span class="co">#&gt; [13] "median_age_bubble.csv"             "mich_tests_complete.csv"          </span>
+<span class="co">#&gt; [15] "mort_hosp_line.csv"                "msa_cases100_posrate_historic.csv"</span>
+<span class="co">#&gt; [17] "open_tab_reg.csv"                  "wisc_tests_complete.csv"</span></code></pre></div>
+</div>
+<div id="citation" class="section level2">
+<h2 class="hasAnchor">
+<a href="#citation" class="anchor"></a>Citation</h2>
+<p>To cite the indianacovid19data package, please use:</p>
+<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/utils/citation.html">citation</a></span><span class="op">(</span><span class="st">"indianacovid19data"</span><span class="op">)</span>
+<span class="co">#&gt; </span>
+<span class="co">#&gt; To cite indianacovid19data in publications use:</span>
+<span class="co">#&gt; </span>
+<span class="co">#&gt;   Eric Book. (2021, April 13). indianacovid19data: COVID-19 data for</span>
+<span class="co">#&gt;   Indiana. R package version v1.0.</span>
+<span class="co">#&gt;   https://ercbk.github.io/indianacovid19data/.  doi:</span>
+<span class="co">#&gt;   10.5281/zenodo.4685381.</span>
+<span class="co">#&gt; </span>
+<span class="co">#&gt; A BibTeX entry for LaTeX users is</span>
+<span class="co">#&gt; </span>
+<span class="co">#&gt;   @Manual{,</span>
+<span class="co">#&gt;     title = {indianacovid19data: COVID-19 data for Indiana},</span>
+<span class="co">#&gt;     author = {Eric Book},</span>
+<span class="co">#&gt;     year = {2021},</span>
+<span class="co">#&gt;     note = {R package version v1.0},</span>
+<span class="co">#&gt;     doi = {10.5281/zenodo.4685381},</span>
+<span class="co">#&gt;     url = {https://ercbk.github.io/indianacovid19data/},</span>
+<span class="co">#&gt;   }</span></code></pre></div>
 </div>
 </div>
   </div>
@@ -110,6 +155,12 @@
 <li><small><a href="https://opensource.org/licenses/mit-license.php">MIT</a> + file <a href="LICENSE-text.html">LICENSE</a></small></li>
 </ul>
 </div>
+<div class="citation">
+<h2>Citation</h2>
+<ul class="list-unstyled">
+<li><a href="authors.html">Citing indianacovid19data</a></li>
+</ul>
+</div>
 <div class="developers">
 <h2>Developers</h2>
 <ul class="list-unstyled">
@@ -117,7 +168,14 @@
 </ul>
 </div>
 
-  </div>
+  <div class="dev-status">
+<h2>Dev status</h2>
+<ul class="list-unstyled">
+<li><a href="https://github.com/ercbk/indianacovid19data/actions"><img src="https://github.com/ercbk/indianacovid19data/workflows/R-CMD-check/badge.svg" alt="R-CMD-check"></a></li>
+<li><a href="https://zenodo.org/badge/latestdoi/347752486"><img src="https://zenodo.org/badge/347752486.svg" alt="DOI"></a></li>
+</ul>
+</div>
+</div>
 </div>
 
 

@@ -84,7 +84,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">indianacovid19data</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.0.0.9000</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.0</span>
       </span>
     </div>
 
@@ -92,7 +92,7 @@
       <ul class="nav navbar-nav">
         <li>
   <a href="../index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
   </a>
 </li>
@@ -137,23 +137,23 @@
 
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
-    <p>An object of class <code>spec_tbl_df</code> (inherits from <code>tbl_df</code>, <code>tbl</code>, <code>data.frame</code>) with 302 rows and 8 columns.</p>
+    <p>An object of class <code>spec_tbl_df</code> (inherits from <code>tbl_df</code>, <code>tbl</code>, <code>data.frame</code>) with 553 rows and 9 columns.</p>
     <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
 
     <p>Data Dictionary <a href='https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#historical-daily-icu-beds-and-ventilators-for-indiana-1'>entry</a></p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
     <pre class="examples"><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>beds_vents_complete</span><span class='op'>)</span>
-</div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 6 x 8</span><span>
-#&gt;   date       beds_icu_total beds_icu_occupied_c~ beds_available_icu~ vents_total
-#&gt;   </span><span style='color: #949494;font-style: italic;'>&lt;date&gt;</span><span>              </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>                </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>               </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>       </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>
-#&gt; </span><span style='color: #BCBCBC;'>1</span><span> 2020-05-02           </span><span style='text-decoration: underline;'>2</span><span>954                  514                </span><span style='text-decoration: underline;'>1</span><span>273        </span><span style='text-decoration: underline;'>3</span><span>052
-#&gt; </span><span style='color: #BCBCBC;'>2</span><span> 2020-05-06           </span><span style='text-decoration: underline;'>2</span><span>736                  526                </span><span style='text-decoration: underline;'>1</span><span>118        </span><span style='text-decoration: underline;'>3</span><span>091
-#&gt; </span><span style='color: #BCBCBC;'>3</span><span> 2020-05-07           </span><span style='text-decoration: underline;'>2</span><span>763                  487                </span><span style='text-decoration: underline;'>1</span><span>159        </span><span style='text-decoration: underline;'>3</span><span>101
-#&gt; </span><span style='color: #BCBCBC;'>4</span><span> 2020-05-08           </span><span style='text-decoration: underline;'>2</span><span>719                  481                </span><span style='text-decoration: underline;'>1</span><span>085        </span><span style='text-decoration: underline;'>3</span><span>026
-#&gt; </span><span style='color: #BCBCBC;'>5</span><span> 2020-05-09           </span><span style='text-decoration: underline;'>2</span><span>699                  458                </span><span style='text-decoration: underline;'>1</span><span>090        </span><span style='text-decoration: underline;'>3</span><span>064
-#&gt; </span><span style='color: #BCBCBC;'>6</span><span> 2020-05-10           </span><span style='text-decoration: underline;'>2</span><span>675                  462                </span><span style='text-decoration: underline;'>1</span><span>113        </span><span style='text-decoration: underline;'>3</span><span>078
-#&gt; </span><span style='color: #949494;'># ... with 3 more variables: vents_all_use_covid_19 &lt;dbl&gt;,</span><span>
+</div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 6 x 9</span><span>
+#&gt;   date       beds_icu_total beds_icu_occupie~ beds_icu_no_occu~ beds_available_~
+#&gt;   </span><span style='color: #949494;font-style: italic;'>&lt;date&gt;</span><span>              </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>             </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>             </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>            </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>
+#&gt; </span><span style='color: #BCBCBC;'>1</span><span> 2020-02-26              0                 0                 0                0
+#&gt; </span><span style='color: #BCBCBC;'>2</span><span> 2020-02-27              0                 0                 0                0
+#&gt; </span><span style='color: #BCBCBC;'>3</span><span> 2020-02-28              0                 0                 0                0
+#&gt; </span><span style='color: #BCBCBC;'>4</span><span> 2020-02-29              0                 0                 0                0
+#&gt; </span><span style='color: #BCBCBC;'>5</span><span> 2020-03-01              0                 0                 0                0
+#&gt; </span><span style='color: #BCBCBC;'>6</span><span> 2020-03-02              0                 0                 0                0
+#&gt; </span><span style='color: #949494;'># ... with 4 more variables: vents_total &lt;dbl&gt;, vents_all_use_covid_19 &lt;dbl&gt;,</span><span>
 #&gt; </span><span style='color: #949494;'>#   vents_non_covid_pts_on_vents &lt;dbl&gt;,</span><span>
 #&gt; </span><span style='color: #949494;'>#   vents_all_available_vents_not_in_use &lt;dbl&gt;</span><span></div></span></pre>
   </div>

@@ -5,7 +5,7 @@
 \alias{age_death_line}
 \title{Historical Weekly COVID-19 Deaths by Age Group for Indiana}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 600 rows and 5 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 608 rows and 5 columns.
 }
 \usage{
 age_death_line

@@ -84,7 +84,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">indianacovid19data</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.0.0.9000</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">1.0</span>
       </span>
     </div>
 
@@ -92,7 +92,7 @@
       <ul class="nav navbar-nav">
         <li>
   <a href="../index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
   </a>
 </li>
@@ -137,28 +137,40 @@
 
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
-    <p>An object of class <code>tbl_df</code> (inherits from <code>tbl</code>, <code>data.frame</code>) with 4160 rows and 19 columns.</p>
+    <p>An object of class <code>spec_tbl_df</code> (inherits from <code>tbl_df</code>, <code>tbl</code>, <code>data.frame</code>) with 4160 rows and 58 columns.</p>
     <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
 
     <p>Data Dictionary <a href='https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#historical-daily-cases-and-deaths-by-race-for-indiana-1'>entry</a></p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
     <pre class="examples"><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>ind_race_complete</span><span class='op'>)</span>
-</div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 6 x 19</span><span>
-#&gt;   cases_total cases_white cases_black cases_asian cases_other cases_unknown
-#&gt;         </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>       </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>       </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>       </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>       </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>         </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>
-#&gt; </span><span style='color: #BCBCBC;'>1</span><span>       </span><span style='text-decoration: underline;'>41</span><span>013       </span><span style='text-decoration: underline;'>18</span><span>254        </span><span style='text-decoration: underline;'>5</span><span>234         650        </span><span style='text-decoration: underline;'>7</span><span>489          </span><span style='text-decoration: underline;'>9</span><span>386
-#&gt; </span><span style='color: #BCBCBC;'>2</span><span>       </span><span style='text-decoration: underline;'>42</span><span>423       </span><span style='text-decoration: underline;'>18</span><span>786        </span><span style='text-decoration: underline;'>5</span><span>317         673        </span><span style='text-decoration: underline;'>7</span><span>644         </span><span style='text-decoration: underline;'>10</span><span>021
-#&gt; </span><span style='color: #BCBCBC;'>3</span><span>       </span><span style='text-decoration: underline;'>43</span><span>140       </span><span style='text-decoration: underline;'>19</span><span>422        </span><span style='text-decoration: underline;'>5</span><span>399         678        </span><span style='text-decoration: underline;'>7</span><span>887          </span><span style='text-decoration: underline;'>9</span><span>754
-#&gt; </span><span style='color: #BCBCBC;'>4</span><span>       </span><span style='text-decoration: underline;'>44</span><span>930       </span><span style='text-decoration: underline;'>20</span><span>045        </span><span style='text-decoration: underline;'>5</span><span>513         692        </span><span style='text-decoration: underline;'>8</span><span>065         </span><span style='text-decoration: underline;'>10</span><span>615
-#&gt; </span><span style='color: #BCBCBC;'>5</span><span>       </span><span style='text-decoration: underline;'>45</span><span>952       </span><span style='text-decoration: underline;'>20</span><span>773        </span><span style='text-decoration: underline;'>5</span><span>637         709        </span><span style='text-decoration: underline;'>8</span><span>307         </span><span style='text-decoration: underline;'>10</span><span>526
-#&gt; </span><span style='color: #BCBCBC;'>6</span><span>       </span><span style='text-decoration: underline;'>48</span><span>008       </span><span style='text-decoration: underline;'>21</span><span>638        </span><span style='text-decoration: underline;'>5</span><span>769         718        </span><span style='text-decoration: underline;'>8</span><span>531         </span><span style='text-decoration: underline;'>11</span><span>352
-#&gt; </span><span style='color: #949494;'># ... with 13 more variables: cases_ethnicity_hispanic &lt;dbl&gt;,</span><span>
-#&gt; </span><span style='color: #949494;'>#   cases_ethnicity_non_hispanic &lt;dbl&gt;, cases_ethnicity_unknown &lt;dbl&gt;,</span><span>
-#&gt; </span><span style='color: #949494;'>#   deaths_total &lt;dbl&gt;, deaths_white &lt;dbl&gt;, deaths_black &lt;dbl&gt;,</span><span>
-#&gt; </span><span style='color: #949494;'>#   deaths_asian &lt;dbl&gt;, deaths_other &lt;dbl&gt;, deaths_unknown &lt;dbl&gt;,</span><span>
-#&gt; </span><span style='color: #949494;'>#   deaths_ethnicity_hispanic &lt;dbl&gt;, deaths_ethnicity_non_hispanic &lt;dbl&gt;,</span><span>
-#&gt; </span><span style='color: #949494;'>#   deaths_ethnicity_unknown &lt;dbl&gt;, date &lt;date&gt;</span><span></div></span></pre>
+</div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 6 x 58</span><span>
+#&gt;   date       state cases_total cases_white cases_black cases_latin_x cases_asian
+#&gt;   </span><span style='color: #949494;font-style: italic;'>&lt;date&gt;</span><span>     </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>       </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>       </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>       </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>         </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>       </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>
+#&gt; </span><span style='color: #BCBCBC;'>1</span><span> 2020-06-17 IN          </span><span style='text-decoration: underline;'>41</span><span>013       </span><span style='text-decoration: underline;'>18</span><span>254        </span><span style='text-decoration: underline;'>5</span><span>234            </span><span style='color: #BB0000;'>NA</span><span>         650
+#&gt; </span><span style='color: #BCBCBC;'>2</span><span> 2020-06-21 IN          </span><span style='text-decoration: underline;'>42</span><span>423       </span><span style='text-decoration: underline;'>18</span><span>786        </span><span style='text-decoration: underline;'>5</span><span>317            </span><span style='color: #BB0000;'>NA</span><span>         673
+#&gt; </span><span style='color: #BCBCBC;'>3</span><span> 2020-06-24 IN          </span><span style='text-decoration: underline;'>43</span><span>140       </span><span style='text-decoration: underline;'>19</span><span>422        </span><span style='text-decoration: underline;'>5</span><span>399            </span><span style='color: #BB0000;'>NA</span><span>         678
+#&gt; </span><span style='color: #BCBCBC;'>4</span><span> 2020-06-28 IN          </span><span style='text-decoration: underline;'>44</span><span>930       </span><span style='text-decoration: underline;'>20</span><span>045        </span><span style='text-decoration: underline;'>5</span><span>513            </span><span style='color: #BB0000;'>NA</span><span>         692
+#&gt; </span><span style='color: #BCBCBC;'>5</span><span> 2020-07-01 IN          </span><span style='text-decoration: underline;'>45</span><span>952       </span><span style='text-decoration: underline;'>20</span><span>773        </span><span style='text-decoration: underline;'>5</span><span>637            </span><span style='color: #BB0000;'>NA</span><span>         709
+#&gt; </span><span style='color: #BCBCBC;'>6</span><span> 2020-07-05 IN          </span><span style='text-decoration: underline;'>48</span><span>008       </span><span style='text-decoration: underline;'>21</span><span>638        </span><span style='text-decoration: underline;'>5</span><span>769            </span><span style='color: #BB0000;'>NA</span><span>         718
+#&gt; </span><span style='color: #949494;'># ... with 51 more variables: cases_aian &lt;lgl&gt;, cases_nhpi &lt;lgl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   cases_multiracial &lt;lgl&gt;, cases_other &lt;dbl&gt;, cases_unknown &lt;dbl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   cases_ethnicity_hispanic &lt;dbl&gt;, cases_ethnicity_non_hispanic &lt;dbl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   cases_ethnicity_unknown &lt;dbl&gt;, deaths_total &lt;dbl&gt;, deaths_white &lt;dbl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   deaths_black &lt;dbl&gt;, deaths_latin_x &lt;dbl&gt;, deaths_asian &lt;dbl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   deaths_aian &lt;lgl&gt;, deaths_nhpi &lt;lgl&gt;, deaths_multiracial &lt;lgl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   deaths_other &lt;dbl&gt;, deaths_unknown &lt;dbl&gt;, deaths_ethnicity_hispanic &lt;dbl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   deaths_ethnicity_non_hispanic &lt;dbl&gt;, deaths_ethnicity_unknown &lt;dbl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   hosp_total &lt;lgl&gt;, hosp_white &lt;lgl&gt;, hosp_black &lt;lgl&gt;, hosp_latin_x &lt;lgl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   hosp_asian &lt;lgl&gt;, hosp_aian &lt;lgl&gt;, hosp_nhpi &lt;lgl&gt;, hosp_multiracial &lt;lgl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   hosp_other &lt;lgl&gt;, hosp_unknown &lt;lgl&gt;, hosp_ethnicity_hispanic &lt;lgl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   hosp_ethnicity_non_hispanic &lt;lgl&gt;, hosp_ethnicity_unknown &lt;lgl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   tests_total &lt;lgl&gt;, tests_white &lt;lgl&gt;, tests_black &lt;lgl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   tests_latin_x &lt;lgl&gt;, tests_asian &lt;lgl&gt;, tests_aian &lt;dbl&gt;, tests_nhpi &lt;dbl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   tests_multiracial &lt;dbl&gt;, tests_other &lt;lgl&gt;, tests_unknown &lt;lgl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   tests_ethnicity_hispanic &lt;lgl&gt;, tests_ethnicity_non_hispanic &lt;lgl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   tests_ethnicity_unknown &lt;dbl&gt;, cases_latinx &lt;lgl&gt;, deaths_latinx &lt;lgl&gt;,</span><span>
+#&gt; </span><span style='color: #949494;'>#   hosp_latinx &lt;lgl&gt;, tests_latinx &lt;dbl&gt;</span><span></div></span></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">

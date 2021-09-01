@@ -5,7 +5,7 @@
 \alias{illinois_tests_complete}
 \title{Historical Weekly COVID-19 Statistics and Counts for Illinois Counties}
 \format{
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 5665 rows and 10 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 5768 rows and 10 columns.
 }
 \usage{
 illinois_tests_complete
