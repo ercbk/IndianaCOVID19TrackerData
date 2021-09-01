@@ -378,14 +378,19 @@ Other variables:
 
 ```{r, asis=TRUE}
 
-hrt_var_defs <- c("Last day the data was updated for a particular hospital",
-                  "",
-                  "",
-                  "",
-                  "Proportion of the seven-day average of occupied ICU beds to the seven-day average of available ICU beds.",
-                  "",
-                  "Proportion of the seven-day average of occupied hospital beds to the seven-day average of available hospital beds.",
-                  "")
+num_end_dates <- hosp_react_tab %>% 
+  distinct(end_date) %>% 
+  summarize(num_dates = n()) %>% 
+  pull(num_dates)
+
+hrt_var_defs <- purrr::reduce(list(
+  "Last day the data was updated for a particular hospital",
+  rep("", num_end_dates), 
+  "Proportion of the seven-day average of occupied ICU beds to the seven-day average of available ICU beds.",
+  "",
+  "Proportion of the seven-day average of occupied hospital beds to the seven-day average of available hospital beds.",
+  ""
+), append)
 
 # table width responsive to length of var_defs text, so may not appear full.width
 # use show_header_names to get col names being used by tbl_summary
