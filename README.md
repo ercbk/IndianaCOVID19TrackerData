@@ -32,11 +32,13 @@ remotes::install_github("ercbk/indianacovid19data")
 ## File path to .csv format
 
 indianacovid19data has csv file types for all its datasets in the
-`inst/extdata` directory.
+`inst/extdata` directory of the github repository or they can be
+accessed by installing the package and using `path_to_file` to find the
+file path.
 
 ``` r
 path_to_file("hosp_msas_line.csv")
-#> [1] "C:/Users/ercbk/Documents/R/win-library/4.0/indianacovid19data/extdata/hosp_msas_line.csv"
+#> [1] "C:/Users/tbats/Documents/R/win-library/4.0/indianacovid19data/extdata/hosp_msas_line.csv"
 ```
 
 If the name argument is NULL, then a list of the available files in .csv
