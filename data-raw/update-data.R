@@ -252,10 +252,10 @@ if (any(ccast_tbl_tests$results)) {
 list2env(ccast_tbls, envir = .GlobalEnv)
 
 # save tbls as .rda and export to data dir, compression and version used by {usethis}
-walk(ccast_dat_names, ~~rio::export(.x,
-                                    paste0("data/", .x, ".rda"),
-                                    compress = "bzip2",
-                                    version = 2))
+walk(ccast_dat_names, ~rio::export(.x,
+                                   paste0("data/", .x, ".rda"),
+                                   compress = "bzip2",
+                                   version = 2))
 
 
 ## data/states/ ----
