@@ -5,7 +5,7 @@
 \alias{open_tab_reg}
 \title{OpenTable Year-Over-Year Seated Diners for Regional States}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 3384 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 3402 rows and 4 columns.
 }
 \usage{
 open_tab_reg

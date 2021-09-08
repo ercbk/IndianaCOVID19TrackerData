@@ -31,7 +31,7 @@ library(gtsummary)
 ### Description  
 Processed data for Demographics [heatmaps](https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html#cases-by-age) that shows a breakdown of weekly COVID-19 cases by age group.  
 
-### Dataset
+### Reference Entry
 [age_cases_heat](https://ercbk.github.io/indianacovid19data/reference/age_cases_heat.html)  
 
 ### Script  
@@ -88,7 +88,7 @@ tbl_summary(age_cases_heat,
 ### Description  
 Processed data for Demographics [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html#deaths-by-age) that shows counts and trends of weekly COVID-19 deaths by age group.  
 
-### Dataset
+### Reference Entry
 [age_death_line](https://ercbk.github.io/indianacovid19data/reference/age_death_line.html)  
 
 ### Script  
@@ -144,7 +144,7 @@ tbl_summary(age_death_line,
 ### Description  
 Raw data for the Hospitals [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#state-hospital-mortality-staffing-shortages-admissions) that shows daily COVID-19 hospital admissions by age group and gender.  
 
-### Dataset
+### Reference Entry
 [age_hosp_line](https://ercbk.github.io/indianacovid19data/reference/age_hosp_line.html)  
 
 
@@ -202,7 +202,7 @@ tbl_summary(age_hosp_line,
 ### Description  
 Raw data for the Static Charts [Hospitalizations, ICU Beds and Ventilator Availability](https://ercbk.github.io/Indiana-COVID-19-Website/static.html#Hospitalizations,_ICU_Beds_and_Ventilator_Availability) that shows resource counts of ICU beds and ventilators.  
 
-### Dataset
+### Reference Entry
 [beds_vents_complete](https://ercbk.github.io/indianacovid19data/reference/beds_vents_complete.html)  
 
 ### Script  
@@ -256,11 +256,11 @@ tbl_summary(beds_vents_complete,
 ### Description  
 Processed data for the Google Maps Mobility Indices [line chart](https://ercbk.github.io/Indiana-COVID-19-Website/static.html#Google_Maps_Mobility_Indices) that shows percent differences from a mobility baseline that was calculated during the 5-week period Jan 3 – Feb 6, 2020. These percent changes show how lengths-of-stay at different locations have changed from pre-pandemic conditions.  
 
-### Dataset
+### Reference Entry
 [goog_mob_ind](https://ercbk.github.io/indianacovid19data/reference/goog_mob_ind.html)  
 
 ### Script  
-Static-Charts: [goog-mob-line.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/static-charts/goog-mob-line.R)  
+Miscellaneous: [goog-mob-line.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/static-charts/goog-mob-line.R)  
 
 ### Raw Sources
 Google Mobility Reports: [website](https://www.google.com/covid19/mobility/)  
@@ -306,7 +306,7 @@ tbl_summary(goog_mob_ind,
 ### Description  
 Processed data for Hospitals [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#state-hospital-mortality-staffing-shortages-admissions) that shows state hospital staff shortages, hospital mortality rate, hospital admissions, and age skewness of hospital admissions towards older patients.  
 
-### Dataset
+### Reference Entry
 [hosp_msas_line](https://ercbk.github.io/indianacovid19data/reference/hosp_msas_line.html)  
 
 ### Script  
@@ -356,7 +356,7 @@ tbl_summary(hosp_msas_line,
 ### Description  
 Processed data for the Hospitals [Local Hospital Capacity table](https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#local-hospital-capacity) that shows capacity measures and counts of COVID-19 patients for hospitals at the local level.  
 
-### Dataset
+### Reference Entry
 [hosp_react_tab](https://ercbk.github.io/indianacovid19data/reference/hosp_react_tab.html)  
 
 ### Script  
@@ -419,7 +419,7 @@ tbl_summary(hosp_react_tab,
 ### Description  
 Raw data for Demographics [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html) that shows daily case and death counts by age group.  
 
-### Dataset
+### Reference Entry
 [ind_age_complete](https://ercbk.github.io/indianacovid19data/reference/ind_age_complete.html)  
 
 ### Script  
@@ -486,7 +486,7 @@ tbl_summary(ind_age_complete,
 ### Description  
 Raw data that shows daily case and death counts by race.  
 
-### Dataset
+### Reference Entry
 [ind_race_complete](https://ercbk.github.io/indianacovid19data/reference/ind_race_complete.html)  
 
 ### Script  
@@ -525,7 +525,7 @@ tbl_summary(ind_race_complete,
 ### Description  
 Processed data for the Demographics [bubble chart](https://ercbk.github.io/Indiana-COVID-19-Website/demographics.html#median-age-of-cases-tests-deaths) that shows the number of tests, number of deaths, and median age of the cases per week.  
 
-### Dataset
+### Reference Entry
 [median_age_bubble](https://ercbk.github.io/indianacovid19data/reference/median_age_bubble.html)  
 
 ### Script  
@@ -573,7 +573,7 @@ tbl_summary(median_age_bubble,
 ### Description  
 Raw data for the Hospitals [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/hospitals.html#state-hospital-mortality-staffing-shortages-admissions) that shows daily COVID-19 hospital admissions, hospital deaths, and hospital death rate.  
 
-### Dataset
+### Reference Entry
 [mort_hosp_line](https://ercbk.github.io/indianacovid19data/reference/mort_hosp_line.html)  
 
 ### Script  
@@ -621,7 +621,7 @@ tbl_summary(mort_hosp_line,
 ### Description  
 Processed data for the [Indiana COVIDcast Dashboard](https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard) that shows weekly positivity rate and daily cases per 100,000 residents per metropolitan statistical area.    
 
-### Dataset
+### Reference Entry
 [msa_cases100_posrate_historic](https://ercbk.github.io/indianacovid19data/reference/msa_cases100_posrate_historic.html)  
 
 ### Scripts  
@@ -678,7 +678,7 @@ tbl_summary(msa_cases100_posrate_historic,
 ### Description  
 Processed data for the [Indiana COVIDcast Dashboard](https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard) that shows historic daily values of Delphi Research Group's Combined Indicator for each methropolitan statistical area.    
 
-### Dataset
+### Reference Entry
 [dash_ci_line](https://ercbk.github.io/indianacovid19data/reference/dash_ci_line.html)  
 
 ### Scripts  
@@ -723,7 +723,7 @@ tbl_summary(dash_ci_line,
 ### Description  
 Raw data for the [Indiana COVIDcast Dashboard](https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard) that shows various weekly COVID-19 county statistics for Illinois    
 
-### Dataset
+### Reference Entry
 [illinois_tests_complete](https://ercbk.github.io/indianacovid19data/reference/illinois_tests_complete.html)  
 
 ### Scripts  
@@ -776,7 +776,7 @@ tbl_summary(illinois_tests_complete,
 ### Description  
 Raw data for the [Indiana COVIDcast Dashboard](https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard) that shows daily COVID-19 county test results for Indiana    
  
-### Dataset
+### Reference Entry
 [ind_tests_complete](https://ercbk.github.io/indianacovid19data/reference/ind_tests_complete.html)  
 
 ### Scripts  
@@ -821,7 +821,7 @@ tbl_summary(ind_tests_complete,
 ### Description  
 Raw data for the [Indiana COVIDcast Dashboard](https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard) that shows daily COVID-19 county test results for Michigan    
 
-### Dataset
+### Reference Entry
 [mich_tests_complete](https://ercbk.github.io/indianacovid19data/reference/mich_tests_complete.html)  
 
 ### Scripts  
@@ -867,11 +867,11 @@ tbl_summary(mich_tests_complete,
 ### Description  
 Processed data for the OpenTable Year-Over-Year Seated Diners [line charts](https://ercbk.github.io/Indiana-COVID-19-Website/static.html#OpenTable_Year-Over-Year_Seated_Diners_) that shows reservation data from a sample of restaurants across Indiana and other regional states. Each data point is the median daily percent difference in seated diners from 2019 to either 2020 or 2021 depending on the date.  
 
-### Dataset
+### Reference Entry
 [open_tab_reg](https://ercbk.github.io/indianacovid19data/reference/open_tab_reg.html)  
 
 ### Script  
-Static-Charts: [opentab-rest-line.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/static-charts/opentab-rest-line.R)  
+Miscellaneous: [opentab-rest-line.R](https://github.com/ercbk/Indiana-COVID-19-Tracker/blob/master/R/static-charts/opentab-rest-line.R)  
 
 ### Raw Sources
 OpenTable: [State of the Industry](https://www.opentable.com/state-of-industry)  
@@ -919,7 +919,7 @@ tbl_summary(open_tab_reg,
 ### Description  
 Raw data for the [Indiana COVIDcast Dashboard](https://ercbk.github.io/Indiana-COVIDcast-Dashboard/#dashboard) that shows daily COVID-19 county test results for Wisconsin    
 
-### Dataset
+### Reference Entry
 [wisc_tests_complete](https://ercbk.github.io/indianacovid19data/reference/wisc_tests_complete.html)  
 
 ### Scripts  
