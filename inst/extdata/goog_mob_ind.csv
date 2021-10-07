@@ -1781,3 +1781,9 @@ date,activity,index,weekend
 2021-09-30,Retail and Recreation,0.07,FALSE
 2021-09-30,Workplace,-0.155,FALSE
 2021-09-30,Residential,0.02,FALSE
+2021-10-01,Retail and Recreation,0.08,FALSE
+2021-10-01,Workplace,-0.165,FALSE
+2021-10-01,Residential,0.01,FALSE
+2021-10-02,Retail and Recreation,0.02,TRUE
+2021-10-02,Workplace,-0.12,TRUE
+2021-10-02,Residential,-0.01,TRUE
