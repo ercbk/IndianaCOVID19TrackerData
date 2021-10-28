@@ -1165,8 +1165,8 @@ Deaths: 13"
 Deaths: 3"
 2021-08-10,20 to 29,2,August 10,"August 10
 Deaths: 2"
-2021-08-10,0 to 19,0,August 10,"August 10
-Deaths: 0"
+2021-08-10,0 to 19,1,August 10,"August 10
+Deaths: 1"
 2021-08-17,60 to 69,21,August 17,"August 17
 Deaths: 21"
 2021-08-17,70 to 79,29,August 17,"August 17
@@ -1215,16 +1215,16 @@ Deaths: 14"
 Deaths: 0"
 2021-08-31,0 to 19,1,August 31,"August 31
 Deaths: 1"
-2021-09-07,60 to 69,51,September 07,"September 07
-Deaths: 51"
+2021-09-07,60 to 69,52,September 07,"September 07
+Deaths: 52"
 2021-09-07,70 to 79,56,September 07,"September 07
 Deaths: 56"
-2021-09-07,80 and older,56,September 07,"September 07
-Deaths: 56"
+2021-09-07,80 and older,57,September 07,"September 07
+Deaths: 57"
 2021-09-07,30 to 39,4,September 07,"September 07
 Deaths: 4"
-2021-09-07,50 to 59,35,September 07,"September 07
-Deaths: 35"
+2021-09-07,50 to 59,36,September 07,"September 07
+Deaths: 36"
 2021-09-07,40 to 49,25,September 07,"September 07
 Deaths: 25"
 2021-09-07,20 to 29,0,September 07,"September 07
@@ -1233,10 +1233,10 @@ Deaths: 0"
 Deaths: 1"
 2021-09-14,60 to 69,75,September 14,"September 14
 Deaths: 75"
-2021-09-14,70 to 79,83,September 14,"September 14
-Deaths: 83"
-2021-09-14,80 and older,74,September 14,"September 14
-Deaths: 74"
+2021-09-14,70 to 79,85,September 14,"September 14
+Deaths: 85"
+2021-09-14,80 and older,75,September 14,"September 14
+Deaths: 75"
 2021-09-14,30 to 39,6,September 14,"September 14
 Deaths: 6"
 2021-09-14,50 to 59,34,September 14,"September 14
@@ -1249,8 +1249,8 @@ Deaths: 3"
 Deaths: 3"
 2021-09-21,60 to 69,66,September 21,"September 21
 Deaths: 66"
-2021-09-21,70 to 79,56,September 21,"September 21
-Deaths: 56"
+2021-09-21,70 to 79,57,September 21,"September 21
+Deaths: 57"
 2021-09-21,80 and older,73,September 21,"September 21
 Deaths: 73"
 2021-09-21,30 to 39,4,September 21,"September 21
@@ -1263,12 +1263,12 @@ Deaths: 24"
 Deaths: 1"
 2021-09-21,0 to 19,1,September 21,"September 21
 Deaths: 1"
-2021-09-28,60 to 69,58,September 28,"September 28
-Deaths: 58"
-2021-09-28,70 to 79,89,September 28,"September 28
-Deaths: 89"
-2021-09-28,80 and older,79,September 28,"September 28
-Deaths: 79"
+2021-09-28,60 to 69,60,September 28,"September 28
+Deaths: 60"
+2021-09-28,70 to 79,91,September 28,"September 28
+Deaths: 91"
+2021-09-28,80 and older,82,September 28,"September 28
+Deaths: 82"
 2021-09-28,30 to 39,12,September 28,"September 28
 Deaths: 12"
 2021-09-28,50 to 59,43,September 28,"September 28
@@ -1279,12 +1279,12 @@ Deaths: 20"
 Deaths: 0"
 2021-09-28,0 to 19,1,September 28,"September 28
 Deaths: 1"
-2021-10-05,60 to 69,72,October 05,"October 05
-Deaths: 72"
-2021-10-05,70 to 79,56,October 05,"October 05
-Deaths: 56"
-2021-10-05,80 and older,67,October 05,"October 05
-Deaths: 67"
+2021-10-05,60 to 69,73,October 05,"October 05
+Deaths: 73"
+2021-10-05,70 to 79,57,October 05,"October 05
+Deaths: 57"
+2021-10-05,80 and older,69,October 05,"October 05
+Deaths: 69"
 2021-10-05,30 to 39,4,October 05,"October 05
 Deaths: 4"
 2021-10-05,50 to 59,36,October 05,"October 05
@@ -1297,33 +1297,49 @@ Deaths: 2"
 Deaths: 0"
 2021-10-12,60 to 69,49,October 12,"October 12
 Deaths: 49"
-2021-10-12,70 to 79,52,October 12,"October 12
-Deaths: 52"
-2021-10-12,80 and older,54,October 12,"October 12
-Deaths: 54"
+2021-10-12,70 to 79,53,October 12,"October 12
+Deaths: 53"
+2021-10-12,80 and older,55,October 12,"October 12
+Deaths: 55"
 2021-10-12,30 to 39,10,October 12,"October 12
 Deaths: 10"
-2021-10-12,50 to 59,29,October 12,"October 12
-Deaths: 29"
+2021-10-12,50 to 59,31,October 12,"October 12
+Deaths: 31"
 2021-10-12,40 to 49,14,October 12,"October 12
 Deaths: 14"
-2021-10-12,20 to 29,2,October 12,"October 12
-Deaths: 2"
+2021-10-12,20 to 29,3,October 12,"October 12
+Deaths: 3"
 2021-10-12,0 to 19,0,October 12,"October 12
 Deaths: 0"
-2021-10-19,60 to 69,49,October 19,"October 19
-Deaths: 49"
+2021-10-19,60 to 69,53,October 19,"October 19
+Deaths: 53"
 2021-10-19,70 to 79,39,October 19,"October 19
 Deaths: 39"
-2021-10-19,80 and older,49,October 19,"October 19
-Deaths: 49"
+2021-10-19,80 and older,59,October 19,"October 19
+Deaths: 59"
 2021-10-19,30 to 39,4,October 19,"October 19
 Deaths: 4"
-2021-10-19,50 to 59,20,October 19,"October 19
-Deaths: 20"
-2021-10-19,40 to 49,9,October 19,"October 19
-Deaths: 9"
+2021-10-19,50 to 59,22,October 19,"October 19
+Deaths: 22"
+2021-10-19,40 to 49,11,October 19,"October 19
+Deaths: 11"
 2021-10-19,20 to 29,0,October 19,"October 19
 Deaths: 0"
 2021-10-19,0 to 19,2,October 19,"October 19
 Deaths: 2"
+2021-10-26,60 to 69,36,October 26,"October 26
+Deaths: 36"
+2021-10-26,70 to 79,37,October 26,"October 26
+Deaths: 37"
+2021-10-26,80 and older,36,October 26,"October 26
+Deaths: 36"
+2021-10-26,30 to 39,4,October 26,"October 26
+Deaths: 4"
+2021-10-26,50 to 59,21,October 26,"October 26
+Deaths: 21"
+2021-10-26,40 to 49,8,October 26,"October 26
+Deaths: 8"
+2021-10-26,20 to 29,0,October 26,"October 26
+Deaths: 0"
+2021-10-26,0 to 19,0,October 26,"October 26
+Deaths: 0"
