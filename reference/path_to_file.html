@@ -153,24 +153,27 @@ directory. This function makes them easy to access.</p>
     <p>The csv file for <a href='hosp_react_tab.html'>hosp_react_tab</a> doesn't include the list columns.</p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='fu'>path_to_file</span><span class='op'>(</span><span class='op'>)</span>
-</div><div class='output co'>#&gt;  [1] "age_cases_heat.csv"                "age_death_line.csv"               
-#&gt;  [3] "age_hosp_line.csv"                 "beds_vents_complete.csv"          
-#&gt;  [5] "dash_ci_line.csv"                  "goog_mob_ind.csv"                 
-#&gt;  [7] "hosp_msas_line.csv"                "hosp_react_tab.csv"               
-#&gt;  [9] "illinois_tests_complete.csv"       "ind_age_complete.csv"             
-#&gt; [11] "ind_race_complete.csv"             "ind_tests_complete.csv"           
-#&gt; [13] "median_age_bubble.csv"             "mich_tests_complete.csv"          
-#&gt; [15] "mort_hosp_line.csv"                "msa_cases100_posrate_historic.csv"
-#&gt; [17] "open_tab_reg.csv"                  "wisc_tests_complete.csv"          </div><div class='input'><span class='fu'>path_to_file</span><span class='op'>(</span><span class='st'>"hosp_msas_line.csv"</span><span class='op'>)</span>
-</div><div class='output co'>#&gt; [1] "/home/runner/work/_temp/Library/indianacovid19data/extdata/hosp_msas_line.csv"</div><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/utils/read.table.html'>read.csv</a></span><span class='op'>(</span><span class='fu'>path_to_file</span><span class='op'>(</span><span class='st'>"hosp_msas_line.csv"</span><span class='op'>)</span><span class='op'>)</span><span class='op'>)</span>
-</div><div class='output co'>#&gt;     date roll_mean_staff_short_perc mean_mort_rate roll_mean_admiss  skewness
-#&gt; 1 Dec 08                  0.1767381      0.1276227         426.8571 0.8701146
-#&gt; 2 Dec 09                  0.1767381      0.1290756         392.4286 0.8597092
-#&gt; 3 Dec 10                  0.1793673      0.1301993         358.1429 0.8463110
-#&gt; 4 Dec 11                  0.1812771      0.1300213         345.8571 0.8493029
-#&gt; 5 Dec 12                  0.1802384      0.1281706         309.4286 0.8464296
-#&gt; 6 Dec 13                  0.1791996      0.1302980         361.4286 0.8361402</div></pre>
+    <pre class="examples"><span class='r-in'><span class='fu'>path_to_file</span><span class='op'>(</span><span class='op'>)</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>  [1] "age_cases_heat.csv"                "age_death_line.csv"               </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>  [3] "age_hosp_line.csv"                 "beds_vents_complete.csv"          </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>  [5] "dash_ci_line.csv"                  "goog_mob_ind.csv"                 </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>  [7] "hosp_msas_line.csv"                "hosp_react_tab.csv"               </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>  [9] "illinois_tests_complete.csv"       "ind_age_complete.csv"             </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> [11] "ind_race_complete.csv"             "ind_tests_complete.csv"           </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> [13] "median_age_bubble.csv"             "mich_tests_complete.csv"          </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> [15] "mort_hosp_line.csv"                "msa_cases100_posrate_historic.csv"</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> [17] "open_tab_reg.csv"                  "wisc_tests_complete.csv"          </span>
+<span class='r-in'><span class='fu'>path_to_file</span><span class='op'>(</span><span class='st'>"hosp_msas_line.csv"</span><span class='op'>)</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> [1] "/home/runner/work/_temp/Library/indianacovid19data/extdata/hosp_msas_line.csv"</span>
+<span class='r-in'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='fu'><a href='https://rdrr.io/r/utils/read.table.html'>read.csv</a></span><span class='op'>(</span><span class='fu'>path_to_file</span><span class='op'>(</span><span class='st'>"hosp_msas_line.csv"</span><span class='op'>)</span><span class='op'>)</span><span class='op'>)</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>     date roll_mean_staff_short_perc mean_mort_rate roll_mean_admiss  skewness</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> 1 Dec 08                  0.1767381      0.1276227         426.8571 0.8701146</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> 2 Dec 09                  0.1767381      0.1290756         392.4286 0.8597092</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> 3 Dec 10                  0.1793673      0.1301993         358.1429 0.8463110</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> 4 Dec 11                  0.1812771      0.1300213         345.8571 0.8493029</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> 5 Dec 12                  0.1802384      0.1281706         309.4286 0.8464296</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> 6 Dec 13                  0.1791996      0.1302980         361.4286 0.8361402</span>
+</pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">

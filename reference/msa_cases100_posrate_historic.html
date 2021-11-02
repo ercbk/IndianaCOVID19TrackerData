@@ -143,16 +143,17 @@
     <p>Data Dictionary <a href='https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#historical-weekly-positivity-rates-and-daily-cases-per-100-000-indiana-residents'>entry</a></p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>msa_cases100_posrate_historic</span><span class='op'>)</span>
-</div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 6 × 7</span>
-#&gt;   date       msa         geo_value cases_100k start_date pos_rate data_date 
-#&gt;   <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>           <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span>      <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span> <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>        <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span> <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>    
-#&gt; <span style='color: #BCBCBC;'>1</span> 2020-04-02 Bloomington     <span style='text-decoration: underline;'>14</span>020       2.95 <span style='color: #BB0000;'>NA</span>           <span style='color: #BB0000;'>NA</span>     2021-11-01
-#&gt; <span style='color: #BCBCBC;'>2</span> 2020-04-03 Bloomington     <span style='text-decoration: underline;'>14</span>020       3.38 <span style='color: #BB0000;'>NA</span>           <span style='color: #BB0000;'>NA</span>     2021-11-01
-#&gt; <span style='color: #BCBCBC;'>3</span> 2020-04-04 Bloomington     <span style='text-decoration: underline;'>14</span>020       2.95 2020-03-29    0.109 2021-11-01
-#&gt; <span style='color: #BCBCBC;'>4</span> 2020-04-05 Bloomington     <span style='text-decoration: underline;'>14</span>020       2.70 <span style='color: #BB0000;'>NA</span>           <span style='color: #BB0000;'>NA</span>     2021-11-01
-#&gt; <span style='color: #BCBCBC;'>5</span> 2020-04-06 Bloomington     <span style='text-decoration: underline;'>14</span>020       2.53 <span style='color: #BB0000;'>NA</span>           <span style='color: #BB0000;'>NA</span>     2021-11-01
-#&gt; <span style='color: #BCBCBC;'>6</span> 2020-04-07 Bloomington     <span style='text-decoration: underline;'>14</span>020       2.53 <span style='color: #BB0000;'>NA</span>           <span style='color: #BB0000;'>NA</span>     2021-11-01</div></pre>
+    <pre class="examples"><span class='r-in'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>msa_cases100_posrate_historic</span><span class='op'>)</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #949494;'># A tibble: 6 × 7</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>   date       msa         geo_value cases_100k start_date pos_rate data_date </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>   <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>           <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span>      <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span> <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>        <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span> <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>    </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>1</span> 2020-04-02 Bloomington     <span style='text-decoration: underline;'>14</span>020       2.95 <span style='color: #BB0000;'>NA</span>           <span style='color: #BB0000;'>NA</span>     2021-11-02</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>2</span> 2020-04-03 Bloomington     <span style='text-decoration: underline;'>14</span>020       3.38 <span style='color: #BB0000;'>NA</span>           <span style='color: #BB0000;'>NA</span>     2021-11-02</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>3</span> 2020-04-04 Bloomington     <span style='text-decoration: underline;'>14</span>020       2.95 2020-03-29    0.109 2021-11-02</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>4</span> 2020-04-05 Bloomington     <span style='text-decoration: underline;'>14</span>020       2.70 <span style='color: #BB0000;'>NA</span>           <span style='color: #BB0000;'>NA</span>     2021-11-02</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>5</span> 2020-04-06 Bloomington     <span style='text-decoration: underline;'>14</span>020       2.53 <span style='color: #BB0000;'>NA</span>           <span style='color: #BB0000;'>NA</span>     2021-11-02</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>6</span> 2020-04-07 Bloomington     <span style='text-decoration: underline;'>14</span>020       2.53 <span style='color: #BB0000;'>NA</span>           <span style='color: #BB0000;'>NA</span>     2021-11-02</span>
+</pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">

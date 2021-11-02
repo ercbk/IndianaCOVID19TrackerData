@@ -143,19 +143,20 @@
     <p>Data Dictionary <a href='https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#local-hospital-capacity-for-indiana-1'>entry</a></p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>hosp_react_tab</span><span class='op'>)</span>
-</div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 6 × 10</span>
-#&gt;   end_date   hospital_name     address    city_zip  county_name sev_day_icu_per…
-#&gt;   <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>             <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>      <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>                  <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span>
-#&gt; <span style='color: #BCBCBC;'>1</span> 2020-12-03 Indiana Spine Ho… 13219 N M… Carmel, … Hamilton                  <span style='color: #BB0000;'>NA</span>
-#&gt; <span style='color: #BCBCBC;'>2</span> 2021-10-14 Central Indiana … 2401 W Un… Muncie, … Delaware                  <span style='color: #BB0000;'>NA</span>
-#&gt; <span style='color: #BCBCBC;'>3</span> 2021-10-14 Kindred Hospital… 5454 Hohm… Hammond,… Lake                      <span style='color: #BB0000;'>NA</span>
-#&gt; <span style='color: #BCBCBC;'>4</span> 2021-10-21 Ascension St Vin… 301 Henry… North Ve… Jennings                  <span style='color: #BB0000;'>NA</span>
-#&gt; <span style='color: #BCBCBC;'>5</span> 2021-10-21 Cameron Memorial… 416 E Mau… Angola, … Steuben                   <span style='color: #BB0000;'>NA</span>
-#&gt; <span style='color: #BCBCBC;'>6</span> 2021-10-21 The Orthopedic H… 7952 W Je… Fort Way… Allen                     <span style='color: #BB0000;'>NA</span>
-#&gt; <span style='color: #949494;'># … with 4 more variables: sev_day_hosp_perc_occup &lt;dbl&gt;,</span>
-#&gt; <span style='color: #949494;'>#   avgCovIcuTenKList &lt;list&gt;, avgCovHospTenKList &lt;list&gt;,</span>
-#&gt; <span style='color: #949494;'>#   avgTotImpBedsList &lt;list&gt;</span></div></pre>
+    <pre class="examples"><span class='r-in'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>hosp_react_tab</span><span class='op'>)</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #949494;'># A tibble: 6 × 10</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>   end_date   hospital_name     address    city_zip  county_name sev_day_icu_per…</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>   <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>             <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>      <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>                  <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>1</span> 2020-12-03 Indiana Spine Ho… 13219 N M… Carmel, … Hamilton              <span style='color: #BB0000;'>NA</span>    </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>2</span> 2021-10-14 Kindred Hospital… 5454 Hohm… Hammond,… Lake                  <span style='color: #BB0000;'>NA</span>    </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>3</span> 2021-10-28 Ascension St Vin… 301 Henry… North Ve… Jennings              <span style='color: #BB0000;'>NA</span>    </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>4</span> 2021-10-28 Cameron Memorial… 416 E Mau… Angola, … Steuben               <span style='color: #BB0000;'>NA</span>    </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>5</span> 2021-10-28 Parkview Regiona… 11109 Par… Fort Way… Allen                  0.860</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>6</span> 2021-10-28 Parkview Noble H… 401 Sawye… Kendallv… Noble                  0.500</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #949494;'># … with 4 more variables: sev_day_hosp_perc_occup &lt;dbl&gt;,</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #949494;'>#   avgCovIcuTenKList &lt;list&gt;, avgCovHospTenKList &lt;list&gt;,</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #949494;'>#   avgTotImpBedsList &lt;list&gt;</span></span>
+</pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">

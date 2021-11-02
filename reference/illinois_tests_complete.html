@@ -143,19 +143,20 @@
     <p>Data Dictionary <a href='https://ercbk.github.io/indianacovid19data/articles/data-dictionary.html#historical-weekly-covid-19-statistics-and-counts-for-illinois-counties-1'>entry</a></p>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>illinois_tests_complete</span><span class='op'>)</span>
-</div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 6 × 10</span>
-#&gt;    week start_date end_date   County    `New Cases per 100,000` `Test Positivit…
-#&gt;   <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span> <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>                   <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>           
-#&gt; <span style='color: #BCBCBC;'>1</span>    26 2020-06-21 2020-06-27 Adams     43 per 100k             1.9% New Tests:…
-#&gt; <span style='color: #BCBCBC;'>2</span>    26 2020-06-21 2020-06-27 Alexander 2 Cases                 1.0% New Tests:…
-#&gt; <span style='color: #BCBCBC;'>3</span>    26 2020-06-21 2020-06-27 Bond      1 Cases                 0.0% New Tests:…
-#&gt; <span style='color: #BCBCBC;'>4</span>    26 2020-06-21 2020-06-27 Boone     43 per 100k             3.7% New Tests:…
-#&gt; <span style='color: #BCBCBC;'>5</span>    26 2020-06-21 2020-06-27 Brown     0 Cases                 0.0% New Tests:…
-#&gt; <span style='color: #BCBCBC;'>6</span>    26 2020-06-21 2020-06-27 Bureau    1 Cases                 0.0% New Tests:…
-#&gt; <span style='color: #949494;'># … with 4 more variables: (%) CLI ED Visits, Adults &lt;chr&gt;,</span>
-#&gt; <span style='color: #949494;'>#   Number of CLI Admissions &lt;chr&gt;, Number of Deaths &lt;dbl&gt;,</span>
-#&gt; <span style='color: #949494;'>#   ICU (%) Available &lt;chr&gt;</span></div></pre>
+    <pre class="examples"><span class='r-in'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>illinois_tests_complete</span><span class='op'>)</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #949494;'># A tibble: 6 × 10</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>    week start_date end_date   County    `New Cases per 100,000` `Test Positivit…</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>   <span style='color: #949494; font-style: italic;'>&lt;dbl&gt;</span> <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;date&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>     <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>                   <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>           </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>1</span>    26 2020-06-21 2020-06-27 Adams     43 per 100k             1.9% New Tests:…</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>2</span>    26 2020-06-21 2020-06-27 Alexander 2 Cases                 1.0% New Tests:…</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>3</span>    26 2020-06-21 2020-06-27 Bond      1 Cases                 0.0% New Tests:…</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>4</span>    26 2020-06-21 2020-06-27 Boone     43 per 100k             3.7% New Tests:…</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>5</span>    26 2020-06-21 2020-06-27 Brown     0 Cases                 0.0% New Tests:…</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>6</span>    26 2020-06-21 2020-06-27 Bureau    1 Cases                 0.0% New Tests:…</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #949494;'># … with 4 more variables: (%) CLI ED Visits, Adults &lt;chr&gt;,</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #949494;'>#   Number of CLI Admissions &lt;chr&gt;, Number of Deaths &lt;dbl&gt;,</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #949494;'>#   ICU (%) Available &lt;chr&gt;</span></span>
+</pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">
