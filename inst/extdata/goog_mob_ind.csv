@@ -1697,3 +1697,180 @@ date,activity,index,weekend
 2021-09-02,Retail and Recreation,0.09,FALSE
 2021-09-02,Workplace,-0.19,FALSE
 2021-09-02,Residential,0.03,FALSE
+2021-09-03,Retail and Recreation,0.08,FALSE
+2021-09-03,Workplace,-0.23,FALSE
+2021-09-03,Residential,0.02,FALSE
+2021-09-04,Retail and Recreation,-0.02,TRUE
+2021-09-04,Workplace,-0.21,TRUE
+2021-09-04,Residential,0.01,TRUE
+2021-09-05,Retail and Recreation,0.03,TRUE
+2021-09-05,Workplace,-0.2,TRUE
+2021-09-05,Residential,-0.02,TRUE
+2021-09-06,Retail and Recreation,0.025,FALSE
+2021-09-06,Workplace,-0.75,FALSE
+2021-09-06,Residential,0.17,FALSE
+2021-09-07,Retail and Recreation,0.06,FALSE
+2021-09-07,Workplace,-0.2,FALSE
+2021-09-07,Residential,0.04,FALSE
+2021-09-08,Retail and Recreation,0.07,FALSE
+2021-09-08,Workplace,-0.18,FALSE
+2021-09-08,Residential,0.03,FALSE
+2021-09-09,Retail and Recreation,0.06,FALSE
+2021-09-09,Workplace,-0.175,FALSE
+2021-09-09,Residential,0.03,FALSE
+2021-09-10,Retail and Recreation,0.015,FALSE
+2021-09-10,Workplace,-0.18,FALSE
+2021-09-10,Residential,0.02,FALSE
+2021-09-11,Retail and Recreation,0,TRUE
+2021-09-11,Workplace,-0.09,TRUE
+2021-09-11,Residential,-0.02,TRUE
+2021-09-12,Retail and Recreation,-0.005,TRUE
+2021-09-12,Workplace,-0.12,TRUE
+2021-09-12,Residential,0,TRUE
+2021-09-13,Retail and Recreation,0.025,FALSE
+2021-09-13,Workplace,-0.185,FALSE
+2021-09-13,Residential,0.03,FALSE
+2021-09-14,Retail and Recreation,0.06,FALSE
+2021-09-14,Workplace,-0.185,FALSE
+2021-09-14,Residential,0.03,FALSE
+2021-09-15,Retail and Recreation,0.13,FALSE
+2021-09-15,Workplace,-0.18,FALSE
+2021-09-15,Residential,0.03,FALSE
+2021-09-16,Retail and Recreation,0.09,FALSE
+2021-09-16,Workplace,-0.185,FALSE
+2021-09-16,Residential,0.025,FALSE
+2021-09-17,Retail and Recreation,0.05,FALSE
+2021-09-17,Workplace,-0.19,FALSE
+2021-09-17,Residential,0.02,FALSE
+2021-09-18,Retail and Recreation,0.03,TRUE
+2021-09-18,Workplace,-0.13,TRUE
+2021-09-18,Residential,-0.02,TRUE
+2021-09-19,Retail and Recreation,0.02,TRUE
+2021-09-19,Workplace,-0.135,TRUE
+2021-09-19,Residential,-0.01,TRUE
+2021-09-20,Retail and Recreation,0.03,FALSE
+2021-09-20,Workplace,-0.165,FALSE
+2021-09-20,Residential,0.045,FALSE
+2021-09-21,Retail and Recreation,0.025,FALSE
+2021-09-21,Workplace,-0.18,FALSE
+2021-09-21,Residential,0.04,FALSE
+2021-09-22,Retail and Recreation,0.01,FALSE
+2021-09-22,Workplace,-0.17,FALSE
+2021-09-22,Residential,0.05,FALSE
+2021-09-23,Retail and Recreation,0.06,FALSE
+2021-09-23,Workplace,-0.16,FALSE
+2021-09-23,Residential,0.03,FALSE
+2021-09-24,Retail and Recreation,0.03,FALSE
+2021-09-24,Workplace,-0.17,FALSE
+2021-09-24,Residential,0.02,FALSE
+2021-09-25,Retail and Recreation,0.01,TRUE
+2021-09-25,Workplace,-0.1,TRUE
+2021-09-25,Residential,-0.02,TRUE
+2021-09-26,Retail and Recreation,0.005,TRUE
+2021-09-26,Workplace,-0.105,TRUE
+2021-09-26,Residential,-0.01,TRUE
+2021-09-27,Retail and Recreation,0.04,FALSE
+2021-09-27,Workplace,-0.16,FALSE
+2021-09-27,Residential,0.03,FALSE
+2021-09-28,Retail and Recreation,0.04,FALSE
+2021-09-28,Workplace,-0.15,FALSE
+2021-09-28,Residential,0.02,FALSE
+2021-09-29,Retail and Recreation,0.05,FALSE
+2021-09-29,Workplace,-0.155,FALSE
+2021-09-29,Residential,0.02,FALSE
+2021-09-30,Retail and Recreation,0.07,FALSE
+2021-09-30,Workplace,-0.155,FALSE
+2021-09-30,Residential,0.02,FALSE
+2021-10-01,Retail and Recreation,0.08,FALSE
+2021-10-01,Workplace,-0.165,FALSE
+2021-10-01,Residential,0.01,FALSE
+2021-10-02,Retail and Recreation,0.02,TRUE
+2021-10-02,Workplace,-0.12,TRUE
+2021-10-02,Residential,-0.01,TRUE
+2021-10-03,Retail and Recreation,-0.02,TRUE
+2021-10-03,Workplace,-0.13,TRUE
+2021-10-03,Residential,0.01,TRUE
+2021-10-04,Retail and Recreation,0.05,FALSE
+2021-10-04,Workplace,-0.16,FALSE
+2021-10-04,Residential,0.03,FALSE
+2021-10-05,Retail and Recreation,0.05,FALSE
+2021-10-05,Workplace,-0.16,FALSE
+2021-10-05,Residential,0.03,FALSE
+2021-10-06,Retail and Recreation,0.05,FALSE
+2021-10-06,Workplace,-0.16,FALSE
+2021-10-06,Residential,0.03,FALSE
+2021-10-07,Retail and Recreation,0.055,FALSE
+2021-10-07,Workplace,-0.16,FALSE
+2021-10-07,Residential,0.03,FALSE
+2021-10-08,Retail and Recreation,0.03,FALSE
+2021-10-08,Workplace,-0.18,FALSE
+2021-10-08,Residential,0.02,FALSE
+2021-10-09,Retail and Recreation,-0.005,TRUE
+2021-10-09,Workplace,-0.125,TRUE
+2021-10-09,Residential,-0.02,TRUE
+2021-10-10,Retail and Recreation,0.01,TRUE
+2021-10-10,Workplace,-0.14,TRUE
+2021-10-10,Residential,-0.01,TRUE
+2021-10-11,Retail and Recreation,0.02,FALSE
+2021-10-11,Workplace,-0.21,FALSE
+2021-10-11,Residential,0.05,FALSE
+2021-10-12,Retail and Recreation,0.035,FALSE
+2021-10-12,Workplace,-0.185,FALSE
+2021-10-12,Residential,0.035,FALSE
+2021-10-13,Retail and Recreation,0.04,FALSE
+2021-10-13,Workplace,-0.19,FALSE
+2021-10-13,Residential,0.03,FALSE
+2021-10-14,Retail and Recreation,0.05,FALSE
+2021-10-14,Workplace,-0.19,FALSE
+2021-10-14,Residential,0.03,FALSE
+2021-10-15,Retail and Recreation,0.04,FALSE
+2021-10-15,Workplace,-0.215,FALSE
+2021-10-15,Residential,0.035,FALSE
+2021-10-16,Retail and Recreation,0.02,TRUE
+2021-10-16,Workplace,-0.15,TRUE
+2021-10-16,Residential,-0.02,TRUE
+2021-10-17,Retail and Recreation,0.02,TRUE
+2021-10-17,Workplace,-0.15,TRUE
+2021-10-17,Residential,-0.01,TRUE
+2021-10-18,Retail and Recreation,0.04,FALSE
+2021-10-18,Workplace,-0.2,FALSE
+2021-10-18,Residential,0.03,FALSE
+2021-10-19,Retail and Recreation,0.05,FALSE
+2021-10-19,Workplace,-0.17,FALSE
+2021-10-19,Residential,0.03,FALSE
+2021-10-20,Retail and Recreation,0.05,FALSE
+2021-10-20,Workplace,-0.185,FALSE
+2021-10-20,Residential,0.03,FALSE
+2021-10-21,Retail and Recreation,0.04,FALSE
+2021-10-21,Workplace,-0.18,FALSE
+2021-10-21,Residential,0.03,FALSE
+2021-10-22,Retail and Recreation,0.01,FALSE
+2021-10-22,Workplace,-0.19,FALSE
+2021-10-22,Residential,0.03,FALSE
+2021-10-23,Retail and Recreation,0.01,TRUE
+2021-10-23,Workplace,-0.125,TRUE
+2021-10-23,Residential,-0.02,TRUE
+2021-10-24,Retail and Recreation,-0.08,TRUE
+2021-10-24,Workplace,-0.15,TRUE
+2021-10-24,Residential,0.02,TRUE
+2021-10-25,Retail and Recreation,0,FALSE
+2021-10-25,Workplace,-0.17,FALSE
+2021-10-25,Residential,0.05,FALSE
+2021-10-26,Retail and Recreation,0.045,FALSE
+2021-10-26,Workplace,-0.15,FALSE
+2021-10-26,Residential,0.03,FALSE
+2021-10-27,Retail and Recreation,0.055,FALSE
+2021-10-27,Workplace,-0.145,FALSE
+2021-10-27,Residential,0.03,FALSE
+2021-10-28,Retail and Recreation,0.04,FALSE
+2021-10-28,Workplace,-0.14,FALSE
+2021-10-28,Residential,0.04,FALSE
+2021-10-29,Retail and Recreation,0.03,FALSE
+2021-10-29,Workplace,-0.16,FALSE
+2021-10-29,Residential,0.03,FALSE
+2021-10-30,Retail and Recreation,0.02,TRUE
+2021-10-30,Workplace,-0.13,TRUE
+2021-10-30,Residential,0,TRUE
+2021-10-31,Retail and Recreation,-0.02,TRUE
+2021-10-31,Workplace,-0.135,TRUE
+2021-10-31,Residential,0,TRUE
