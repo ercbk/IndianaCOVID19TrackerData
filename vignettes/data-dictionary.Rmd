@@ -734,6 +734,13 @@ Illinois Department of Public Health: [website](http://www.dph.illinois.gov/coun
 
 ### Notes  
 These data are published in weekly intervals into a HTML table then scraped and collected.  
+There are other missing data not shown in the table below. Illinois DPH changes/improves the format of their webpage from time to time, and I haven't been changing my scraping code to match in a timely manner. They do have a [data portal](https://dph.illinois.gov/covid19/data/data-portal.html) which has cases, tests, and deaths for each county, but not a historical dataset with exact fields as below. Here are weekly ranges that are missing:  
+2021-7-18 to 2021-7-24  
+2021-7-25 to 2021-7-31  
+2021-9-12 to 2021-9-18  
+2021-9-5 to 2021-9-11  
+2021-9-26 to 2021-10-9  
+2021-10-10 to 2021-10-16  
 
 Other variables:  
 - `week`: int; week of the year  
