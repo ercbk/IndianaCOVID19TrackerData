@@ -5,7 +5,7 @@
 \alias{wisc_tests_complete}
 \title{Historical Daily COVID-19 Test Results for Wisconsin Counties}
 \format{
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 38952 rows and 4 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 41472 rows and 4 columns.
 }
 \usage{
 wisc_tests_complete

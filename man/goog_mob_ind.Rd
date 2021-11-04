@@ -5,7 +5,7 @@
 \alias{goog_mob_ind}
 \title{Historical Google Maps Mobility Indices for Indiana}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 1698 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 1875 rows and 4 columns.
 }
 \usage{
 goog_mob_ind

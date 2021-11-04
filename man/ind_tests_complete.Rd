@@ -5,7 +5,7 @@
 \alias{ind_tests_complete}
 \title{Historical Daily COVID-19 Test Results for Indiana Counties}
 \format{
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 51060 rows and 4 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 56580 rows and 4 columns.
 }
 \usage{
 ind_tests_complete

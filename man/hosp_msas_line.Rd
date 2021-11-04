@@ -5,7 +5,7 @@
 \alias{hosp_msas_line}
 \title{Historical State Hospital Staff Shortages, Hospital Mortality Rate, Hospital Admissions and Ages Skewness of Admissions for Indiana}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 273 rows and 5 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 328 rows and 5 columns.
 }
 \usage{
 hosp_msas_line

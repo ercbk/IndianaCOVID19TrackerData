@@ -5,7 +5,7 @@
 \alias{age_cases_heat}
 \title{Historical Weekly COVID-19 Cases by Age for Indiana}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 608 rows and 6 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 680 rows and 6 columns.
 }
 \usage{
 age_cases_heat

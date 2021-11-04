@@ -5,7 +5,7 @@
 \alias{age_hosp_line}
 \title{Historical Daily COVID-19 Hospital Admissions by Age Group for Indiana}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 1962 rows and 5 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 2304 rows and 5 columns.
 }
 \usage{
 age_hosp_line

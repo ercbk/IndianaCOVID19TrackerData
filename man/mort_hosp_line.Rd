@@ -5,7 +5,7 @@
 \alias{mort_hosp_line}
 \title{Historical Daily Hospital Admissions and Deaths for Indiana}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 205 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 243 rows and 4 columns.
 }
 \usage{
 mort_hosp_line
