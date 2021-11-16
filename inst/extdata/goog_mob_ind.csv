@@ -1910,3 +1910,6 @@ date,activity,index,weekend
 2021-11-12,Retail and Recreation,0.01,FALSE
 2021-11-12,Workplace,-0.16,FALSE
 2021-11-12,Residential,0.04,FALSE
+2021-11-13,Retail and Recreation,0.02,TRUE
+2021-11-13,Workplace,-0.1,TRUE
+2021-11-13,Residential,0.01,TRUE
